@@ -1,0 +1,389 @@
+WEB RETRIEVAL EXTRACT — NOT AN ORIGINAL HTML DOWNLOAD
+Source: https://cloudtwelve.co.uk/member_terms_and_conditions/
+Captured: 2026-11-24
+Method: web.run text retrieval. The direct download failed; this is only the text exposed by the retrieval tool, which may be partial. The original HTML has not been archived. Consult the live source for full context.
+
+Member: Terms and Conditions - Cloud Twelve | Luxury Wellness Club & Spa in Notting Hill, London (https://cloudtwelve.co.uk/member_terms_and_conditions/)
+citeturn54view0 [wordlim: 200] Crawled: 5 days ago; Content type: text/html; Source: open({"ref_id":"https://cloudtwelve.co.uk/member_terms_and_conditions/","lineno":null}); Total lines: 560
+L0: 【0†iframe†www.googletagmanager.com】
+L1: 
+L2:   * 【1†Spa】 Close Spa Open Spa
+L3: 
+L4: ## 【2†Spa】
+L5: 
+L6: 【1†Explore all treatments】
+L7: 
+L8: ## 【3†Massages】
+L9: 
+L10:     * 【4†Signature Deep Relief Kloris Oil Massage】
+L11:     * 【5†Bespoke Massage】
+L12:     * 【6†Hot Stone Massage】
+L13:     * 【7†De-Stress Massage】
+L14:     * 【3†View All Massages】
+L15: 
+L16:     * 【4†Signature Deep Relief Kloris Oil Massage】
+L17:     * 【5†Bespoke Massage】
+L18:     * 【6†Hot Stone Massage】
+L19:     * 【7†De-Stress Massage】
+L20:     * 【3†View All Massages】
+L21: ## 【8†Facials】
+L22: 
+L23:     * 【9†Pregnancy Facial】
+L24:     * 【10†Bespoke: Hydrate Facial】
+L25:     * 【11†High Impact Facial】
+L26:     * 【12†Sublime Pro Lift Facial】
+L27:     * 【8†View All Facials】
+L28: 
+L29:     * 【9†Pregnancy Facial】
+L30:     * 【10†Bespoke: Hydrate Facial】
+L31:     * 【11†High Impact Facial】
+L32:     * 【12†Sublime Pro Lift Facial】
+L33:     * 【8†View All Facials】
+L34: ## 【13†Packages】
+L35: 
+L36:     * 【14†Day Spa Classic】
+L37:     * 【15†Mother & Daughter Spa Day】
+L38:     * 【16†Couples Retreat Classic】
+L39:     * 【13†View All Packages】
+L40: 
+L41:     * 【14†Day Spa Classic】
+L42:     * 【15†Mother & Daughter Spa Day】
+L43:     * 【16†Couples Retreat Classic】
+L44:     * 【13†View All Packages】
+L45: ## 【1†Spa】
+L46: 
+L47:     * 【3†Massages】
+L48:     * 【17†Head Spa】
+L49:     * 【8†Facials】
+L50:     * 【18†Gift Vouchers】
+L51:     * 【1†View All Treatments】
+L52: 
+L53:     * 【3†Massages】
+L54:     * 【17†Head Spa】
+L55:     * 【8†Facials】
+L56:     * 【18†Gift Vouchers】
+L57:     * 【1†View All Treatments】
+L58: 
+L59: ## 【17†Head Spa】
+L60: 
+L61: Named ‘Best Luxury Head Spa in London’
+L62: 
+L63:     * 【17†Explore Head Spa】
+L64: 
+L65:     * 【17†Explore Head Spa】
+L66: ## 【19†Spa Memberships】
+L67: 
+L68:     * 【20†Spa Membership】
+L69:     * 【21†Longevity Membership】
+L70:     * 【19†All Memberships】
+L71: 
+L72:     * 【20†Spa Membership】
+L73:     * 【21†Longevity Membership】
+L74:     * 【19†All Memberships】
+L75: 
+L76:   * 【2†Biohacking】
+L77: 
+L78:   * 【22†Wellness】
+L79: 
+L80:   * 【23†Kids & Families】 Close Kids & Families Open Kids & Families
+L81: 
+L82:     * 【23†Kids Club Membership】
+L83:     * 【24†Birthday Parties】
+L84: 
+L85:     * 【23†Kids Club Membership】
+L86:     * 【24†Birthday Parties】
+L87: 
+L88:   * 【25†Events】
+L89: 
+L90:   * 【26†Jenya Di Pierro】
+L91:   * 【19†Memberships】 Close Memberships Open Memberships
+L92: 
+L93:     * 【23†Kids Club Membership】
+L94:     * 【20†Spa Membership】
+L95:     * 【21†Longevity Membership】
+L96:     * 【19†Explore Memberships】
+L97: 
+L98:     * 【23†Kids Club Membership】
+L99:     * 【20†Spa Membership】
+L100:     * 【21†Longevity Membership】
+L101:     * 【19†Explore Memberships】
+L102: 
+L103:   * 【27†Gifts & Offers】
+L104: 
+L105:   * 【28†About】 Close About Open About
+L106: 
+L107:     * 【25†Events】
+L108:     * 【28†About Cloud Twelve】
+L109:     * 【27†Gift Vouchers】
+L110:     * 【23†Book a Tour】
+L111:     * 【29†News & Press】
+L112:     * 【30†Contact Us】
+L113:     * 【25†Events】
+L114:     * 【28†About Cloud Twelve】
+L115:     * 【27†Gift Vouchers】
+L116:     * 【23†Book a Tour】
+L117:     * 【29†News & Press】
+L118:     * 【30†Contact Us】
+L119: 
+L120:   * 【29†News】
+L121:   * 【31†Homepage】
+L122:   * 【1†Spa】
+L123:     * 【1†All Spa Treatments】
+L124:     * 【3†Massages】
+L125:     * 【8†Facials】
+L126:     * 【13†Packages】
+L127:     * 【32†Thermal Suite】
+L128:     * 【33†Head Spa】
+L129:     * 【19†Memberships】
+L130:   * 【2†Biohacking】
+L131:   * 【22†Wellness】
+L132:   * 【23†Kids & Families】
+L133:     * 【23†Kids Club Membership】
+L134:     * 【24†Birthday Parties】
+L135:   * 【26†Jenya Di Pierro】
+L136:   * 【19†Memberships】
+L137:     * 【23†Kids Club Membership】
+L138:     * 【20†Spa Membership】
+L139:     * 【21†Longevity Membership】
+L140:     * 【19†Explore Memberships】
+L141:   * 【27†Gifts & Offers】
+L142:   * 【29†News & Press】
+L143:   * 【25†Events】
+L144:   * 【28†About】
+L145:   * 【30†Contact】
+L146:   * 【31†Homepage】
+L147:   * 【1†Spa】
+L148:     * 【1†All Spa Treatments】
+L149:     * 【3†Massages】
+L150:     * 【8†Facials】
+L151:     * 【13†Packages】
+L152:     * 【32†Thermal Suite】
+L153:     * 【33†Head Spa】
+L154:     * 【19†Memberships】
+L155:   * 【2†Biohacking】
+L156:   * 【22†Wellness】
+L157:   * 【23†Kids & Families】
+L158:     * 【23†Kids Club Membership】
+L159:     * 【24†Birthday Parties】
+L160:   * 【26†Jenya Di Pierro】
+L161:   * 【19†Memberships】
+L162:     * 【23†Kids Club Membership】
+L163:     * 【20†Spa Membership】
+L164:     * 【21†Longevity Membership】
+L165:     * 【19†Explore Memberships】
+L166:   * 【27†Gifts & Offers】
+L167:   * 【29†News & Press】
+L168:   * 【25†Events】
+L169:   * 【28†About】
+L170:   * 【30†Contact】
+L171: # Membership Terms & Conditions
+L172: 
+L173: 1.1 We are delighted that you have chosen to join Cloud Twelve (as defined below), a one of a kind Wellness and Lifestyle club with an interactive play & learn zone for families with children, indulgent spa, luxury salon, nutritionally-focused brasserie and a holistic wellness clinic.
+L174: 1.2 These Terms and Conditions record the basis upon which Cloud Twelve Club Ltd, with company number 09767020 and registered office address at 2 – 5 Colville Mews, London, W11 2DA (“Cloud Twelve”), provides services.
+L175: 
+L176: 1.3 Your contract with Cloud Twelve is made up of the following:
+L177: 
+L178:   * (a) The Membership Sign Up Form;
+L179:   * (b) These Terms and Conditions; and
+L180:   * (c) The Club Rules;
+L181: and if there is any conflict or ambiguity between the terms of these documents, terms contained in the document higher in the list shall have priority over those contained in a document lower in the list.
+L182: 1.4 In respect of Family Space Memberships only, although it is always an adult that is a member of Cloud Twelve for legal reasons, these memberships entitle the Child named in the Membership Sign Up Form to access the Family Space and do not confer any benefit on the adult Member. As a result, one Family Space Membership is required per Child and should the adult Member in question wish to access the spa and wellness clinic within the Club, they should consider a Wellness Membership or pay per use.
+L183: ## Definitions And Interpretation
+L184: 
+L185: 2.1 The following definitions shall apply in these Terms and Conditions:
+L186: 
+L187: Authorised Adult(s): all adults (such as parents, grandparents, nannies) permitted to accompany a Child Member to, remain with a Child Member at, and collect a Child Member from, the Club, as named in the Membership Sign Up Form or as updated from time in time in accordance with clause 7.9 of these Terms and Conditions;
+L188: Child: a person between birth and 12 years of age, and the term “Children” shall be construed accordingly;
+L189: 
+L190: Child Member: A Child who is entitled to access the Club and the Family Space as a result of their Parent holding a Family Space Membership, and the term “Child Members” shall be construed accordingly;
+L191: Classes: classes for Child Members such as music, art and magic, or any other classes or activities provided by Cloud Twelve at the Club during the term of the Contract, excluding the Signature Classes;
+L192: 
+L193: Clinic Services: the services on offer at the wellness clinic within the Club including, but not limited to, naturopathic nutrition, herbal medicine, osteopathy, acupuncture, homeopathy, colonic irrigation, Cryo therapy and IV infusion;
+L194: Children Wellness Services: the services on offer at the Family Space within the Club including, but not limited to, Education psychology, Child psychology, Child psychotherapy, Mindfulness sessions, Lactation Counselling, Childbirth Education, Holistic sleep therapy, Pre and Post-natal fitness, Pre and Post-natal nutrition, child nutrition, parent coaching.
+L195: 
+L196: Cloud Twelve IPRs: all Intellectual Property Rights subsisting in the Services including, but not limited to, know-how and marketing materials;
+L197: Club: the club housing a spa, salon, wellness clinic, brasserie and Family Space, at 2 – 5 Colville Mews, London, W11 2DA;
+L198: 
+L199: Club Rules: Cloud Twelve’s club rules which can be found in the club rules booklet at the Club’s reception, as amended by notification to the Member from time to time;
+L200: 
+L201: Contract: the contract between the Member and Cloud Twelve for the supply of the Services consisting of the Membership Sign Up Form, the Club Rules and these Terms and Conditions;
+L202: Crèche Service: day care for Child Members aged birth to 7 years;
+L203: 
+L204: Data Protection Legislation: all applicable privacy and data protection legislation and regulations including the PECR, the GDPR and any applicable national laws, regulations and secondary legislation in England and Wales relating to the processing of personal data and the privacy of electronic communications, as amended, replaced or updated from time to time;
+L205: Family Space: the play and learn zone for families within the Club including a play zone, children’s café, parent lounge, crèche and space for children’s classes;
+L206: 
+L207: Family Space Membership: one of the memberships known as ‘Family Space Membership’ granting the Member and their Child access to the Family Space, such membership having the characteristics set out in the Memberships Booklet;
+L208: 
+L209: GDPR: the General Data Protection Regulation ((EU) 2016/679);
+L210: Intellectual Property Rights: patents, rights to inventions, copyright and related rights, moral rights, trade marks, business names and domain names, goodwill and the right to sue for passing off, rights in designs, rights in computer software, database rights, rights to use, and protect the confidentiality of, confidential information (including know-how and trade secrets) and all other intellectual property rights, in each case whether registered or unregistered and including all applications and rights to apply for and be granted, renewals or extensions of, and rights to claim priority from, such rights and all similar or equivalent rights or forms of protection which subsist or will subsist now or in the future in any part of the world;
+L211: Member: any person named as a Member in the Membership Sign Up Form and the term “membership” shall be construed accordingly;
+L212: 
+L213: Membership Fee: the fee payable by the Member to Cloud Twelve for the Services, as set out in the Membership Sign Up Form and/or the Memberships Booklet;
+L214: 
+L215: Membership Sign Up Form: the form titled ‘Membership Sign Up Form’, to which these Terms and Conditions are attached;
+L216: Membership Type: the type of membership of the Club selected by the Member showing in the Membership Sign Up Form, having the characteristics set out in the Memberships Booklet;
+L217: 
+L218: Member Personal Data: any Personal Data provided to Cloud Twelve by or on behalf of a Member;
+L219: 
+L220: Memberships Booklet: the document setting out the different types of membership available to Members of Cloud Twelve, and describing the Services and other benefits included within each one;
+L221: Opening Hours: the period between 9am and 7pm Tuesday to Saturday, and 9am to 6pm on Sundays, or such other periods as may vary from time to time following reasonable written notice to Members;
+L222: 
+L223: Parent: the individual legally responsible for a Child Member, being a parent or a legal guardian;
+L224: 
+L225: PECR: the Privacy and Electronic Communications (EC Directive) Regulations 2003 (SI 2426/2003);
+L226: 
+L227: Personal Data: has the meaning given to it in the Data Protection Legislation;
+L228: Services: access to the Club and, depending on the Membership Type, access to the Family Space and the provision of all or some of:
+L229: 
+L230:   * (a) the Crèche Service
+L231:   * (b) the Classes
+L232:   * (c) the Signature Classes
+L233:   * (d) the Treatments
+L234:   * (e) the Clinic Services
+L235: 
+L236: to be provided by Cloud Twelve to the Member;
+L237: Signature Classes: classes for Child Members including, but not limited to, ballet, baby yoga, mindfulness, baby raves and martial minds, in each case as available to Members at an extra charge, provided by Cloud Twelve at the Club during the term of the Contract;
+L238: 
+L239: Spa & Wellness Treatments Menu: the document setting out the different types of spa and wellness treatments available to Members and the cost of each such treatment, as such document is amended from time to time;
+L240: Staff: an employee, contractor, agent or officer of Cloud Twelve who is engaged in the provision of Services on behalf of Cloud Twelve;
+L241: 
+L242: Start Date: the day on which the Cloud Twelve is to start provision of the Services, as set out in the Membership Sign Up Form;
+L243: 
+L244: Terms and Conditions: these terms and conditions;
+L245: Treatments: the provision of hair salon services, manicures and pedicures, waxing, body treatments (including massages and scrubs), facials, and all other treatments included in the Spa & Wellness Treatments Menu.
+L246: 
+L247: 2.2 A reference to a statute or statutory provision is a reference to it as amended, extended or re-enacted from time to time. A reference to a statute or statutory provision includes any subordinate legislation made from time to time under that statute or statutory provision.
+L248: 2.3 In respect of the membership type ‘Catch me if you can’, the Parent Member acknowledges that one of the below conditions is applicable and true for the Child Member:
+L249: 
+L250:   * (a) Child is of dual nationality with residence overseas
+L251:   * (b) Home address of the Parent Member and Child Member is 40 miles outside of W11
+L252:   * (c) Child Member will spend six months or more outside of London
+L253: 2.4 Any words following the terms including, include, in particular, for example or any similar expression shall be construed as illustrative and shall not limit the sense of the words, description, definition, phrase or term preceding those terms.
+L254: 
+L255: 2.5 Unless the context otherwise requires, words in the singular shall include the plural and vice versa, and a reference to one gender shall include a reference to the other genders.
+L256: 2.6 Cloud Twelve may amend these Terms and Conditions or replace them with new terms at any time by giving the Member reasonable notice of the change in writing.
+L257: ## Right To Cancel
+L258: 3.1 If the Member is contracting as an individual acting as a consumer, the Member has 14 days from receipt of payment to change his or her mind and terminate this Contract by giving notice to Cloud Twelve in accordance with clause 3.2. Upon provision of such notice, this Contract will end immediately and Cloud Twelve will refund the Member in full for any Services which have not been provided, but have been paid for.
+L259: If the Member terminates within such 14 day cooling off period but after the Start Date and after consuming Services, the Member must pay for the Services provided up until the time he or she informs Cloud Twelve of termination.
+L260: 3.2 Should a Member wish to terminate this Contract for any reason in accordance with clause 3.1, the Member must inform Cloud Twelve by emailing them at 【34†[email protected]】 .
+L261: 
+L262: 3.3 Any refund of the Membership Fee shall be paid by the method the Member used for payment. However, Cloud Twelve may make deductions from the amount to be refunded in accordance with the terms of this Contract.
+L263: 3.4 If the Member is exercising the right to change his or her mind in accordance with clause 3.1, Cloud Twelve may deduct from any refund an amount for the supply of the Services for the period for which they were supplied, ending with the time the Member informed Cloud Twelve that he or she had changed his or her mind.
+L264: 
+L265: 3.5 Cloud Twelve shall refund the Member within 14 days from the day on which the Member tells Cloud Twelve that he or she wishes to terminate the Contract.
+L266: ## Commencement And Term
+L267: 
+L268: 4.1 This Contract shall commence on the Start Date, and shall continue unless terminated in accordance with clause 3 (Right to Cancel), clause 4.2, clause 10 (Member’s Right to Terminate this Contract) or clause 11 (Cloud Twelve’s Right to Terminate this Contract).
+L269: ### 4.2 Membership Renewal Terms
+L270: 
+L271: Membership shall commence on the Start Date and continue for a fixed term of 12 months (the “Initial Period”). At the end of the Initial Period, the Membership will automatically renew based on the selected payment method, unless the Member provides written notice in accordance with the applicable cancellation terms described below.
+L272: 
+L273: Direct Debit Members (Silver & Gold):
+L274: Members on a Direct Debit plan who complete the Initial Period will transition to a rolling monthly contract. From that point forward, the Membership may be cancelled at any time, provided the Member gives a minimum of three (3) months’ written notice.
+L275: 
+L276: Pre-paid Members (Silver & Gold):
+L277: Members who pay annually in advance will automatically enter a new 12-month term upon renewal. These Members must either commit to the full renewal term or switch to a rolling monthly Direct Debit plan at renewal time if they wish to benefit from flexible cancellation.
+L278: 
+L279: Pre-paid Members (Bronze):
+L280: Bronze Members must pre-pay for the initial 12-month term on joining and commit to a full 12-month term at each renewal. Bronze Members are not eligible to pay via Direct Debit instalment plans and therefore cannot switch to Direct Debit at renewal.
+L281: ### 4.3 Payment Options & Direct Debit Authorization
+L282: 
+L283: Members may pay their Membership Fee by one of the following methods:
+L284: 
+L285:   * (a) Full Payment Option – paid in full at the start of the Initial Period or Renewal Period;
+L286:   * (b) Instalment Option – paid in 12 monthly instalments via Direct Debit using Cloud Twelve’s payment provider, GoCardless;
+L287:   * (c) Other Agreed Method – subject to prior written agreement with Cloud Twelve.
+L288: Where the Instalment Option is selected, the Member consents to ongoing Direct Debit collection under a continuous payment mandate, including any rolling renewal periods unless terminated in accordance with this Agreement.
+L289: 
+L290: Members on a Direct Debit plan may cancel at any time after completing the Initial Period, subject to three (3) months’ written notice.
+L291: Members on the Full Payment Option will commit to a full 12-month term with each renewal, unless they choose to switch to Direct Debit at the time of renewal.
+L292: 
+L293: Cancellation of a Direct Debit mandate does not constitute cancellation of Membership and does not remove the Member’s financial obligations under this Agreement.
+L294: ## Supply Of Services
+L295: 
+L296: 5.1 Cloud Twelve shall supply the Services to the Member during the Opening Hours from the Start Date, in accordance with the Contract. For the avoidance of doubt, only those Services which are included within the Member’s chosen Membership Type shall be provided.
+L297: 
+L298: 5.2 Cloud Twelve reserves the right at its absolute discretion to refuse any application for membership of the Club.
+L299: 
+L300: 5.3 Cloud Twelve shall:
+L301:   * (a) perform the Services with reasonable care and skill;
+L302:   * (b) use reasonable endeavours to:
+L303:   * (i) perform the Services in accordance with the terms of the Contract;
+L304:     * (ii) ensure that only Members with a Family Space Membership, Child Members, Children, Authorised Adult(s) or guests of a Member with Family Space Membership have access to the Family Space;
+L305:     * (iii) ensure that the Staff engaged in the provision of the Services are adequately qualified and, in particular, that the Staff engaged in the provision of the Crèche Service, the Classes and the Signature Classes have received the required training and have a valid, up to date Disclosure and Barring Service check (or equivalent in their country of origin);
+L306:     * (iv) ensure that the Staff engaged in the provision of Services are suitably trained;
+L307:   * (c) comply with all applicable laws, statutes and regulations from time to time in force with regard to the provision of the Services, provided that Cloud Twelve shall not be liable under this Contract if, as a result of such compliance, it is in breach of any of its obligations under this Contract.
+L308: 5.4 Other than as set out at clause 5.3, Cloud Twelve does not warrant that any of its Staff will be registered with a professional body (unless they are required to register under any applicable law or regulation). For the avoidance of doubt, no Staff will, in the course of the provision of the Services, be acting in the capacity of a medical practitioner undertaking
+L309: 
+L310: the practice of medicine or otherwise providing medical advice for which a General Medical Council licence to practice is required.
+L311: 5.5 Please refer to the Memberships Booklet for the number of guests permitted for each Membership Type. Some Membership Types include guest passes and other Membership Types may allow the purchase of guest passes at an additional cost. A Child Member may be accompanied in the Club by a maximum of four adults (including guests) at any one time. A Member may only bring the same guest on four occasions within any 12 month membership period.
+L312: The Member must be at the Club at all times during their guest’s visit, and each such guest must register on arrival. Child guests are welcome to join a Class or Signature Class, if a class is not full, for a fee (details of which are available from the Club’s reception team or online at 【35†https://www.cloudtwelve.co.uk/family-space.†www.cloudtwelve.co.uk】
+L313: 5.6 All Treatments and Clinic Services are subject to availability and all prices for the same are subject to revision.
+L314: 
+L315: 5.7 In the event of cancellation of a Treatment or Clinic Service, twenty four hours’ notice is required to avoid being charged for said appointment. Cancellations should be made by telephoning the Club on 020 3301 1012. Cancellations made within 24 hours will be charged at full price.
+L316: 5.8 Cloud Twelve accepts no responsibility for the safety of money or other valuables brought into the Club.
+L317: ## Delay In The Provision Of The Services
+L318: 6.1 If the supply of the Services is delayed by an event outside Cloud Twelve’s reasonable control (a “Force Majeure Event”) then Cloud Twelve will contact the Member as soon as possible to let the Member know and Cloud Twelve will take steps to minimise the effect of the delay.
+L319: Provided Cloud Twelve does this, it will not be liable for delays caused by the Force Majeure Event, but if the Force Majeure Event continues for more than one month, the Member may terminate the Contract with immediate effect by giving notice in writing (which includes email) of this intention to Cloud Twelve.
+L320: 6.2 In the event that membership is terminated as a result of a Force Majeure Event, Cloud Twelve will provide the Member with a pro rata refund of the Membership Fee for any Services the Client has paid for in advance but not received.
+L321: ## Member’S Obligations
+L322: 
+L323: 7.1 The Member shall:
+L324: 
+L325:   * (a) register upon arrival at the Club on each visit to the Club;
+L326:   * (b) co-operate with Cloud Twelve in all matters relating to the Services;
+L327:   * (c) read and abide by all Club Rules;
+L328:   * (d) provide, in a timely manner, such information as Cloud Twelve may reasonably
+L329: 
+L330: require to allow it to provide the Services, and ensure that such information is accurate and complete in all material respects;
+L331:   * (e) when making a reservation, advise Cloud Twelve of any health conditions, allergies or injuries that could be relevant to the provision of any Treatment or Clinic Service;
+L332:   * (f) in advance of being provided with any Treatment or Clinic Service, and when requested to do so by a member of Staff, complete a health form and medical disclaimer;
+L333:   * (g) respect that the spa within the Club is mobile phone, laptop, pager, camera (or any similar devices) free zone;
+L334:   * (h) not consume at the Club any food or beverages which have not been purchased at the Club, other than baby milk, and baby formula;
+L335:   * (i) be respectful of Cloud Twelve’s neighbours when entering and leaving the Club, including (but not limited to) entering and leaving the Club quietly, keeping children under control at all times and not causing congestion by waiting or having someone wait in a car in the vicinity of the Club; and
+L336:   * (j) not drive (and procure that any Authorised Adults or guests do not drive) into Colville Mews.
+L337: 7.2 In respect of a Family Space Membership, the Member agrees to:
+L338:   * (a) provide to Cloud Twelve the names of all Authorised Adult(s) on or before the Start Date;
+L339:   * (b) ensure that he and/or the Authorised Adult(s) registers on arrival at the Club on each visit to the Club;
+L340:   * (c) ensure that he, or an Authorised Adult, accompanies a Child Member:
+L341:   * (i) under the age of 7 at all times other than for the period of time that such Child Member is partaking in the Crèche Service; and
+L342:     * (ii) aged 7 or over at all times other than for the period of time that such Child Member is partaking in a Class or Signature Class;
+L343:   * (d) ensure that Staff are aware that a Child Member is participating in a Class or Signature Class;
+L344:   * (e) complete on or before the Start Date, and keep up to date, Cloud Twelve’s ‘I am growing’ form and detail within said form any allergies, illnesses or specific requirements relating to the health and care of a Child Member and how those requirements should be met;
+L345:   * (f) when using the Crèche Service, inform the appropriate Staff of any medication the Child Member has received within the preceding 24 hour period;
+L346:   * (g) ensure that a Child Member is collected from a Class, a Signature Class or the Crèche Service should the Child Member become ill, should there be an emergency or in any other circumstances in which a member of Staff telephones such Member or Authorised Adult(s), as soon as possible after receiving the call from Cloud Twelve and in any event no later than within an hour of receiving said call;
+L347:   * (h) be available, or to ensure that an Authorised Adult is available, on the premises of the Club at all times during which a Child Member is within the Family Space or the Club.
+L348: 7.3 Each Member holding a Family Space Membership acknowledges and agrees that the facilities provided by Cloud Twelve are safe and suitable for the Child Member and that the Staff involved in the provision of Services within the Family Space will not administer medication.
+L349: 7.4 Classes are included in all Family Space Memberships. Signature Classes are available at an additional cost, details of which are available from the Club’s reception team or online at 【35†https://www.cloudtwelve.co.uk/family-space.†www.cloudtwelve.co.uk】 The size of Classes and Signature Classes is limited and varies between 6 and 8 Children. Members are permitted to pre-book such classes, which will be allocated on a first come, first serve basis.
+L350: 7.5 Classes and Signature Classes are designed specifically for set age groups and Members should take note of the age group of the Class or Signature Class when booking.
+L351: 
+L352: 7.6 Children under the age of 7 must be accompanied by a Parent Member or Authorised Adult at all times (including during Classes or Signature Classes) other than for the period of time that such Child Member is partaking in the Crèche Service.
+L353: 7.7 During such period as the Child Member (or Child guests of the same) uses the Family Space, including any time during which a Child is involved in a Class or Signature Class (other than those under the age of 7 which must be accompanied at all times in classes in accordance with clause 7.6), a Parent Member or Authorised Adult must remain within the Family Space at all times.
+L354: The exception to this is in respect of any Child Member partaking in the Crèche Service, in which case, the Parent Member or Authorised Adult must remain within the Club.
+L355: 7.8 The Crèche Service is included in all Family Space Memberships (with the exact number of hours included varying depending on the Membership Type), with additional hours of Crèche Service being available to purchase at an additional cost. The Crèche Service is available for two consecutive hours per single crèche session. A Parent Member or Authorised Adult must remain at the Club through the session at all times and must collect the Child Member at the conclusion of said session.
+L356: 7.9 Cloud Twelve will only allow a Child Member to leave the Club if accompanied by a Parent Member or Authorised Adult. The details of the Authorised Adult(s) of the Child Member may be updated at any time upon notification to Cloud Twelve in writing (which shall include email) from the relevant Member.
+L357: 7.10 Cloud Twelve will charge a Child Member an entry fee to ticketed events in the Family Space. Members will be notified of ticketed events through the weekly class schedule, distributed via email, and placed on the parents notive board in the Family Space.
+L358: 7.11 Cloud Twelve reserves the right to host birthday parties for both Child Members and non-Members under the age of 7 years within the Family Space, for a maximum of 10 hours a month. Members will be notified via email, and placed on the parents notice board in the Family Space. Birthday parties are held for a minimum of 1 hour and will not exceed 3 hours.
+L359: 7.12 Members are not permitted to host birthday parties or private events independently. All parties and events must be organized and approved by Cloud Twelve.
+L360: ## Intellectual Property
+L361: 
+L362: 8.1 Cloud Twelve and its licensors shall retain ownership of all Cloud Twelve IPRs.
+L363: ## Charges And Payment
+L364: 
+L365: 9.1 In consideration for the provision of the Services, the Member shall pay Cloud Twelve the Membership Fee in accordance with this clause 9. The Membership Fee is inclusive of VAT.
+L366: 9.2 Subject to clause 10, the Membership Fee shall be payable on or in advance of the Start Date or the anniversary of the Start Date (as applicable) or in four quarterly instalments, only applicable for total amounts of £3,000 or greater, with the first instalment to be paid on or before the Start Date or the anniversary of the Start Date (as applicable) and each subsequent payment being made every three months thereafter by direct debit until the Membership Fee has been paid in full.
+L367: Quarterly Direct Debit instructions will incur a 4% administration charge on each quarterly payment.
+L368: Subject to clause 10, the Membership Fee shall be payable either:
+L369: 
+L370:   * (a) in full before the Start Date or the Renewal Date (as applicable); or
+L371:   * (b) in 12 equal monthly instalments by Direct Debit; or
+L372:   * (c) by an alternative method approved by Cloud Twelve.
+L373: 
+L374: Monthly Direct Debit mandates shall remain active through any rolling renewal period unless terminated in writing with three (3) months’ notice following the Initial Period
+L375: 9.3 If the Member fails to make any payment due to Cloud Twelve under the Contract by the due date for payment, then, without limiting Cloud Twelve’s remedies under clauses 10 and 11 (Termination):
+L376:   * (a) the Member shall pay interest on the overdue sum from the due date until payment of the overdue sum, whether before or after judgment. Interest under this clause will accrue each day at 4% a year above the Bank of England’s base rate from time to time, but at 4% a year for any period when that base rate is below 0%; and
+L377:   * (b) Cloud Twelve may suspend all Services until payment has been made in full.
+L378: 9.4 All amounts due under the Contract from the Member to Cloud Twelve shall be paid in full without any set-off, counterclaim, deduction or withholding (other than any deduction or withholding of tax as required by law).
+L379: 9.5 In the event that a Signature Class, Treatment or Clinic Service is cancelled by Cloud Twelve, Cloud Twelve shall provide an alternative Signature Class, Treatment or Clinic Service or provide a refund of any fees in respect of said Signature Class, Treatment or Clinic Service paid by the Member.
+
+

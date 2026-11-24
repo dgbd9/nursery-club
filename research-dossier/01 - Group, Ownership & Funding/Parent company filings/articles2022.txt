@@ -1,0 +1,1922 @@
+SEARCH AID: OCR may contain errors; verify against original PDF.
+
+PAGE 1
+COMPANY NUMBER 12926635
+
+COMPANIES ACT 2006
+
+A PRIVATE COMPANY LIMITED BY SHARES
+
+ARTICLES OF ASSOCIATION
+THE LITTLE HOUSES GROUP LIMITED
+
+Adopted by Written Resolution passed on 2 December 2022
+
+PAGE 2
+THE COMPANIES ACT 2006
+
+A PRIVATE COMPANY LIMITED BY SHARES
+
+ARTICLES OF ASSOCIATION
+
+of
+
+THE LITTLE HOUSES GROUP LIMITED
+
+(adopted by Written Resolution passed on 2 December 2022}
+
+12
+
+1.2
+
+21
+
+INTRODUCTION
+
+The articles contained in the Model Articles apart from Articles 5 (Directors may delegate), 6
+{Committees}, 7 (Directors to take decisions collectively), 8 (Unanimous decisions), 10{1) and (2)
+(Participation in directors’ meetings), 11{2) and (3) (Quorum for directors’ meeting), 12 (Chairing
+of directors’ meetings), 13 (Casting vote), 14 (Conflicts of interest), 17 (Methods of appointing
+directors), 19 (Directors Remuneration), 21 (All shares to be fully paid up), 22 (Powers to issue
+different classes of shares), 26(5) (Share transfers), 41 (Adjournment), 42 (Voting), 44(4} (Poll
+Votes), 49(3) and (4} (Company Seal), 50 (No right to inspect accounts and other records}, 52
+(Indemnity) and 53 (Insurance) shall apply to the Company except insofar as they are inconsistent
+with the following Articles.
+
+In these Articles and the Madel Articles any reference to any statutory provision shall be deemed
+to include a reference to each and every statutory amendment, modification, re-enactment and
+
+extension thereof for the time being in force.
+
+DEFINITIONS
+
+In these Articles the following words and expressions shall have the following meanings:
+
+“Acceptance Period”
+
+“Adoption Date”
+
+“A Ordinary Shares”
+
+“A Ordinary
+Shareholders”
+
+“Arrears”
+
+“Asset Sale”
+
+the period during which an offer made under Article 14.7 is
+open for acceptance;
+
+the cate of adoption of these Articles;
+
+the A ordinary shares of £0.00125 each in the capital of the
+Company and having the rights ascribed thereto as set out in
+these Articles;
+
+the holders for the time being of the issued A
+Ordinary Shares;
+
+means in relation to any Share, all arrears of any dividend or
+other sums payable in respect of that Share, whether or not
+earned or declared and irrespective of whether or not the
+Company has had at any time sufficient Available Profits to
+pay such dividend or sums, together with all interest and
+other amounts payable on that Share;
+
+the disposal by the Company of all or substantially all of its
+
+PAGE 3
+“Available Profits”
+
+“Buditors”
+
+“Bad Leaver’
+
+“Beneficial Owner”
+
+“Board”
+
+“Business Day”
+
+“CA 2006”
+
+“company”
+
+“Company”
+
+“Conflict Situation”
+
+“Connected”
+
+“Deed of Adherence”
+
+“the Directors”
+
+“the Drag Along Price”
+
+“the Drag Along Right”
+
+“Eligible Shareholders”
+
+undertaking and assets;
+
+profits available for distribution within the meaning of part 23
+of the CA 2006;
+
+the auditors for the time being of the Company or such other
+firm of chartered accountants appainted in accordance with
+Article 14.4;
+
+any person (including the Founder) who was but has now
+ceased to be an Employee at any time and who is not a Good
+Leaver or a Very Bad Leaver;
+
+as defined in Article 13.3;
+the board of Directors of the Company;
+
+a day (other than a Saturday or Sunday or bank holiday) on
+which the clearing banks in the city of London are open for
+business;
+
+the Companies Act 2006 and every statutory modification or
+re-enactment thereof for the time being in force;
+
+includes any body corporate;
+
+The Little Houses Group Limited, a private limited company
+incorporated in England and Wales with registered number
+12926635;
+
+any situation or matter (other than one which cannot
+reasonably be regarded as likely to give rise to a conflict of
+interest) in which any director has, or can have, a direct or
+indirect interest that conflicts, or possibly may conflict with
+the interests af the Company including (without limitation)
+any such situation or matter which relates to the exploitation
+of any property, information or opportunity (irrespective of
+whether the Company could take advantage of the property,
+information or opportunity);
+
+as defined by section 1122 of the Corporation Tax Act 2010;
+
+a deed of adherence to the terms of the Investment
+Agreement in such form as may be reasonably approved by
+the Board;
+
+the directors for the time being of the Company or {as the
+context shall require) any of them (each a “Director”) acting
+as the Board of the Company;
+
+as defined in Article 19.1;
+as defined in Article 19.1;
+
+as defined in Article 18.1.1;
+
+2
+
+PAGE 4
+“Employee”
+
+“Employee Member”
+
+“Employee Options”
+
+“Employee Trust”
+
+“Equity Shares”
+
+“Excess Shares”
+
+“Excluded Person”
+
+“Exit”
+
+“Family Member”
+
+“Family Trusts”
+
+“EMV”
+
+an individual (not including the Investor Directror for the
+avoidance of doubt and not including the Founder) who is
+employed by or who provides consultancy or similar services
+to the Company or any member of the Group;
+
+any Employee (other than the Founder) who is a Shareholder;
+
+options granted over up to 20% of the Ordinary and/or A
+Ordinary Shares in issue as at the Adoption Date (or such
+greater number or percentage as the Investor may in its
+absolute discretion approve} to Employees from time to time,
+as approved under an employee share option scheme as
+approved by the Investor Director or approved by the Board
+with Investor Consent;
+
+a trust approved by the Board with the approval of the Imbiba
+Director and whose beneficiaries are bona fide Employees;
+
+the Preferred Shares, the A Ordinary Shares and the Ordinary
+Shares;
+
+as defined in Article 14,10,1;
+
+(i) any Shareholder (or other person entitled to a Share in
+the manner set out in Article 15.1) whom the Directors
+are entitled under Article 13.5, Article 15.1 or Article 17
+to require to give a Transfer Notice (but only
+throughout such time as the Directors are entitled to
+require him to give a Transfer Notice};
+
+(ii) | any Shareholder or other person who has been
+required to give a Transfer Notice under Article 13.5,
+Article 15.1 or Article 17 (whether or not that
+requirement has been complied with);
+
+a Sale or an Asset Sale;
+
+in relation to any person or deceased person, such person’s
+spouse or civil partner and parents and every child and
+remoter descendant of such person (including stepchildren
+and adopted children);
+
+in relation to any person or deceased person means trusts
+under which no immediate beneficial interest in any of the
+Shares in question is for the time being vested in any person
+other than that person and/or a Family Member of that
+person. For these purposes a person shall be deemed to be
+beneficially interested in a Share if that Share or the income
+derived from it is or may become liable to be transferred or
+paid or applied or appointed to or for the benefit of that
+person;
+
+fair market value as agreed between the Employee Member
+and the Directors (acting with the consent of the Imbiba
+
+PAGE 5
+“Founder”
+“Founder Director”
+
+“Founder Consent”
+
+“Good Leaver”
+
+“Group”
+
+“group company”
+
+“Imbiba Director”
+“Imbiba Manager”
+
+“Investment Agreement”
+
+Director) or as determined in accordance with Article 14.5;
+Charles Robert Gardiner;
+as defined in Article 24.2
+
+the prior written consent of the Founder;
+
+any person who
+ceases to be an Employee where:
+
+(i) he has not been dismissed by reason of
+Summary Dismissal; or
+
+(ii) he has ceased to be an employee, director or
+consultant of any Group Company by virtue of
+his Resignation {other than where there is a
+constructive dismissal); or
+
+{iii} he has been wrongfully or unfairly dismissed
+{by reason of a finding of unfair dismissal save
+ona purely technical basis); or
+
+{iv) he has been made redundant; or
+
+{v) he is a leaver by reason of death or permanent
+incapacity or serious illness (which in the
+opinion of the Board and the Imbiba Director
+both acting reasonably) is sufficiently serious
+to prevent him from carrying out normal
+duties in accordance with his contract of
+employment; or
+
+(vi) retirement at or after the Company’s usual
+retirement age which shall be beyond the age
+of 60 years ald;
+
+(vil} the Board (acting with the consent of the
+Imbiba Director) determine in their absolute
+discretion, to be a Good Leaver.
+
+the Company and its subsidiaries from time to time and
+“Group Company” shall be construed accordingly;
+
+in the case of a company that company’s holding company
+and ultimate holding company and each of its subsidiary
+companies and its holding company’s and ultimate holding
+company’s subsidiary companies from time to time;
+
+as defined in Article 24.1;
+as defined in the Investment Agreement;
+
+the investment agreement between (1) the Investor, (2) the
+Imbiba Manager, (3) the Existing Shareholders and (4} the
+Company (each as defined therein) entered into on or around
+the Adoption Date, as amended, varied or supplemented from
+
+4
+
+PAGE 6
+“Investor”
+“Investor Consent”
+
+“Investor Group”
+
+“Issue Price”
+
+“ITEPA”
+
+“Liquidation”
+
+“Liquidation Surplus”
+
+“Loan Note Instrument”
+
+“Loan Notes”
+
+“Mandatory Transfer
+
+Date”
+
+“Model Articles”
+
+“Offer”
+
+“the Offeror”
+
+“Ordinary Shares”
+
+“Ordinary Shareholders”
+“Preferred Amount”
+
+“Preferred Shares”
+
+“Preferred Shareholders”
+
+“the Prescribed Price”
+
+“Proposing Transferee”
+
+time to time;
+as defined in the Investment Agreement;
+the prior written consent of the Investor;
+
+the Investor and its Associated Companies (as defined in
+section 256 of the CA 2006) from time to time;
+
+the aggregate price paid or deemed paid for the relevant
+Share whether by purchase or subscription or conversion and
+including any premium paid thereon;
+
+Income Tax {Earnings and Pensions) Act 2003;
+
+as defined in Article 5.1;
+
+as defined in Article 5.1;
+
+the loan note instrument of the Company dated the same
+date as the Adoption Date constituting the Loan Notes;
+
+the £3 million convertible secured loan notes of the Company
+constituted by the Loan Note Instrument;
+
+in respect of an Employee Member the earlier of the date of
+cessation of employment or directorship;
+
+the model articles for private companies limited by shares
+contained in Schedule 1 to the Companies (Model Articles}
+
+Regulations 2008 (SI 2008/3229);
+
+any offer to buy Shares to which Articles 18 or 19 relate or are
+capable of relating;
+
+as defined in Article 19.1;
+
+the ordinary shares of £0.00125 each in the capital of the
+Company and having the rights ascribed thereto as
+set out in these Articles;
+
+the holders for the time being of the issued Ordinary Shares;
+
+the amount calculated in accordance with Article 5,2;
+
+the preferred shares of £0.00125 each in the capital of the
+Company and having the rights ascribed thereto as
+set out in these Articles;
+
+the holders for the time being of the issued Preferred Shares;
+
+the price per Sale Share agreed or determined pursuant to
+Article 14.4 or determined pursuant to Article 14.5;
+
+as defined in Article 18.1;
+
+PAGE 7
+“Proposing Transferor’
+
+“Purchaser”
+
+“Relevant Interest”
+
+“the Relevant
+Transaction”
+
+“Resignation”
+
+“RPI-Linked”
+
+“Sale”
+
+“Sale Equity Value”
+
+“Sale Proceeds”
+
+“the Sale Shares”
+“Shareholder”
+
+“Shares”
+
+“subsidiary” and
+
+“holding company”
+
+“Summary Dismissal”
+
+“Tag Notice”
+
+“Transfer Notice”
+
+a Shareholder proposing to transfer or dispose of Shares or
+any interest therein;
+
+the Employee Trust, the Company or a Shareholder (as the
+case may be) willing to purchase Shares comprised in a
+Transfer Notice;
+
+as defined in Article 18.3.1;
+
+as defined in Article 18.1;
+
+means any person serving notice to terminate his consultancy,
+employment or directorship with any Group Company other
+than where there is a constructive dismissal;
+
+in relation to any figure, means that such figure shall be varied
+by the percentage variation in the Retail Price Index published
+by the Office for National Statistics (or equivalent if replaced)
+from the beginning to the end of the period for which any
+figure is to be so adjusted provided that such percentage does
+not exceed five per cent per annum;
+
+completion of the transaction(s) by which an Offer has arisen
+or any other sale of Shares to which the provisions of Article
+18 could apply;
+
+the equity value of the Company on the relevant Sale being
+the equity value as determined by the Board with Investor
+Consent {such consent not to he unreasonably withheld or
+delayed);
+
+the proceeds of a Sale to be paid to Shareholders (after
+deducting costs payable by all Shareholders on a pro-rata
+basis under the terms fo such Sale);
+
+all Shares comprised in a Transfer Notice;
+holder for the time being of Shares;
+
+the Equity Shares and such other shares in the capital of the
+Company from time to time;
+
+shall have the meanings set out in sections 1159 to 1162 of
+the CA 2006;
+
+means summary termination of the employment, directorship
+or consultancy by any Group Company in accordance with
+that person’s service agreement or consultancy agreement;
+
+a written notice served by a Shareholder in accordance with
+Article 18.1 and Article 18.2;
+
+a written notice served by a Shareholder, in accordance with
+
+6
+
+PAGE 8
+3.1
+
+3.2
+
+4a
+
+42
+
+43
+
+5.1
+
+Article 14 or deemed to have been served pursuant to Article
+16;
+
+“Transferee Company” a company for the time being holding Shares in consequence
+of a transfer or series of transfers of Shares between group
+companies (the relevant Transferor Company in the case of a
+series of transfers being the first transferor in that series);
+
+“Transferor Company” a company (other than a company which is also a Transferee
+Company in respect of the same Shares) which has transferred
+Shares to a group company;
+
+‘Wery Bad Leaver” any person who was a director or Employee but has now
+ceased to be a director or Employee as a result of fraud or
+other indictable offence (whether prosecuted for such or not
+but excluding motor offences where there is no custodial
+sentence imposed) or for other gross misconduct giving rise
+to their lawful summary dismissal.
+
+SHARE CAPITAL - GENERAL
+
+In these Articles, unless the context requires otherwise, references to shares of a particular class
+shall include shares allotted and/or issued after the Adoption Date and ranking pari passu in all
+respects (or in all respects except only as to the date from which thase shares rank for dividend)
+with the shares of the relevant class then in issue.
+
+Except as otherwise provided in these Articles, the Preferred Shares, the A Ordinary Shares and
+the Ordinary Shares shall rank pari passu in all respects but shall constitute separate classes of
+shares.
+
+DIVIDENDS
+
+Any Available Profits which the Company may determine, to distribute in respect of any financial
+year, will be distributed among the holders of the Equity Shares (pari passu as if they constituted
+ane class of share) pro rata to their respective holdings of Equity Shares.
+
+Subject to the CA 2006 anc these Articles, the Board may, pay interim dividends if justified by the
+Available Profits in respect of the relevant period.
+
+Every dividend shall accrue on a daily basis assuming a 365 day year. All dividends are expressed
+net and shall be paid in cash.
+
+RETURN OF CAPITAL
+
+On a distribution of assets, on a liquidation or return of capital (other than a conversion,
+redemption ar purchase of Shares) (a “Liquidation”) the surplus assets of the Company remaining
+after payment of its liabilities (including any Arrears) (the “Liquidation Surplus”} shall be
+distributed (to the extent that the Company is lawfully permitted to do so} in the following
+manner:
+
+5.1.1 firstly, in paying to the Preferred Shareholders the Preferred Amount provided that if
+there are insufficient surplus assets to pay the whole of the Preferred Amount, the
+Liquidation Surplus shall be distributed to the Preferred Shareholders pro rata to the
+number of Preferred Shares held;
+
+PAGE 9
+5.2
+
+6.1
+
+6.2
+
+6.3
+
+5.1.2 second, the balance of the surplus assets (if any) shall be distributed among the Ordinary
+Shareholders and the A Ordinary Shareholders as if the A Ordinary Shares and the
+Ordinary Shares constituted one class of share, and pro rata according to the number of
+A Ordinary Shares and Ordinary Shares and held;
+
+PROVIDED ALWAYS however that if on a Liquidation the Preferred Shareholders would each
+receive a greater amount per Preferred Share if Articles 5.1.1 and 5.1.2 did not apply and instead
+the Liquidation Surplus was distributed among the Equity Shareholders (pari passu as if the Equity
+Shares constituted one class of share) pro rata to their respective holdings of Equity Shares, then
+Articles 5.1.1 and 5.1.2 shall not apply and instead the Liquidation Surplus shall be distributed to
+all Equity Shareholders pro-rata to their respective holdings of Equity Shares.
+
+For the purposes of these Articles, the Preferred Amount (PA) equals :
+IP + RP where
+
+IP = the aggregate Issue Price of the Preferred Shares and
+
+RP = LM + Y where
+
+LM = (i) where the Equity Value is less than £17m, 1x IP; and (ii) where the Equity Value is £20m
+or more, 2xIP and
+
+Y = (i) where the Equity Value is £17m or less, £zero; (ii) where the Equity Value is more than
+£17m but less than £20m, a sum equal to the extent the Equity Value exceeds £17m; and (iii)
+where the Equity Value is £20m or more, zero and
+
+Equity Value means {i) where Article 5.1 applies, the amount of the Liquidation Surplus; and (ii)
+where Article 6 applies, the Sale Equity Value.
+
+For the purposes of calculating PA, the Issue Price of the Preferred Shares shall be calculated as
+RPI Linked on and from each anniversary of the Adoption Date.
+
+SALE
+
+Qn a Sale, save where Article 19.8 applies, the Sale Proceeds shall be distributed in the same order
+of priority as set out in Article 5.1, and when applying the provisions of Article S to a Sale, the
+word “Liquidation” shall be substituted with “Sale”, and the word “Liquidation Surplus” shall be
+substituted with “Sale Proceeds”.
+
+The Directors shall not register any transfer of Shares on a Sale if the Sale Proceeds are not
+distributed in the manner set out in Article 6.1 (save in respect of any Shares not sold in
+connection with that Sale) provided that, if the Sale Proceeds are not settled in their entirety upon
+the completion of the Sale:
+
+6.2.1 the Directors may register the transfer of the relevant Shares, provided that the Sale
+Proceeds due on the date of completion of the Sale have been distributed in the order
+of priority set out in Article 5.1; and
+
+6.2.2 each Shareholder shall take reasonable action (to the extent lawful and within its
+control) required by the Investor to ensure that the balance of the Sale Proceeds are
+distributed in the order of priority set out in Article 5.1.
+
+On an Asset Sale, the surplus assets of the Company remaining after payments of its liabilities
+shall be distributed (to the extent that the Company is lawfully permitted to do so) as set out in
+Article 5.1, provided always that if it is not lawful for the Company to distribute its surplus assets
+
+8
+
+PAGE 10
+7A
+
+7.2
+
+8.1
+
+8.2
+
+8.3
+
+8.4
+
+8.5
+
+8.6
+
+in accordance with the provisions of these Articles, each Shareholder shall (to the extent lawful
+and within its control) take any reasonable action required by the Investor (including, but without
+prejudice to the generality of this Article 6.3), such action as may be necessary to put the
+Company into voluntary liquidation so that Article 5.1 applies.
+
+VOTING
+Subject to the provisions of Article 15.9:
+
+7.11 on a show of hands every Shareholder (other than an A Ordinary Shareholder in respect
+of the A Ordinary Shares held by them) whe (being an individual} is present in person or
+(being a corporation) is present by a representative shall have one vote;
+
+7.1.2 on a poll every Shareholder (other than an A Ordinary Shareholder in respect of the A
+Ordinary Shares held by them)who is present in person or by a proxy or (being a
+corporation) by a representative shall have one vote for every Share of which he is the
+holder.
+
+The A Ordinary Shares shall not be entitled to vote on any written resolution of Shareholders
+proposed by the Directors.
+
+ISSUE OF NEW SHARES: PRE-EMPTION
+
+Subject to Article 8.2 and article 8.4 any new Shares from time to time created shall before they
+are issued to any third party be offered to the holders of Shares which are the same class as the
+new Shares being issued pro-rata in proportion to the number of that class of Share held.
+
+If the provisions of Article 8.5 apply, any new Shares shall be offered pro rata in proportion to the
+number of Shares held (and for the purposes of this Article 8.2 the Equity Shares shall be treated
+as if they were the same class of share).
+
+The offer shall be made by notice in writing specifying the number and class of Shares offered and
+the price per Share (which shall be the same price per Share) and stating a time (not being less
+than ten days or greater than tweny days) within which the offer, if not accepted, will be deemed
+to be declined. After the expiration of such time, or on the receipt of an indication from the
+relevant Shareholder to whom the offer is made that he declines to accept the new shares offered
+or any of them, the Directors shall offer the new shares declined in like manner to the holders of
+Shares which are not of the same class as the new shares being issued, in accordance with this
+Article 8.3 and a second notice shall be served, containing the same details as the first notice, save
+that it shall state a time (not being less than fourteen days or greater than twenty days from the
+date of the second offer) within which the offer, if not accepted will deemed to be declined. If
+the shares comprised in such further offers are declined or deemed to be declined the further
+offers shall be withdrawn.
+
+The provisions of Article 8.1 shall not apply to the issue of any Shares pursuant to the Loan Note
+Instrument or the Employee Options and may in any event be disapplied in relation to any class
+of shares by special resolution with prior Imbiba consent such consent not to be unreasonably
+withheld or delayed (subject to Article 9).
+
+The provisions of Article 8.1 shall not apply to the issue of any Shares in the event that in the
+reasonable opinion of the Board (acting with the consent of the Imbiba Director which shall not
+be unreasonably withheld or delayed), the Company resolves that it needs to raise emergency
+funds by way of subscription for Shares (having regard to the financial position of the Group for
+the next three manths}.
+
+Subject to Article 8.5 and this Article 8.6 and to the provisions of sections 549 and 551 of the CA
+9
+
+PAGE 11
+87
+
+8.8
+
+9.4
+
+9.2
+
+2006, Shares shall be at the disposal of the Directors who may allot, grant options over or
+otherwise dispose of them to such persons at such times and generally on such terms and
+conditions as they think proper, provided that:
+
+8.6.1 no Shares shall be issued at a discount;
+
+8.6.2 no Shares to which Articles 8.1 applies shall be issued more than three months after the
+expiry of the period for acceptance of the last offer of such Shares made under Article
+8.1 unless the procedure set out in Article 8.1 is repeated in respect of such Shares (and
+so that the time limit set out in this Article 8.6.2. shall apply equally to any repetition of
+that procedure};
+
+8.6.3 no Shares shall be issued at a price less than that at which they were offered to the
+Shareholders in accordance with Article 8.1 and if the Directors are proposing to issue
+such Shares wholly or partly for a non-cash consideration, the cash equivalent of such
+consideration for the purposes of this sub-paragraph shall be as reasonably determined
+by the Auditors who shall act as experts and not as arbitrators and whose determination
+shall be final and binding on the Company and each of its Shareholders. For the
+avoidance of doubt this Article 8.6.3 shall not apply to the issue of any Shares pursuant
+the Loan Note Instrument or the Employee Options;
+
+8.6.4 no Shares shall be allotted to any person who is not already a party to the Investment
+Agreement unless that person has first executed and delivered to the Company a Deed
+of Adherence unless this requirement is waived by the Board acting with the consent of
+the Imbiba Director (not to be unreasonably withheld or delayed);
+
+8.6.5 no Shares shall be allotted to any employee, director, prospective employee or
+prospective director unless such person has entered into a joint section 431 ITEPA
+election with the Company or unless this requirement is waived by the Board acting with
+the consent of the Imbiba Director(not to be unreasonably withheld or delayed).
+
+The provisions of sections 561(1), 562(1) to (6) inclusive and 568(3) CA 2006 shall not apply to the
+allotment of Shares made by the Company.
+
+The Investor shall be entitled to offer any of its rights (in whole or in part) under this Article 8 to
+subscribe for Shares to any investment trust, investment company, limited partnership, EIS fund
+(approved or unapproved) or other such like entity advised or managed by the Fund Manager.
+
+VARIATION OF CLASS RIGHTS
+
+Whenever the capital of the Company is divided into different classes of Shares the special rights
+attached to any class may be varied or abrogated, either whilst the Company is a going concern
+or during or in contemplation of a winding-up, in the case of the Preferred Shareholders with the
+consent in writing of the Investor or with the sanction of an ordinary resolution passed at a
+separate meeting of the holders of the Preferred Shares.
+
+To every such separate meeting all the provisions of these Articles relating to general meetings of
+the Company shall apply (mutatis mutandis} except that:
+
+9.2.1 the necessary quorum shall be such person(s) as hold or represent by proxy at least
+one-third in nominal amount of the Shares of the class, but so that at any adjourned
+meeting of such holder{s) at which such a quorum is not present the holder or holders
+present shall be a quorum; and
+
+9.2.2 the holders of Shares of the class in question shall on a poll have one vote in respect of
+every Share of the class held by them respectively.
+10
+
+PAGE 12
+9.3
+
+10
+
+10.1
+
+10.2
+
+10.3
+
+11
+
+1.1
+
+11.2
+
+Without prejudice to the generality of this Article, it is a term of issue of the Preferred Shares that
+the following events shall be deemed to be an attempted variation of the rights attaching to such
+Preferred Shares and shall therefore require class consent in accordance with Article 9.1:
+
+9.3.1 any altcration or variation of any of the rights attached to any of the Shares for the time
+being in the capital of the Company which may prejudice the rights of the Preferred
+Shares;
+
+9.3.2 any resolution to wind-up the Company save where the Company is insolvent;
+
+9.3.3 any increase in the issued share capital of the Company, save for the issue of Shares
+pursuant to the Loan Note Instrument or the Employee Options or otherwise as
+provided in Articles 8.4 or 8.5;
+
+9.3.4 any reduction or subdivision or consolidation of the issued share capital of the Company;
+
+9.3.5 the grant by the Company of a right to subscribe for or to convert securities into Shares,
+save for Shares pursuant to the Loan Note Instrument or the Employee Options or
+otherwise by the Board acting with the consent of the Imbiba Director and a Founder
+Director;
+
+9.3.6 the application by way of capitalisation of any sum in or towards paying up any
+debenture or debenture stock of the Company;
+
+9.3.7 the redemption of any Share or the entering into of a contract by the Company to
+purchase any of its Shares;
+
+9.3.8 the calling of a meeting of the Company to effect or approve any matter which would
+by virtue of this Article 9 be reasonably considered a variation of such class rights
+otherwise than by the Board acting with the consent of the Imbiba Director; or
+
+9.3.9 registration as a public company.
+LIEN
+
+The Company shall have a first and paramount lien on every Share, which is not fully paid, for all
+and any indebtedness of any holder thereof to the Company (whether a sole holder or one of two.
+or more joint holders) in respect of the Shares concerned.
+
+The Company’s lien over a Share takes priority over any third party’s interest in that Share and
+extends to any dividend or other money payable by the Company in respect of that Share, and (if
+the lien is enforced and the Share is sold by the Company) the proceeds of sale of that Share.
+
+The Directors {with the consent of the Imbiba Director} may at any time decide that a Share, which
+is or would otherwise be subject to the Company's lien will not be subject to it, either wholly or
+in part.
+
+REGISTRATION OF TRANSFERS
+
+The Directors shall be required to register promptly any transfer of Shares made in accordance
+with the provisions of these Articles provided in all cases where the transferee is not already a
+party to the Investment Agreement, a Deed of Adherence duly executed by all relevant parties is
+laid before the meeting at which the transfer is to be approved (unless such requirement has been
+waived by the Board and Imbiba Director),
+
+The Directors may refuse to register a transfer of a Share:
+
+qt
+
+PAGE 13
+11.3
+
+12
+
+12.1
+
+13
+
+13.1
+
+13.2
+
+13.3
+
+11.2.1 which is not fully paid up (as to nominal value or premium} and a transfer of a Share on
+which the Company has a lien;
+
+11.2.2 if it is in favour of more than four transferees;
+
+11.2.3 unless it is lodged at the office or such other place as the Directors may determine and
+is accompanied by the certificate for the Shares to which it relates and such other
+evidence as the Directors may reasonably require to show the right of the transferor to
+make the transfer; and
+
+11.2.4 unless it is in respect of one class of Share only.
+
+In addition the Directors may refuse to register a transfer of a Share to a bankrupt, a minor or a
+person of unsound mind.
+
+TRANSFERS
+
+Subject to the provisions of Article 11, any Shares may at any time be transferred by any Member:
+12.1.1 pursuant to Article 13 (Permitted Transfers);
+
+12.1.2. pursuant to Article 19 (Drag Along); or
+
+12.1.3. with the consent of the Board and the consent of the Imbiba Director;
+
+PERMITTED TRANSFERS
+
+Subject to the provisions of Article 11 and Article 12 d., any Share (other than any Share in respect
+of which the holder shall have been required by the Directors under these Articles to give a
+Transfer Notice or shall be deemed to have given a Transfer Notice} may at any time be
+transferred:
+
+13.1.1. by an individual Shareholder (subject to the provisions of Article 15 in respect of
+Employee Members) ta trustees to be held on Family Trusts of such a Shareholder, or to
+a Family Member of such Shareholder,;
+
+13.1.2 by an individual Shareholder (subject to the provisions of Article 15 in respect of
+Employee Members) to a company, partnership or limited liability partnership in which
+the individual Shareholder is a majority shareholder or partner or member ;
+
+13.1.3. in the event of the death of any Shareholder (subject to the provisions of Article 15 in
+respect of Employee Members) by his personal representative to trustees to be held on
+Family Trusts of such Shareholder, or to a Family Member of such Shareholder,;
+
+13.1.4 by any Shareholder, being a company, to a group company of such Shareholder, save
+that the transferee can only hold the Shares for so long as it is a group company of the
+original Shareholder and on the transferee ceasing to be a group company of that
+Shareholder, the transferee will transfer the Shares back to the original Shareholder.
+
+The Investor may transfer any Shares to an investment trust, investment company, limited
+partnership, or other such like entity managed or advised by the Imbiba Manager.
+
+Any Shares held by a nominee for their beneficial owner (“the Beneficial Owner’) may be
+
+transferred by the nominee to the Beneficial Owner or to another person shown to the reasonable
+
+satisfaction of the Directors to be a nominee for the Beneficial Owner only. Any Shares may be
+
+transferred by the Beneficial Owner to a person shown to the reasonable satisfaction of the
+
+Directors to be a nominee for the Beneficial Owner only. Where any person to whom any Shares
+12
+
+PAGE 14
+13.4
+
+13.5
+
+14
+
+14.1
+
+14.2
+
+14.3
+
+14.4
+
+have been transferred as a nominee ceases to hold such Shares as nominee for the Beneficial
+Owner only he shall forthwith transfer such Shares to the Beneficial Owner or to another person
+shown to the reasonable satisfaction of the Directors to be a nominee for the Beneficial Owner
+only and in default of doing so he shall be deemed to have given a Transfer Notice in respect of
+all such Shares.
+
+Where Shares have been transferred to trustees under Article 13.1.1 or 13.1.3, on any change of
+trustees, the Relevant Shares {as defined in Article 13.5 below} may be transferred to the trustees
+for the time being of the trust concerned.
+
+In the event that:
+
+13.5.1 a Transferee Company holding Relevant Shares ceases to be a group company of the
+Transferor Company from which (whether directly or by a series of transfers under
+Article 13.1.4) the Relevant Shares were derived; or
+
+13.5.2 any Relevant Shares held by trustees cease to be held on a Family Trust of the
+Shareholder;
+
+the Shareholder holding the Shares shall notify the Directors in writing that such an event has
+occurred and such Shareholder shall be bound, if and when required in writing by the Directors
+to do so, to give a Transfer Notice in respect of the Relevant Shares (but without specifying a
+proposed Prescribed Price (so that the Prescribed Price shall be determined pursuant to Article
+14.4 and Article 14.5) and so that the right of revocation conferred by Article 14.10 shall not
+apply).
+
+For this purpose the expression “the Relevant Shares” means (so far as the same remain held by
+the trustees of a Family Trust or by any Transferee Company) the Shares originally transferred to
+the trustees or to the Transferee Company and any additional Shares issued to such trustees or
+Transferee Company by way of a capitalisation or acquired by such trustees or Transferee
+Company in exercise of any right or option granted or arising by virtue of the holding of the
+Relevant Shares or any of them or the membership thereby conferred.
+
+PRE-EMPTION RIGHTS ON TRANSFER
+
+The right to transfer Shares or any interest therein shall, subject to and without prejudice to the
+provisions of Article 12 (Transfers} and Article 13 (Permitted Transfers), be subject to the fallowing
+restrictions, save that such restrictions shall not apply to any transfer of Shares pursuant to Article
+13 or to any proposal made in accordance with and pursuant to Article 19 (Drag Along}.
+
+Before transferring or disposing of any Shares (or any interest in Shares) the Proposing Transferor
+shall serve a notice on the Company specifying the number and class of Shares in question and
+the proposed price for such Shares, and the Transfer Notice shall constitute the Company his
+agent for the sale of those Shares at the Prescribed Price to any Shareholder or Shareholders. A
+Transfer Notice may not be given by an Excluded Person unless required by the Directors under
+Article 15.4, or Article 19. Except as provided in this Article, a Transfer Notice once given or
+deemed to be given shall not be revocable except with the consent of the Directors (which shall
+include the consent of the Imbiba Director).
+
+A Transfer Notice may comprise Shares of more than one class and shall, if the Proposing
+Transferor has received any offer to purchase Shares (whether or not an offer capable of
+becoming legally binding upon acceptance) within the period of three months prior to service of
+the Transfer Notice, give the name of the offeror, the number and class of Shares concerned and
+the price offered in respect of each such Share.
+
+The Directors will endeavour to agree the Prescribed Price with the Proposing Transferor. If the
+13
+
+PAGE 15
+14.5
+
+14.6
+
+14.7
+
+14.8
+
+14.9
+
+Directors fail to agree the Prescribed Price with the Proposing Transferor within 14 days of receipt
+of the Transfer Notice by the Company or, as applicable, a Transfer Notice having been deemed
+to have been served, the Directors shall request the Auditors (or if they are unable or decline to
+act, an independent firm of chartered accountants appointed by the Directors or, in the event of
+disagreement appointed on the application of the Proposing Transferor or by the Directors by the
+President of the Institute of Chartered Accountants in England & Wales and the provisions relating
+to Auditors in this Article 14 shall apply to such independent firm of chartered accountants (acting
+as experts and not as arbitrators)} to certify the Prescribed Price.
+
+The Auditors shall (acting as experts and not arbitrators) within 14 days of such a request certify
+to the Company the Prescribed Price, being the value of each Sale Share (or, where appropriate
+of each Sale Share of each class) calculated on the following basis:
+
+14.5.1 by determining the sum which a willing purchaser would offer to a willing vendor for all
+the issued Shares;
+
+14.5.2 _ if the Company is then carrying on business as a going concern, on the assumption that
+it will continue to do so;
+
+14.5.3 that the Sale Shares are capable of being transferred without restriction;
+
+14.5.4 valuing the Sale Shares as a rateable proportion of the total value of all the issued Shares
+without any premium or discount being attributable to the percentage of the issued
+Shares which they represent;
+
+14.5.5 reflect any other factors which the Auditors reasonably believe should be taken into
+account provided that such factors shall not override the above assumption and bases;
+and
+
+14.5.6 by dividing the resultant figure by the number of Shares.
+
+The Auditors’ certificate as to the Prescribed Price shall be final and binding, save in the event of
+manifest error.
+
+Within 21 days following receipt of the Transfer Notice or (where relevant} the date on which the
+Transfer Notice is deemed to have been given or where the Prescribed Price is certified by the
+Auditors the date of certification of the Prescribed Price, the Company shall offer the Sale Shares
+to each person (other than the Proposing Transferor and any Excluded Person) in accordance with
+the provisions of Articles 14.8 or 14.9 (as the case may be) for purchase at the Prescribed Price.
+All offers shall be made by notice in writing and state a time (being between 30 and 42 days
+inclusive following the date of such notice) within which the offer must be accepted or, in default,
+will be deemed to have been declined (“Acceptance Period”). A copy of such offer shall at the
+same time be sent by the Company to the Proposing Transferor
+
+If the Sale Shares are Preferred Shares the Company shall offer such Sale Shares firstly to the
+Preferred Shareholders and thereafter to the A Ordinary Shareholders and Ordinary Shareholders
+pro rata in proportion to the number of such Shares held.
+
+If the Sale Shares are held by an Employee (other than the Founder), the Company shall offer such
+Sale Shares:
+
+14.9.1 firstly, to an incoming senior employee and/or Director as identified by the Board or
+to the Employee Trust or such other trust as approved by the Board with Investor
+Director consent to hold the Sale Shares until an incoming employee and/or director
+joins the Company or the Group, and the Board resolves such Sale Shares shall be
+transferred to that person;
+14
+
+PAGE 16
+14.10
+
+14.11
+
+14.12
+
+14,13
+
+14.9.2 secondly, subject to obtaining prior Investor Consent, to the Company to buy back
+under chapter VII of Part V of the CA 2006 to the extent that it is lawfully able to do so;
+and
+
+14.9.3 thirdly, to the holders of Equity Shares pari passu {as if the Sale Shares constituted one
+class of shares) according to the number of Shares held.
+
+If the Sale Shares (ar the remaining Sale Shares (as the case may be)) offered pursuant to Article
+14.8 or 14.9.3 (as the case may be) shall be offered on the following basis:
+
+14.10.1 any Shareholder to whom the remaining Sale Shares are offered may accept all or
+some only of the remaining Sale Shares offered to him, and shall be invited to indicate
+whether, if he accepts all such remaining Sale Shares, he wishes to purchase any
+remaining Sale Shares which other Shareholders decline to accept (“Excess Shares”)
+and, if so, the maximum number of Excess Shares which he wishes to purchase;
+
+14.10.2 any Excess Shares shall be allocated between the Shareholders who have indicated
+that they wish to purchase Excess Shares pro rata to the proportion of the total number
+of Shares held by those Shareholders but so that no Shareholder shall be required or
+entitled to receive more than the maximum number indicated by him pursuant to
+Article 14.10.1;
+
+14.10.3 subject to the provisions of this Article 14.10.3 and Article 14.7, the Purchasers shall
+be bound to purchase the Sale Shares properly allocated to them at the Prescribed
+Price in accordance with the provisions of Article 14.
+
+Not later than 7 days following the expiration of the Acceptance Period the Company shall give
+written notice to the Proposing Transferor stating:
+
+14.11.1 if itis the case, that no Purchaser has sought to purchase any of the Sale Shares; or,
+otherwise
+
+14.11.2 the number of Sale Shares which the Purchaser(s} have sought to purchase, giving the
+name and address of each Purchaser and the number of Sale Shares to be purchased
+by him.
+
+If within the Acceptance Period, Purchasers have been found for some only of the Sale Shares or
+if no Purchaser has been found for any of the Sale Shares, the Proposing Transferor may within 7
+days of service on him of notice under this Article revoke his Transfer Notice by written notice to
+the Company.
+
+If the Proposing Transferar is given notice under Article 14.11 (and subject ta his not revoking his
+Transfer Notice in accordance with Article 14.11) he shall be bound on payment of the Prescribed
+Price to transfer the Sale Shares in question to the respective Purchasers. The sales and purchases
+shall be completed at the registered office of the Company during normal business hours on the
+first Business Day after the expiry of 14 days following the date of service of notice by the
+Company under Article 14.11.
+
+If a Proposing Transferor fails to transfer any Sale Shares to a Purchaser after becoming bound to
+do so, the Directors may authorise any person to execute on behalf of and as attorney for the
+Proposing Transferor any necessary instruments of transfer and shall register the Purchaser as the
+holder of the relevant Sale Shares. The Company’s receipt of the purchase money shall be a good
+discharge to the Purchaser and the Company shall thereafter hold the purchase money on trust
+for the Proposing Transferor. After the name of the Purchaser has been entered in the Register
+of Members in purported exercise of these powers, the validity of the proceedings shall not be
+
+questioned by any person.
+15
+
+PAGE 17
+14,14
+
+14,15
+
+14,16
+
+14.17
+
+14.18
+
+14.19
+
+14.20
+
+15
+
+15.1
+
+If the Company fails before the end of the Acceptance Period to find a Purchaser or Purchasers
+for any of the Sale Shares, the Proposing Transferor may (subject to Articles 11 and 14.16) sell all
+or any of the Sale Shares to any third party/parties whose identity has been approved by the Board
+(not be unreasonably withheld of delayed).
+
+If before the end of the Acceptance Period the Company finds a Purchaser or Purchasers for some
+(but not all) of the Sale Shares and serves notice accordingly under Article 14.11 the Proposing
+Transferor may (subject to Articles 11 and 14.16) sell all or any of the Sale Shares for which no
+Purchaser has been found to any third party/parties whose identity has been approved by the
+Board (not be unreasonably withheld of delayed) unless he revokes his Transfer Notice pursuant
+to Article 14.11 in which case he may sell all (but not some only) of the Sale Shares to any third
+party/parties whose identity has been approved by the Board {not be unreasonably withheld of
+delayed).
+
+The right of the Proposing Transferor to sell Sale Shares pursuant to Article 14,14 or Article 14.15
+shall be subject to the following restrictions:
+
+14.16.1 Sale Shares may not be sold after the expiry of three months after the date on which
+notice is given by the Company under Article 14.11;
+
+14,16.2 Sale Shares must be sold on a bona fide sale at a price not less than the Prescribed
+Price and without any deduction, rebate or allowance whatsoever to the Purchaser;
+
+14.16.3 the provisions of Article 18 (if applicable); and
+
+14,.16.4 no Shares may be transferred, or disposed of, pursuant to this Article 14.16 by any
+person who is an Excluded Person unless the Directors resolve to approve such transfer
+or disposal.
+
+The costs of the Auditors shall be borne equally by the Proposing Transferor and the Company .
+
+The restrictions impased by this Article 14 may be waived in relation to any proposed transfer of
+Shares with the consent ofthe Board with Investor Consent and Founder Consent.
+
+For the purposes of Article 14.16.2 and calculating whether or not a price to be paid for the Sale
+Shares is more or less than the Prescribed Price, then the cash value of any non-cash
+consideration shall be that agreed between the Proposing Transferor and the Company, or if the
+Proposing Transferor and the Company fail to agree such cash value within 15 Business Days
+following the earlier of any request by the Proposing Transferor to so value any non-cash
+consideration and the submission to the Company of the relevant stock transfer form(s) relating
+to a transfer of the Sale Shares for non-cash consideration, the cash value shall be the amount
+certified as such as at the date of the earlier of the request for valuation and the purported
+transfer of the Sale Shares at the request of the Directors, by the Auditors (acting as experts and
+not arbitrators). Their certificate shall be final and binding.
+
+The Investor shall be entitled to offer any of its rights {in whole or in part) under this Article 14
+for the transfer of Shares to any investment trust, investment company, limited partnership, EIS
+fund (approved or unapproved) or other such like entity advised or managed by the Fund
+Manager.
+
+MANDATORY TRANSFERS
+
+A person entitled to a share in consequence of the bankruptcy, receivership or liquidation of a
+Shareholder shall be bound if required in writing to do so by the Directors to give a Transfer
+Notice in respect of all the Shares then registered in the name of the Shareholder in bankruptcy,
+receivership, or liquidation, within 2 weeks of receipt of the relevant request.
+
+16
+
+PAGE 18
+15.2
+
+15.3
+
+15.4
+
+15.5
+
+15.6
+
+The Directors shall be entitled to give a Transfer Notice in respect of all the Shares then registered
+in the name of the Shareholder in bankruptcy, receivership or liquidation.
+
+Ifa Transfer Notice is deemed to have been given pursuant to Article 15.1 or Article 15.2 or Article
+15.11 the Sale Shares shall be offered in accordance with the provisions of Article 14.8 and Article
+14.9 (as applicable} and in such circumstances the Sale Shares shall be transferred at the
+Prescribed Price.
+
+Subject to Article 15.10 if an Employee Member ceases to be an Employee of the Company (or
+at least one of its subsidiaries) as a Bad Leaver or Very Bad Leaver then he (and, any person to
+whom he has directly or indirectly transferred Shares pursuant to Article 13.1) shall be deemed
+to have given a Transfer Notice on the Mandatory Transfer Date in respect of all of the Shares
+registered in the name of the Employee Member (and any person to whom he has directly or
+indirectly transferred Shares pursuant to Article 14.1 as at the Mandatory Transfer Date) and all
+of the Shares which may be capable of being issued as the result of the options granted to the
+Employee Member and vested in the Employee Member as at the Mandatory Transfer Date.
+
+The provisions of Article 15.4 (as modified by this Article 15.5) shall apply to the Founder only if
+he ceases to be an employee of the Company because of his Resignation or he is, were he an
+Employee, a Very Bad Leaver. In these circumstances:
+
+15.5.1 Where the Founder ceases to be employed by reason of his Resignation , then he
+(and, any person to whom he has directly or indirectly transferred Shares pursuant
+to Article 13.1} shall be deemed to have given a Transfer Notice on the Mandatory
+Transfer Date in respect of Shares registered in the name of the Founder (and any
+person to whom he has directly or indirectly transferred Shares pursuant to Article
+13.1 as at the Mandatory Transfer Date} representing 10% of all Shares held by him
+and any person to whom he has directly or indirectly transferred Shares pursuant to
+Article 13.1 in the capital of the Company as at that time. Any such Transfer Notice
+shall only apply where Article 14.9.1 applies to a new incoming CEO and if within six
+months of the Mandatory Transfer Date a new CEO has not accepted an offer of
+employment with the Company then this Article 15.5.1 shall cease to apply to the
+Founder. If there is a new incoming CEO the reference to 10% of all Shares shall be
+reduced by the percentage of Shares being transferred to the new CEO by other
+members of the management team provided that such percentage to be transferred
+by the Founder (and any person to whom he has directly or indirectly transferred
+Shares pursuant to Article 13.1) is not less than 7% in aggregate of all Shares held by
+him and any person to whom he has directly or indirectly transferred Shares pursuant
+to Article 13.1 in the capital of the Company as at that time.
+
+15.5.2 If the Founder is a Very Bad Leaver then he (and, any person to whom he has directly
+or indirectly transferred Shares pursuant to Article 13.1) shall be deemed to have
+given a Transfer Notice on the Mandatory Transfer Date in respect of Shares
+registered in the name of the Founder (and any person to whom he has directly or
+indirectly transferred Shares pursuant to Article 13.1 as at the Mandatory Transfer
+Date) representing 30% of all Shares held by him and any person to whom he has
+directly or indirectly transferred Shares pursuant to Article 13.1 in the capital of the
+Company as at that time.
+
+In such circumstances as set out in Articles 15.4 or 15.5 , the Prescribed Price for the Sale Shares
+under Article 15.4 shall be:
+
+15.6.1 where the relevant Employee Member ceases to be employed by reason of being a
+Bad Leaver, the lower of FMV and the Issue Price; or
+
+17
+
+PAGE 19
+15.7
+
+15.8
+
+15.9
+
+15.10
+
+16
+
+17
+
+15.6.2 where the relevant Employee Member ceases to be an Employee by reason of being
+a Very Bad Leaver, £1 in aggregate; or
+
+15.6.3 where the Founder ceases to be an employee by reason of his Resignation or being
+a Very Bad Leaver, the lower of FMV and the Issue Price.
+
+If a Transfer Notice is deemed to have been given pursuant to Articles 15.1 or 15.4 or 15.6, the
+Sale Shares shall be offered in accordance with the provisions of Article 14.9.
+
+If the Employee Member or the Founder who is deemed to have given the Transfer Notice
+pursuant to Articles 15.1, 15.4 or 15.5 fails to complete the sale of the Sale Shares in question to
+the Purchaser, the Directors may authorise any person to execute on behalf of and as attorney
+for the Employee Member wha is deemed to have given the Transfer Notice a stock transfer form
+and, in the absence of the relative share certificate, any indemnity in respect thereof requested
+by the Directors and may deliver it or them on his behalf. The Company shall send a cheque in
+respect of the Prescribed Price to the Employee Member who is deemed to have given the
+Transfer Notice at his registered address and after appropriate entries have been made in the
+Register of Members in purported exercise of this power, the validity of the proceedings shall not
+be questioned by any person.
+
+As from the point in time when any Employee Member ceases to be an Employee of the Company
+or at least one its subsidiaries other than by reason of being a Good Leaver, he shall, before the
+transfer provisions of this Article 15 have been operated and notwithstanding any other provision
+of these Articles, cease to have the right to attend or to vote at general meetings or to vote ona
+written resolution (unless otherwise determined by the Directors (with the consent of the Imbiba
+Director)) provided always that any Sale Shares purchased from a Member shall have their voting
+rights re-instated on a transfer of such Sale Shares.
+
+lf a former Employee Member (or his personal representatives) acquire Shares pursuant to an
+employee share option scheme he shall be deemed to have given a Transfer Notice pursuant to
+the provisions of Article 15.4 but as at the acquisition date of the Shares (or such later date as the
+Board determines in writing with the consent of the Imbiba Director}.
+
+EVIDENCE OF COMPLIANCE
+
+In any case where the Directors may require a Transfer Notice to be given and it is not duly given
+within a period of two weeks of notice being given requiring the Transfer Notice to be given, a
+Transfer Notice in respect of the Shares in question shall be deemed to have been given at the
+expiration of that period. Any Transfer Notice deemed to have been given or required to be given
+under any provision of these Articles shall not be capable of revocation and (notwithstanding any
+of the provisions of these Articles} shall extend not just to the Shares registered in the name of
+the Member concerned but to any person to whom he has directly or indirectly transferred Shares
+pursuant to Article 13.1
+
+EVIDENCE OF AUTHORISATION
+
+For the purpose of ensuring that a transfer of Shares is duly authorised under these Articles or
+that no circumstances have arisen requiring a Transfer Notice to be given, the Directors may
+require any Shareholder or the personal representatives or trustee in bankruptcy, receiver or
+liquidator of any Shareholder or any person named as transferee in any instrument of transfer
+lodged for registration to provide to the Company such information as the Directors reasonably
+think fit regarding any matter which they consider relevant. If such information is not provided
+to the reasonable satisfaction of the Directors within a reasonable time after request, the
+Directors shall be entitled to refuse to register the transfer in question or (in case no transfer is
+in question) to require by notice in writing that a Transfer Notice be given in respect of the Shares
+
+18
+
+PAGE 20
+18
+
+18.1
+
+18.2
+
+18.3
+
+18.4
+
+concerned, If the information discloses {in the reasonable opinion of the Directors) that a
+Transfer Notice ought to have been given in respect of any Shares the Directors may by notice in
+writing require that a Transfer Notice be given in respect of the Shares concerned.
+
+TAG ALONG
+
+No sale or transfer of the legal or beneficial interest in any Shares (a “Relevant Transaction’”}
+{other than one made pursuant to Article 12) may be made or validly registered if as a result of
+such sale or transfer a Relevant Interest is obtained by a person (or persons acting in concert)
+where such person(s) did not have a Relevant Interest immediately prior to the Relevant
+Transaction, unless the Proposing Transferor:
+
+18.1.1 _ has first adhered to the pre-emption procedure as described in Article 14 above;
+
+18.1.2 shall have procured a written offer complying with the provisions of Article 18.4 to have
+been made by the proposed transferee (or any person or persons acting in concert with
+it) (“the Proposing Transferee”) to the holders of all the other issued Shares to acquire
+their entire holding of Shares (the “Eligible Shareholders”); and
+
+18.1.3 shall have served a notice on the Eligible Shareholders in respect of such proposed offer
+(the “Tag Notice”).
+
+The Tag Notice will specify:
+
+18.2.1 that Eligible Shareholders are entitled to transfer all of their Shares to the Proposing
+Transferee;
+
+18.2.2 the terms of sale to which the Eligible Shareholders are required to adhere and enclose
+copies of the tag along documents (if any) relating to the sale;
+
+18.2.3 the identity of the proposed purchaser;
+
+18.2.4 the Specified Price and/or type of consideration being offered (including non-cash
+consideration) for each class of Shares held by the Eligible Shareholders; and
+
+18.2.5 the proposed place, date and time of completion.
+For the purpose of this Article 18:
+
+18.3.1 the expression a “Relevant Interest” shall mean an interest in more than 50% of the
+Shares in issue for the time being;
+
+18.3.2 the expressions “transfer” and “transferee” shall include respectively the renunciation
+of a renounceable letter of allotment and the renouncement under any such letter of
+allotment; and
+
+18.3.3 the expression “acting in concert” shall bear the meaning ascribed to it in the City Code
+on Take-overs and Mergers (as amended from time to time).
+
+The offer referred to in Article 18.1 above shall be on terms that:
+
+18.4.1 it will be open for acceptance for a period of at least 28 days following the making of
+the offer;
+
+18.4.2 each Shareholder to whom it is made shall be entitled to receive for each of the Shares
+held by him a sum per Share equal to the Specified Price (or otherwise on the same
+terms for non-cash consideration where relevant);
+
+19
+
+PAGE 21
+18.5
+
+18.6
+
+19
+
+19.1
+
+18.4.3 the purchase of any Shares in respect of which such offer is accepted shall be
+completed at the same time as the Relevant Transaction; and
+
+18.4.4 otherwise on the same terms for all Shareholders (and for this purpose any offer which
+provides for any warrantics or indemnitics {other than warranties as to title and
+capacity) or restrictive covenants from some, but not all, Shareholders shall be deemed
+to comply with this Article 18.4).
+
+The expression "the Specified Price” shall mean:
+
+18.5.1 a price per Share which shall be determined by valuing the entire issued share capital
+of the Company (“the Sale Value”) by reference to the aggregate of:
+
+18.5.1.1 the amount offered or paid or payable by the Proposed Transferee for each
+of the Shares comprised in the Relevant Interest to the holder or holders
+thereof or, if higher, the highest amount paid or payable for a Share in any
+related or previous transaction within the 12 months preceding the offer by
+the same purchaser or any person acting in concert with the Proposing
+Transferee; and
+
+18.5.1.2 an amount equal to the relevant proportion of any other consideration {in
+cash or otherwise) received or receivable by the holder or holders of the
+Shares comprised in the Relevant Interest which, having regard to the
+substance of the transaction as a whole, can reasonably be regarded as an
+addition to the price paid or payable for the Relevant Interest (and, for the
+avoidance of doubt and without prejudice to the generality of the foregoing,
+any additional consideration which is linked to future profits, turnover or
+some other measure of the future performance of the Company shall be
+regarded as consideration which is an addition to the price paid or payable
+for the Relevant Interest); and
+
+18.5.2 the Specified Price which each Shareholder shall be entitled to receive in respect of
+each Share held by him shall then be determined by applying the provisions of Article
+6.1 as if the Sale Value were the Sale Proceeds (subject always to Article 19.8).
+
+Any disagreement as to the calculation of the Specified Price which each Shareholder is entitled
+to receive in respect of each Share held by him for the purposes of this Article shall be referred to
+the Auditors or if a Shareholder objects or they are unable to act or decline to act, an independent
+firm of chartered accountants appointed by the Directors, or in the event of disagreement,
+appointed on the application of the Proposing Transferor or the Directors by the President of the
+Institute of Chartered Accountants in England and Wales and the provisions relating to the
+Auditors in this Article 18 shall apply to such independent firm of chartered accountants {acting
+as experts and not arbitrators) whose decision shall be final and binding (in the absence of
+manifest error} and the costs of the Auditors shall be borne by the Company.
+
+DRAG ALONG
+
+If at any time the Exercising Shareholders (as defined in Article 19.7) propose to sell in a bona fide
+arms length transacton at open market value the legal and beneficial interest in their Shares to a
+person with whom none of them is Connected or acting in concert (the “Offeror’), then the
+Exercising Shareholders, acting pursuant to this Article 19, shall have the right to require the
+holders of all other issued Shares in the Company (the “Called Shareholders”) to sell and transfer
+all of their Shares (on the same terms and for the same form of consideration as the Exercising
+Shareholders, whether this be cash or non-cash consideration) to the Offeror {or as the Offeror
+shall direct) in accordance with this Article 19.1 (the “Drag Along Right”) at a price (the “Drag
+
+20
+
+PAGE 22
+19.2
+
+19.3
+
+Along Price”) to be determined on the basis set out in Article 18.5 {or if the cash is non-cash
+consideration having a value equal to the Drag Along Price) and otherwise on the terms specified
+in Article 19 (as if the Exercising Shareholders’ proposed sale was a Relevant Transaction).
+
+The Drag Along Right may be exercised by the Exercising Sharcholders serving written notice to
+that effect (a “Drag Along Notice”) on the Called Shareholders at any time before the transfer of
+the Exercising Shareholders’ Shares to the Offeror.
+
+A Drag Along Notice shall specify that the Called Shareholders are, or will in accordance with this
+Article 19, be required to sell and transfer their Shares to the Offeror on or about the date
+specified in the Drag Along Notice (which shall be not less than seven days after the date of the
+Drag Along Notice or (if no such date is specified in the Drag Along Notice) on or about such date
+as the Exercising Shareholders may subsequently specify by notice in writing to the Called
+Shareholders (which shall be not less than seven days after the date of the Drag Along Notice).
+
+2a
+
+PAGE 23
+19.4
+
+19.5
+
+19.6
+
+19.7
+
+19.8
+
+20
+
+20.1
+
+20.2
+
+20.3
+
+20.4
+
+21
+
+A Drag Along Notice once given shall be irrevocable but shall lapse (and the obligations thereunder
+shall lapse) in the event that for any reason the Exercising Shareholders do not transfer all of their
+Shares to the Offeror or the Offcror’s nominee not later than 14 days after the date specified as
+the date for completion of the sale and purchase of Shares pursuant to exercise of the Drag Along
+Right.
+
+Upon any person, following the giving of a Drag Along Notice, becoming a Shareholder pursuant
+to the exercise of a pre-existing option to subscribe for or otherwise acquire Shares (a “New
+Member”), a Drag Along Notice shall be deemed to have been given to the New Member
+forthwith on the same terms as the previous Drag Along Notice and the New Member shall
+thereupon be hound to sell and transfer all such Shares acquired by him to the Offeror or as the
+Offeror may direct and the provisions of this Article shall apply mutatis mutandis to the New
+Member save that completion of the sale of such Shares shall take place forthwith upon the Drag
+Along Notice being deemed to have been given to the New Member.
+
+If the Exercising Shareholders exercise the Drag Along Right, it shall not be necessary for them
+first to have given Transfer Notices pursuant to Article 14.
+
+For the purposes of this Article 19, the “Exercising Shareholders” means: {i} ane or more
+Shareholders holding between them at least 50% of the then issued Shares (and acting with
+Investor Consent, such consent not to be unreason ably withheld or delayed); or (ii) on or after
+the fifth anniversary of the Adoption Date, the holder{s) of a majority of the Preferred Shares.
+
+If the Preferred Shareholders constitute the Exercising Shareholders under Article 19.7(ii) and the
+Drag Along Price reflects aggregate Sale Proceeds of £6million or less then the Drag Along Price
+shall be paid between the Shareholders as to the first £3million thereof to the Preferred
+Shareholders and the remaining balance thereafter (if any) shall be paid as to 80% thereof to the
+Preferred Shareholders and as to the remaining 20% thereof to the A Ordinary Shareholders pro-
+rata (or otherwise as the A Ordinary Shareholders may agree).
+
+PROCEEDINGS AT GENERAL MEETINGS
+
+Save as herein otherwise provided two Shareholders present in person or by proxy {or, being a
+corporation, by representative), one of whom must be a proxy or duly authorised representative
+of an Preferred Shareholder {if any Preferred Shares are in issue}, shall be a quorum.
+
+If a quorum is not present within half an hour from the time appointed for a general meeting or
+ceases to be present the general meeting shall stand adjourned to the same day in the next week
+at the same time and place or to such other day and at such other time and place as the Directors
+may determine.
+
+If at any adjourned meeting a quorum is not present within half an hour from the time appointed
+for the meeting the Members present shall form a quorum.
+
+In the case of any equality of votes at a general meeting, whether on a show of hands or on a poll,
+the chairman of the meeting shall not be entitled to a second or casting vote.
+
+ALTERNATE DIRECTORS
+
+No meeting of the Directors shall be invalid because notice thereof or of any business to be
+transacted at that meeting was not given to any alternate director if his appointer attends such
+meeting.
+
+22
+
+PAGE 24
+22
+
+22.1
+
+22.2
+
+22,3
+
+23
+
+23.1
+
+23.2
+
+23.3
+
+23.4
+
+24
+
+24.1
+
+24.2
+
+24.3
+
+APPOINTMENT AND RETIREMENT OF DIRECTORS
+
+The number of Directors shall not be less than two or more than, for so long as Article 24.8 applies,
+seven and otherwise five.The Directors shall not be required to retire by rotation.
+
+The Company may by ordinary resolution appoint any person who is willing to act to be a director,
+either to filla vacancy or as an additional director provided that the appointment does not cause
+the number of Directors to exceed any number fixed by or in accordance with these Articles as
+the maximum number of directors.
+
+The Directors may appoint a person whe is willing to act to be a Director, either to fill a vacancy
+or as an additional Director, provided that the appointment does not cause the number of
+Directors to exceed any number fixed by or in accordance with these Articles as the maximum
+number of directors.
+
+PROCEEDINGS OF THE DIRECTORS.
+
+Whenever the Company has more than a single director in office, the quorum necessary for the
+transaction of business of the Directors shall be two, at least ane of whom shall be an Imbiba
+Director and one of whom shall be a Founder Director, if at the time of the meeting an Imbiba
+Director has been appointed or (as the case may be} a Founder Director is then in office provided
+that if a quorum is not present within 30 minutes, the meeting shal stand adjourned to the same
+date and place on the next following Business Day when any director(s) present shall constitute a
+quorum.
+
+At any meeting of the Directors each Director (or his alternate director} present at the meeting
+shall be entitled to one vote.
+
+Any Director including an alternate Director may participate in a meeting of the Directors or a
+committee of the Directors of which he is a member by means of a conference telephone or
+similar communications equipment whereby all persons participating in the meeting can hear
+each other and participation in a meeting in this manner shall be deemed to constitute presence
+in person at such meeting and, subject to these Articles and the CA 2006, he shall be entitled to
+vote and be counted in a quorum accordingly. Such a meeting shall be deemed to take place
+where the largest group of those participating is assembled or, if there is no such group, where
+the chairman of the meeting then is.
+
+Model Article 9(3) and 9(4) shall be deleted and replaced with:
+
+"Notice of every meeting of the directors shall be given to each director and his alternate,
+including directors and alternate directors who may for the time being be absent fram the United
+Kingdom and have given the Company an address within the United Kingdom or an e-mail address
+ora facsimile number outside the United Kingdom for service”.
+
+BOARD COMPOSITION
+
+Notwithstanding any other provisions of these Articles, so long as the Investor is the holder of any
+Loan Notes or Shares, the Investor may appoint a director {the “Imbiba Director”) to each Group
+Company and to remove from office any person so appointed and (subject to such removal) to
+appoint another person in his place.
+
+An Imbiba Director shall nat be required ta hold any Shares.
+
+Any appointment or removal of the Imbiba Director shall be by notice in writing to the Company
+which will take effect on delivery at the registered office of the Company or at any meeting of the
+Board.
+
+23
+
+PAGE 25
+24.4
+
+24,5
+
+24.6
+
+24.7
+
+24.8
+
+24.9
+
+24.10
+
+24.11
+
+24.12
+
+24.13
+
+24.14
+
+25
+
+For so long as the Investor is the holder of any Loan Notes or Shares, if any Imbiba Director is
+removed pursuant to section 168 of the CA 2006 or otherwise, the Investor may reappoint him or
+any other person as the Imbiba Director.
+
+Notwithstanding any other provisions of these Articles, so long as the Investor is the holder of any
+Loan Notes or Shares, the Investor shall have the right to appoint one person as an observer at
+board meetings of the Company (the “Observer”) and to remove from office any person so
+appointed and {subject to such removal) to appoint another person in his place.
+
+The Observer shall, be entitled to receive the same information concerning the business and
+affairs of the Company, as the Directors of the Company receive, and at the same time, but shall
+not be entitled to vote at such board meeting and shall not be counted towards the quorum.
+
+Any appointment or removal of the Observer by the Investor shall be by notice in writing to the
+Company which will take effect on delivery at the registered office of the Company or at any
+meeting of the Board.
+
+Far so long as the Founder is the holder of Shares in the Company and remains employed under
+his Founder Agreement {as defined in the Investment Agreement), the Founder may appoint such
+number of directors, including himself, as shall constitute a majority of the Board at any time and
+from time to time (each a “Founder Director”) to each Group Company and may remove from
+office any person so appointed and subject to such removal appoint another in his place. If,
+provided he is the holder of Shares in the Company and remains employed under his Founder
+Agreement, whenever he has not appointed sufficient Founder Directors to constitute a majority
+of the Board, on any resolution of the Directors during such times, the Founder shall be entitled
+on any resolution of the Board to such additional number of votes as will, with the other Founder
+Directors then appointed, give him a controlling vote an such resolution.
+
+If the Founder ceases to be employed by the Company but in circumstances when he is remains a
+Shareholder and is not a Very Bad Leaver for the purposes of Article 15.5, Article 24.8 shall not
+apply and the Founder shall be entitled himself to act as or otherwise appoint a single Founder
+Director {which if not himself will be subject to the prior approval of the Board, such approval not
+to be unreason ably withheld or delayed).
+
+If the Founder ceases to be employed by the Company in circumstances where he is a Very Bad
+Leaver for the purposes of Article 15.5, the Founder shall have no continuing rights to act as or
+appoint any further Founder Directors.
+
+Any Founder Director shall not be required to hold any Shares.
+
+Any appointment or removal of a Founder Director under Articles 24.8 or 24.9 shall be by notice
+in writing to the Company which will take effect on delivery at the registered office of the
+Company or at any meeting of the Board.
+
+For so long as the Founder is the holder of any Shares and Articles 24.8 or Article 24.9, if any
+Founder Director is removed pursuant to section 168 of the CA 2006 or otherwise, the Founder
+may reappoint him or any other person as the Founder Director.
+
+Where Articles 24.9 or 24.10 apply, any Founder Directors who are then in office who are surplus
+to the number of Founder Directors the Founder is then entiled to appoint shall be deemed
+thereupon to have resigned and the Company shall be entitled to process such resignation(s) and
+register the same with the Registrar of Companies accordingly without any further recourse to
+any person.
+
+DIRECTORS’ CONFLICTS OF INTERESTS
+
+24
+
+PAGE 26
+25,1
+
+25.2
+
+25.3
+
+25.4
+
+If a proposed decision of the Directors is concerned with an actual or proposed transaction or
+arrangement with the Company in which a Director is in any way directly or indirectly interested,
+that Director shall be counted as participating in the decision making process for quorum and
+voting purposes provided that the relevant interest either:
+
+25,11 has been duly declared in accordance with section 177 or section 182 CA 2006, as the
+case may require, or
+
+25.1.2 is not required by the terms of either of those sections to be declared.
+
+So long as the relevant interest falls within Article 8.1, a Director who is in any way, whether
+directly or indirectly, interested in an existing or proposed transaction with the Company:
+
+25.2.1 may be a party to, or otherwise interest in, any transaction or arrangement with the
+Company or in which the Company is otherwise (directly or indirectly) interested;
+
+25.2.2 shall be entitled to vote at a meeting of Directors (or of a committee of the Directors)
+or participate in any unanimous decision, in respect of any such matter or proposed
+matter in which he is interested;
+
+25,23 may act by himself or his firm in a professional capacity for the Company (otherwise
+than as auditor) and he or his firm shall be entitled to remuneration for professional
+services as if he were not a Director; and
+
+25.2.4 may be a Director, or other officer of, or employed by, or a party to a transaction or
+arrangement with, or otherwise interested in, any body corporate in which the
+Company is otherwise (directly or indirectly} interested.
+
+The Directors are hereby empowered for the purposes of section 175 of the CA 2006 to authorise
+any Conflict Situation that may arise and to amend or vary any such authorisation so given. Any
+such authorisation, amendment or revocation shall be given by resolution of the directors made
+in accordance with these Articles and, in the case of such authorisation, that section. The Directors
+may give any such authorisation subject to such terms as they shall consider appropriate and
+reasonable in the circumstances.
+
+For the purposes of sections 175 and 180(4) of the CA 2006 and for all other purposes, it is
+acknowledged that an Imbiba Director may be or become subject to a Conflict Situation or Conflict
+Situations as a result of his also being or having been or being party to an agreement or
+understanding or circumstances under which he may become an employee, director, trustee,
+member, partner, officer or representative of, or a consultant to, ora director or indirect investor
+in and/or otherwise commercially involved with or economically interested in any of the
+following:
+
+25.4.1 the Investor; and/or
+
+25.4.2 any affiliate of the Investor (“Investor's Affiliate”):
+
+25.4.3 a company or entity which is a member of the Investor Group; and/or
+
+25.4.4 is an investment manager or investment adviser to the Investor's Affiliate; and/or
+
+25.4.5 is a person in which the Investor and/or any Investor’s Affiliate may have or acquire a
+direct or indirect economic interest, including without limitation any portfolio
+company investee; and/or
+
+25,4.6 controls or is controlled, managed, advised (in an investment adviser capacity) or
+
+25
+
+PAGE 27
+25.5
+
+26
+
+27
+
+28
+
+28.1
+
+28.2
+
+promoted by the Investor and/or such Investor's Affiliate; and/or
+
+25.4.7 a trustee, manager, beneficiary, shareholder, partner, unit holder or other financier or
+any participant in or of it and/or that Investor's Affiliate; and/or
+
+25.4.8 any carried interest or similar incentive arrangement associated with any person or
+arrangement referred to in paragraphs 25.4.1 or 25.4.2 of this Article,
+
+where for these purposes “Person” shall mean any individual, body corporate, fund, trust,
+partnership or other entity whether or not having separate legal status.
+
+An Imbiba Director’s duties to the Company arising from his holding office as director shall not be
+breached or infringed as a result of any Conflict Situation envisaged by Article 25.4 provided he
+has declared to the Board that relevant Conflict Situation and he shall be entitled to:
+
+25.5.1 receive notice (including any relevant board papers) of, attend, count in the quorum
+towards and vote at board meeting relating in any way to, and deal generally with,
+matters concerning, connected with or arising from the Conflict Situation concerned;
+and
+
+25,5.2 keep confidential and not disclose to the Company any information which comes into
+his possession as a result of such Conflict Situation where such information is
+confidential as regards any third party.
+
+CONSENT MATTERS
+
+Where the consent of the “Imbiba Director’ is referred to in these Articles and if there is no Imbiba
+Director appointed, such consent may instead be given by the Investor.
+
+DIRECTORS’ BORROWING POWERS
+
+Subject as hereinafter provided, and as set out in the Investment Agreement, the Directors may
+exercise all the powers of the Company (whether express or implied} of borrowing or securing the
+payment of money, of guaranteeing the payment of money and the fulfilment of obligations and
+the performance of contracts, and of mortgaging or charging the undertaking, property, assets
+and uncalled capital of the Company and (subject to section 551 of the CA 2006) of issuing
+debentures.
+
+INDEMNITY
+
+Subject to the provisions of the CA 2006 every Director (including an alternate Director) or other
+officer of the Company shall be indemnified out of the assets of the Company against all losses or
+liabilities which he may sustain or incur in or about the lawful execution of the duties of his office
+or otherwise in relation thereto, including any liability incurred by him in defending any
+proceedings, whether civil or criminal, in which judgment is given in his favour or in which he is
+acquitted or in connection with any application in which relief is granted to him by the court, and
+no Director {including an alternate Director) or other officer shall be liable for any loss, damage
+or misfortune which may happen to or be incurred by the Company in the lawful execution of the
+duties of his office or in relation thereto.
+
+The Directors shall have power to purchase and maintain for any Director (including an alternate
+Director), officer or auditor of the Company, insurance against any liability which may attach to
+him or loss or expenditure which he may incur in relation to anything done or alleged to have
+been done or omitted to be done as a Director (including as an alternate Director), officer or
+auditor.
+
+26
+
+PAGE 28
+28.3 The Directors may authorise the directors of companies within the same group of companies as.
+the Company to purchase and maintain insurance at the expense of the Company for the benefit
+of any director {including an alternate director), other officer or auditor of such company in
+respect of such liability, loss or expenditure as is referred to in Article 28.1.
+
+27

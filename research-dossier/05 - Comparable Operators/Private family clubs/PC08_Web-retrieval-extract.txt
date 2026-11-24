@@ -1,0 +1,303 @@
+WEB RETRIEVAL EXTRACT — NOT AN ORIGINAL HTML DOWNLOAD
+Source: https://westminster.moderngov.co.uk/mgAi.aspx?ID=16204
+Captured: 2026-11-24
+Method: web.run text retrieval. The direct download failed; this is only the text exposed by the retrieval tool, which may be partial. The original HTML has not been archived. Consult the live source for full context.
+
+Agenda item - B Together, 47-51 St John's Wood High Street, NW8 7NJ (https://westminster.moderngov.co.uk/mgAi.aspx?ID=16204)
+citeturn57view0 [wordlim: 200] Crawled: 10 months ago; Content type: text/html; Source: open({"ref_id":"https://westminster.moderngov.co.uk/mgAi.aspx?ID=16204","lineno":null}); Total lines: 294
+L0: * 【0†Calendar】
+L1:   * 【1†Constitution】
+L2:   * 【2†Committees】
+L3:   * 【3†Councillors】
+L4:   * 【4†Community Council】
+L5:   * 【5†Decisions】
+L6:   * 【6†Electoral Services†www.westminster.gov.uk】
+L7:   * 【7†Forthcoming Decisions】
+L8:   * 【8†Forward Plans】
+L9:   * 【9†Library】
+L10:   * 【10†Meetings】
+L11:   * 【11†MPs】
+L12:   * 【12†Outside bodies】
+L13:   * 【13†Petitions】
+L14:   * 【14†Search Documents】
+L15:   * 【15†Subscribe to Updates】
+L16:   * 【16†What's New】
+L17: 
+L18: # Agenda item
+L19: ## B Together, 47-51 St John's Wood High Street, NW8 7NJ
+L20: 
+L21:   * 【17†Meeting of Licensing Sub-Committee (5), Thursday 25th November, 2021 10.00 am (Item 2.)】
+L22: 
+L23: Ward
+L24: CIA*
+L25: SCZ**
+L26: 
+L27: Site Name & Address
+L28: 
+L29: Application
+L30: Type
+L31: 
+L32: Licensing Reference No.
+L33: 
+L34: Regent’s Park
+L35: 
+L36: *  West End
+L37: 
+L38: **  None
+L39: 
+L40: B Together,        47-51 St John's Wood High Street, NW8 7NJ
+L41: 
+L42: Premises Licence Variation
+L43: 
+L44: 21/07502/LIPV
+L45: 
+L46: *Cumulative Impact Area
+L47: ** Special Consideration Zone
+L48: 
+L49: Minutes:
+L50: WESTMINSTER CITY COUNCIL LICENSING SUB-COMMITTEE NO. 5
+L51: 
+L52: (“The Committee”)
+L53: 
+L54: Thursday 25^{th} November 2021
+L55: 
+L56: Membership:           Councillor Murad Gassanly (Chair), Councillor Richard Elcho and Councillor Rita Begum
+L57: 
+L58: Officer Support:       Legal Advisor:         Viviene Walker
+L59: 
+L60:                                 Policy Officer:          Aaron Hardy
+L61: 
+L62:                                 Committee Officer:  Tristan Fieldsend
+L63: 
+L64:                                 Presenting Officer:  Kevin Jackaman
+L65: Application for a New Premises Licence 21/07502/LIPV
+L66: 
+L67: Full Decision
+L68: 
+L69: Premises
+L70: 
+L71: B Together
+L72: 
+L73: 47-51 St John’s Wood High Street
+L74: 
+L75: London
+L76: 
+L77: NW8 7NJ
+L78: 
+L79: Applicant
+L80: 
+L81: Intergenic Limited
+L82: 
+L83: Represented by Luke Elford (Solicitor – Woods Whur)
+L84: 
+L85: Cumulative Impact Area?
+L86: 
+L87: Not in a Cumulative Impact Area
+L88: 
+L89: Ward
+L90: 
+L91: Regent’s Park
+L92: 
+L93: Summary of Application
+L94: The Premises currently operated as a multi-purpose Premises with a café, working space, nursery and club lounge and was seeking to extend the hours for the Supply of Alcohol, Late Night Refreshment and Recorded Music.
+L95: 
+L96: Proposed Variations to the Activities and Hours
+L97: 
+L98: Recorded Music in the Ground Floor Restaurant
+L99: 
+L100: Monday to Saturday 10.00 to 23.30 hours
+L101: 
+L102: Sunday 12:00 to 22:30 hours
+L103: 
+L104: Recorded Music in the First and Second Floors
+L105: 
+L106: Monday to Saturday 10:00 to 23:00 hours
+L107: Late Night Refreshment in Ground Floor, First Floor, and Second Floor
+L108: 
+L109: Monday to Saturday 23.00 to 23.30 hours
+L110: 
+L111: Retail Sale of Alcohol [On and Off Sales] in the Ground Floor Restaurant
+L112: 
+L113: Monday to Saturday 10.00 to 23.30 hours
+L114: 
+L115: Sunday 12:00 to 22:30 hours
+L116: 
+L117: Retail Sale of Alcohol [On and Off Sales] in the First and Second Floors
+L118: 
+L119: Monday to Saturday 10.00 to 23.00 hours
+L120: 
+L121: Hours Premises are Open to the Public for the Restaurant
+L122: 
+L123: Monday to Saturday 08.00 to 23:30 hours
+L124: 
+L125: Sunday 08:00 to 22:30 hours
+L126: Hours Premises are Open to the Public for the remainder of the Premises
+L127: 
+L128: Monday to Saturday 08.00 to 23:30 hours
+L129: 
+L130: Sunday 08:00 to 22:30 hours
+L131: 
+L132: Layout Alteration
+L133: 
+L134: To approve the final layout of the premises as shown on the plan.
+L135: 
+L136: Representations Received
+L137: 
+L138: ·       Environmental Health Service (Ian Watson)
+L139: 
+L140: ·       Metropolitan Police (PC Reaz Guerra) – Withdrawn
+L141: 
+L142: ·       Planning Department (Harry Berks)
+L143: 
+L144: ·       Three local residents objecting to the application
+L145: 
+L146: Summary of issues raised by objector
+L147: ·       The proposed extension in hours for licensable activities would have the likely effect of causing an increase in Public Nuisance within the area.
+L148: 
+L149: ·       The opening hours proposed are until 00:30 and are therefore not in accordance with the opening hours that had been granted planning permission. The North Planning Team therefore objected on grounds of noise nuisance. If the premises were open beyond 22:00 they would be liable to planning enforcement investigation.
+L150: ·       The extension of opening hours was not in keeping with the quiet nature of the street and would further disrupt the ability of residents to enjoy any quiet time in their homes.
+L151: 
+L152: Policy Position
+L153: 
+L154: Under Policy HRS1, applications within the core hours will generally be granted subject to not being contrary to other policies in the Statement of Licensing Policy.
+L155: Under Policy COMB1(A), applications outside the West End Cumulative Impact Zone for premises that propose to operate as a ‘combined use premises’ will be considered on their merits and subject to the matters identified in Policy COMB1.
+L156: 
+L157: DECISION AND REASONS
+L158: 
+L159: The Licensing Officer introduced the application and confirmed that the Police had withdrawn their representation following the agreement of conditions with the applicant.
+L160: Mr Elford, representing the applicant, introduced the application and confirmed that following consultation the applicant had agreed to considerably reduce the hours originally sought for the retail sale of alcohol for consumption off the Premises to 23:00 Monday to Saturday and 22:30 on Sundays.
+L161: It was explained that B Together was a family members club where family memberships for six people, two adults and four children, could be bought to access a co-working family hub and attend hosted events and classes. The Premises had a public facing restaurant area on the ground floor which was completely separate from the club situated above it with no access between the two.
+L162: Mr Elford advised that the applicant had engaged with the responsible authorities and those parties objecting to ensure there would be no impact on the local area. With regard to the objections received it was recognised one had been submitted by the Council’s Planning Department regarding the opening hours, however licensing and planning were different regimes.
+L163: The Sub-Committee noted that there would be no change in the concept of the Premises and later hours were being sought simply to assist the business and provide a greater degree of flexibility. The hours applied for were now within the Council’s core hours policy and the proposed conditions promoted the licensing objectives.
+L164: In response to questions from the Sub-Committee Mr Elford provided information on dispersal from the Premises and the family events held on-site. Capacity limits were also provided for each floor, and it was explained that most members left the club by 18:00 hours but the later hours were sought to allow flexibility when holding events which usually catered for 30-40 people.
+L165: In terms of the restaurant there was no vertical drinking permitted and there were usually approximately 80 customers on the Premises at any one time. Bookings were managed appropriately in order to ensure there was a staggered dispersal and a drinking-up time had also been suggested for member events to assist with people leaving the Premises gradually.
+L166: Mr Watson, representing Environmental Health Service, confirmed that he had inspected the Premises and acknowledged that the restaurant on the ground floor was subject to the Council’s model restaurant condition, with the front area providing more of a café area experience. The first floor was children based consisting of various play areas and the second floor was a family area.
+L167: The Premises had not been operating long so there was no real history to the operation and Mr Watson was pleased to note that the hours originally applied for had been scaled back.
+L168: The Sub-Committee carefully considered the application and noted that the Premises were not located within a Cumulative Impact Area or a Special Consideration Zone and therefore it had to be considered it on its own individual merits with no presumption to refuse the application.
+L169: The Sub-Committee welcomed the discussions that had been undertaken with the responsible authorities and as such there were no representations from the Licensing Authority and the Police had subsequently withdrawn their representations. The representation from the Planning Department was noted but it was acknowledged that planning and licensing were different regimes and had to be considered separately.
+L170: In particular Members were pleased to note that the hours originally sought had been considerably reduced and were now within the Council’s core hours policy. In terms of the restaurant operation this would be controlled by the Council’s model restaurant condition providing reassurance that it would not become a drink-led establishment.
+L171: The representations received were carefully considered, however the Sub-Committee was of the opinion that most had arisen through a misunderstanding of the operation, which would be one of a family hub.
+L172: The conditions proposed by the applicant and agreed with the responsible authorities were considered appropriate and sufficient in order to provide reassurance to local residents. Therefore, having taken into account all the evidence (with consideration being given to the representations received from local residents), the Sub-Committee was satisfied that the application was suitable for the local area and had addressed the concerns raised.
+L173: The applicant had demonstrated that the application was appropriate, with the conditions proposed proportionate enough to ensure that the licensing objectives were promoted and mitigated the concerns raised. The Sub-Committee therefore granted the application accordingly.
+L174: The application was granted as follows:
+L175: 
+L176: 1.     To grant permission for the provision of Recorded Music in the Ground Floor Restaurant Monday to Saturday 10.00 to 23.30 hours
+L177: 
+L178: Sunday 12:00 to 22:30 hours
+L179: 
+L180: 2.     To grant permission for the provision of Recorded Music in the First and Second Floors Monday to Saturday 10:00 to 23:00 hours
+L181: 
+L182: 3.     To grant permission for the provision of Late Night Refreshment in Ground Floor, First Floor, and Second Floor Monday to Saturday 23.00 to 23.30 hours
+L183: 4.     To grant permission for the Retail Sale of Alcohol [On and Off Sales] in the Ground Floor Restaurant Monday to Saturday 10.00 to 23.30 hours
+L184: 
+L185: Sunday 12:00 to 22:30 hours
+L186: 
+L187: 5.     To grant permission for the Retail Sale of Alcohol [On and Off Sales] in the First and Second Floors Monday to Saturday 10.00 to 23.00 hours
+L188: 
+L189: 6.     To grant permission for the Opening Hours of the Restaurant Monday to Saturday 10.00 to 23:30 hours Sunday 12:00 to 22:30 hours
+L190: 7.     To grant permission for the Opening Hours for the remainder of the Premises Monday to Saturday 08.00 to 23:30 hours Sunday 08:00 to 22:30 hours.
+L191: 
+L192: 8.     To grant permission to approve the final layout of the Premises as shown on the plan supplied to the Licensing Authority.
+L193: 
+L194: 9.     That the Licence is subject to any relevant mandatory conditions.
+L195: 
+L196: 10.That the existing conditions on the licence shall apply in all respects except in so far as they are varied by this Decision.
+L197: 11.  That the varied licence is subject to the following additional conditions imposed by the Committee which are considered appropriate and proportionate to promote the licensing objectives.
+L198: 
+L199: Conditions consistent with the operating schedule
+L200: 
+L201: 9.        Non-intoxicating beverages, including drinking water, shall be available in all parts of the premises where alcohol is sold or supplied for consumption on the premises.
+L202: 10.      A direct telephone number for the manager at the premises shall be publicly available at all times the premises are open. This telephone number is to be made available to residents and businesses in the vicinity.
+L203: 
+L204: 11.      Patrons permitted to temporarily leave and then re-enter the premises, e.g., to smoke, shall not be permitted to take drinks or glass containers with them.
+L205: 12.      The premises licence holder shall ensure that any patrons smoking outside the premises do so in an orderly manner and are supervised by staff so as to ensure that there is no public nuisance or obstruction of the public highway.
+L206: 13.      The premises shall install and maintain a comprehensive CCTV system as per the minimum requirements of the Westminster Police Licensing Team. All entry and exit points will be covered enabling frontal identification of every person entering in any light condition. The CCTV system shall continually record whilst the premises are open for licensable activities and during all times when customers remain on the premises.
+L207: All recordings shall be stored for a minimum period of 31 days with date and time stamping. Viewing of recordings shall be made available immediately upon the request of Police or authorised officer throughout the entire 31-day period.
+L208: 14.      A staff member from the premises who is conversant with the operation of the CCTV system shall be on the premises at all times when the premises are open. This staff member must be able to provide a Police or authorised council officer copies of recent CCTV images or data with the absolute minimum of delay when requested.
+L209: 15.      An incident log shall be kept at the premises and made available on request to an authorised officer of the City Council or the Police. It must be completed within 24 hours of the incident and will record the following:
+L210: 
+L211: a. all crimes reported to the venue
+L212: 
+L213: b. all ejections of patrons
+L214: 
+L215: c. any complaints received concerning crime and disorder
+L216: 
+L217:            d. any incidents of disorder
+L218: 
+L219: e. all seizures of drugs or offensive weapons
+L220: f.  any faults in the CCTV system, searching equipment or scanning    equipment
+L221: 
+L222: g. any refusal of the sale of alcohol
+L223: 
+L224: h. any visit by a relevant authority or emergency service.
+L225: 
+L226: 16.      Notices shall be prominently displayed at all exits requesting patrons to respect the needs of local residents and businesses and leave the area quietly.
+L227: 
+L228: 17.      Notices shall be prominently displayed at any area used for smoking requesting patrons to respect the needs of local residents and use the area quietly.
+L229: 18.      No noise generated on the premises, or by its associated plant or equipment, shall emanate from the premises nor vibration be transmitted through the structure of the premises which gives rise to a nuisance.
+L230: 
+L231: 19.      No fumes, steam or odours shall be emitted from the licensed premises so as to cause a nuisance to any persons living or carrying on business in the area where the premises are situated.
+L232: 20.      All windows and external doors shall be kept closed after 22:00 hours except for the immediate access and egress of persons.
+L233: 
+L234: 21.      No deliveries to the premises shall take place between 23:00 and 06:00 on the following day.
+L235: 
+L236: 22.      No collections of waste or recycling materials (including bottles) from the premises shall take place between 23:00 and 06:00 on the following day.
+L237: 23.      No waste or recyclable materials, including bottles, shall be moved, removed from or placed in outside areas between 23:00 hours and 06:00 hours on the following day.
+L238: 24.     During the hours of operation of the premises, the licence holder shall ensure sufficient measures are in place to remove and prevent litter or waste arising or accumulating from customers in the area immediately outside the premises, and that this area shall be swept and or washed, and litter and sweepings collected and stored in accordance with the approved refuse storage arrangements by close of business.
+L239: 25.      The approved arrangements at the premises, including means of escape provisions, emergency warning equipment, the electrical installation and mechanical equipment, shall at all material times be maintained in good condition and full working order.
+L240: 
+L241: 26.      The means of escape provided for the premises shall be maintained unobstructed, free of trip hazards, be immediately available and clearly identified in accordance with the plans provided.
+L242: 27.     The edges of the treads of steps and stairways shall be maintained so as to be conspicuous.
+L243: 
+L244: 28.      A Challenge 21 proof of age scheme shall be operated at the premises where the only acceptable forms of identification are recognised photographic identification cards, such as a driving licence, passport or proof of age card with the PASS Hologram.
+L245: 
+L246: 29.      The number of persons permitted in the premises at any one-time (excluding staff) shall not exceed,
+L247: 
+L248: Ground Floor - 100 persons
+L249: First Floor - 120
+L250: 
+L251: Second Floor - 66
+L252: 
+L253: GROUND FLOOR
+L254: 
+L255: 30.      The area hatched black on the ground floor plan shall only operate as a restaurant and dining area.
+L256: 
+L257: a. in which customers are shown to their table,
+L258: 
+L259:            b. where the supply of alcohol is by waiter or waitress service only,
+L260: 
+L261: c. which provides food in the form of substantial table meals that are prepared on the premises and are served and consumed at the table using non disposable crockery,
+L262: d. which does not provide any takeaway service of food or drink for immediate consumption,
+L263: 
+L264: e. which does not provide any takeaway service of food or drink after 23.00, and
+L265: 
+L266: f. where alcohol shall not be sold or supplied, otherwise than for consumption by persons who are seated in the premises and bona fide taking substantial table meals there and provided always that the consumption of alcohol by such persons is ancillary to taking such meals.
+L267: 
+L268: FIRST FLOOR
+L269: 31.      The sale of alcohol is limited to those who have paid the appropriate fee and their guests to use the co-working space or to have use of a particular area.
+L270: 
+L271:  SECOND FLOOR
+L272: 
+L273: 32.     The sale of alcohol is limited to members of the club lounge who have paid the appropriate monthly fee and their guests.
+L274: 
+L275: Condition imposed by the Committee after a hearing with the agreement of the Applicant
+L276: 33.     All sales of alcohol for consumption off the premises shall be in sealed containers only and shall not be consumed on the premises.
+L277: 
+L278: This is the Full Decision reached by the Licensing Sub-Committee
+L279: 
+L280: This Decision takes immediate effect
+L281: 
+L282: The Licensing Sub-Committee
+L283: 
+L284: 25 November 2021
+L285: 
+L286: Supporting documents:
+L287:   * 【18†B Together report_Redacted, item 2. PDF 2 MB 】
+L288:   * Restricted enclosure【19† View the reasons why document 2./2 is restricted】
+L289:   * Restricted enclosure【20† View the reasons why document 2./3 is restricted】
+L290:   * Restricted enclosure【21† View the reasons why document 2./4 is restricted】
+L291:   * Restricted enclosure【22† View the reasons why document 2./5 is restricted】
+L292:   * Restricted enclosure【23† View the reasons why document 2./6 is restricted】
+L293:   * Restricted enclosure【24† View the reasons why document 2./7 is restricted】
+
+

@@ -1,0 +1,441 @@
+SEARCH AID; verify numbers against original PDF.
+
+--- PDF page 1 ---
+Application for Planning Permission and listed building consent for alterations,
+extension or demolition of a listed building.
+Town and Country Planning Act 1990
+Planning (Listed Buildings and Conservation Areas) Act 1990
+Publication of applications on planning authority websites.
+Please note that the information provided on this application form and in supporting documents may be published on the Authority’s website. If
+you require any further clarification, please contact the Authority’s planning department.
+1. Site Address
+Number 557
+Suffix
+Property name Kensal House and RB Building
+Address line 1 Harrow Road
+Address line 2
+Address line 3
+Town/city London
+Postcode W10 4RH
+Description of site location must be completed if postcode is not known:
+Easting (x) 523955
+Northing (y) 182413
+Description
+2. Applicant Details
+Title
+First name
+Surname -
+Company name The Little Houses Group
+Address line 1 c/o agent
+Address line 2
+Address line 3
+Town/city -
+Planning Portal Reference: PP-10224478
+
+--- PDF page 2 ---
+2. Applicant Details
+Country -
+Postcode
+Are you an agent acting on behalf of the applicant? Yes No
+Primary number
+Secondary number
+Fax number
+Email address
+3. Agent Details
+Title Mr
+First name Tom
+Surname Matheou
+Company name Gerald Eve LLP
+Address line 1 72 Welbeck Street
+Address line 2
+Address line 3
+Town/city London
+Country
+Postcode W1G 0AY
+Primary number
+Secondary number
+Fax number
+Email
+4. Description of the Proposal
+Please note in regard to:
+• Fire Statements - From 1 August 2021, planning applications for buildings of over 18 metres (or 7 stories) tall containing more than one dwelling will require a
+'Fire Statement' for the application to be considered valid. There are some exemptions. View government planning guidance on fire statements or access the fire
+statement template and guidance.
+• Permission In Principle - If you are applying for Technical Details Consent on a site that has been granted Permission In Principle, please include the relevant
+details in the description below.
+• Public Service Infrastructure - From 1 August 2021, applications for certain public service infrastructure developments will be eligible for faster determination
+timeframes. See help for further details or view government planning guidance on determination periods.
+Description
+Please describe details of the proposed development or works including details of proposals to alter, extend or demolish the listed building(s).
+Planning Permission:
+“External refurbishment of the site comprising the erection of a new buggy and waste storage, erection of a pergola to the rear of the site, new step-free
+access, rear fire staircase, and amendments to the fenestration and external doors to enable the use of the site.”
+Listed Building Consent:
+“Internal and External works at the site, comprising the replacement of internal modern partition walls and rearrangement of internal spaces, the erection of a
+new buggy and waste storage, new step-free access, rear fire staircase, and amendments to the fenestration and external doors to enable the use of the site.
+Has the development or work already been started without consent? Yes No
+Planning Portal Reference: PP-10224478
+
+--- PDF page 3 ---
+5. Site Information
+Title number(s)
+Please add the title number(s) for the existing building(s) on the site. If the site has no title numbers, please enter "Unregistered"
+Title Number NGL882738
+Title Number BGL20171
+Energy Performance Certificate
+Do any of the buildings on the application site have an Energy Performance Certificate (EPC)? Yes No
+Public/Private Ownership
+What is the current ownership status of the site? Public Private Mixed
+6. Further information about the Proposed Development
+Are the proposals eligible for the 'Fast Track Route' based on the affordable housing threshold and other criteria? Yes No
+Do the proposals cover the whole existing building(s)? Yes No
+Current lead Registered Social Landlord (RSL)
+If the proposal includes affordable housing, has a Registered Social Landlord been confirmed? Yes No
+If the proposal does not include affordable housing, select 'No'.
+Details of building(s)
+Please add details for each new separate building(s) being proposed (all fields must be completed). Please only include existing building(s) if they are increasing
+in height as part of the proposal.
+Building reference N/A
+Maximum height (Metres) 0
+Number of storeys 0
+Loss of garden land
+Will the proposal result in the loss of any residential garden land? Yes No
+Projected cost of works
+Please provide the estimated total cost of the Up to £2m
+proposal
+7. Vacant Building Credit
+Does the proposed development qualify for the vacant building credit? Yes No
+8. Superseded consents
+Does this proposal supersede any existing consent(s)? Yes No
+9. Development Dates
+Please add the expected commencement and completion dates for all phases of the proposed development.
+If the entire development is to be completed in a single phase, state in the 'Phase Detail' that it covers the 'Entire Development'.
+Planning Portal Reference: PP-10224478
+
+--- PDF page 4 ---
+9. Development Dates
+Phase Detail Commencement Month Commencement Year Completion Month Completion Year
+Full Works December 2021 June 2022
+10. Scheme and Developer Information
+Scheme Name
+Does the scheme have a name? Yes No
+Developer Information
+Has a lead developer been assigned? Yes No
+11. Listed Building Grading
+What is the grading of the listed building (as stated in the list of Buildings of Special Architectural or Historical Interest)?
+Don't know
+Grade I
+Grade II*
+Grade II
+Is it an ecclesiastical building? Don't know Yes No
+12. Demolition of Listed Building
+Does the proposal include the partial or total demolition of a listed building? Yes No
+13. Immunity from Listing
+Has a Certificate of Immunity from Listing been sought in respect of this building? Yes No
+14. Listed Building Alterations
+Do the proposed works include alterations to a listed building? Yes No
+If Yes, do the proposed works include
+a) works to the interior of the building? Yes No
+b) works to the exterior of the building? Yes No
+c) works to any structure or object fixed to the property (or buildings within its curtilage) internally or externally? Yes No
+d) stripping out of any internal wall, ceiling or floor finishes (e.g. plaster, floorboards)? Yes No
+If the answer to any of these questions is Yes, please provide plans, drawings and photographs sufficient to identify the location, extent and character of the
+items to be removed. Also include the proposal for their replacement, including any new means of structural support, and state references for the
+plan(s)/drawing(s).
+Please refer to accompanying drawing schedule
+15. Materials
+Does the proposed development require any materials to be used? Yes No
+Please provide a description of existing and proposed materials and finishes to be used (including type, colour and name for each material) demolition
+excluded
+Planning Portal Reference: PP-10224478
+
+--- PDF page 5 ---
+15. Materials
+Please add materials by using the dropdown list to select the type, clicking 'Add' and entering all the details in the popup box
+Type Existing materials and finishes Proposed materials and finishes
+External Walls Please refer to accompanying Plans, Elevations and Please refer to accompanying Plans, Elevations and
+DAS DAS
+Are you submitting additional information on submitted plans, drawings or a design and access statement? Yes No
+If Yes, please state references for the plans, drawings and/or design and access statement
+Please refer to accompanying drawing schedule
+16. Site Area
+What is the measurement of the site area? 2950.00
+(numeric characters only).
+Unit Sq. metres
+17. Existing Use
+Please describe the current use of the site
+Class E
+Is the site currently vacant? Yes No
+If Yes, please describe the last use of the site
+Class E
+When did this use end
+(if known)?
+DD/MM/YYYY
+Does the proposal involve any of the following? If Yes, you will need to submit an appropriate contamination assessment with your application.
+Land which is known to be contaminated Yes No
+Land where contamination is suspected for all or part of the site Yes No
+A proposed use that would be particularly vulnerable to the presence of contamination Yes No
+18. Existing and Proposed Uses
+Please add details of the Gross Internal Area (GIA) for all current uses and how this will change based on the proposed development. Details of the floor area for
+any proposed new uses should also be added.
+Following changes to Use Classes on 1 September 2020: The list includes the now revoked Use Classes A1-5, B1, and D1-2 that should not be used in most
+cases. Also, the list does not include the newly introduced Use Classes E and F1-2. To provide details in relation to these, select 'Other' and specify the use where
+prompted. View further information on Use Classes. Multiple 'Other' options can be added to cover each individual use. If the 'Other' option is not displayed, please
+contact our service desk to resolve this.
+Use Class Existing gross Gross internal floor Gross internal floor
+internal floor area area lost (including area gained
+(square metres) by change of use) (including change of
+(square metres) use) (square metres)
+B1(a) - Office (other than A2) 2265 22650 0
+Total 2265 22650 0
+Planning Portal Reference: PP-10224478
+
+--- PDF page 6 ---
+19. Pedestrian and Vehicle Access, Roads and Rights of Way
+Is a new or altered vehicular access proposed to or from the public highway? Yes No
+Is a new or altered pedestrian access proposed to or from the public highway? Yes No
+Are there any new public roads to be provided within the site? Yes No
+Are there any new public rights of way to be provided within or adjacent to the site? Yes No
+Do the proposals require any diversions/extinguishments and/or creation of rights of way? Yes No
+If you answered Yes to any of the above questions, please show details on your plans/drawings and state their reference numbers
+Please refer to accompanying drawing schedule
+20. Vehicle Parking
+Does the site have any existing vehicle/cycle parking spaces or will the proposed development add/remove any parking Yes No
+spaces?
+Please provide the number of existing and proposed parking spaces.
+Please note that car parking spaces and disabled persons parking spaces should be recorded separately unless its residential off-street parking which should
+include both.
+Type of vehicle Existing number of spaces Total proposed (including Difference in spaces
+spaces retained)
+Cars 30 30 0
+Cycle Spaces 20 20 0
+21. Electric vehicle charging points
+Do the proposals include electric vehicle charging points and/or hydrogen refuelling facilities? Yes No
+22. Foul Sewage
+Please state how foul sewage is to be disposed of:
+Mains Sewer
+Septic Tank
+Package Treatment plant
+Cess Pit
+Other
+Unknown
+Are you proposing to connect to the existing drainage system? Yes No Unknown
+23. Water Management
+Please state the expected percentage 0
+reduction of surface water discharge (for a 1 in
+100-year rainfall event) from the proposal
+Are Green Sustainable Drainage Systems (SuDS) incorporated into the drainage design for the proposal? Yes No
+Please state the expected internal residential 0.00
+water usage of the proposal (litres per person
+per day)
+Does the proposal include the harvesting of rainfall? Yes No
+Does the proposal include re-use of grey water? Yes No
+Planning Portal Reference: PP-10224478
+
+--- PDF page 7 ---
+24. Assessment of Flood Risk
+Is the site within an area at risk of flooding? (Check the location on the Government's Flood map for planning. You Yes No
+should also refer to national standing advice and your local planning authority requirements for information as
+necessary.)
+If Yes, you will need to submit a Flood Risk Assessment to consider the risk to the proposed site.
+Is your proposal within 20 metres of a watercourse (e.g. river, stream or beck)? Yes No
+Will the proposal increase the flood risk elsewhere? Yes No
+How will surface water be disposed of?
+Sustainable drainage system
+Existing water course
+Soakaway
+Main sewer
+Pond/lake
+25. Trees and Hedges
+Are there trees or hedges on the proposed development site? Yes No
+And/or: Are there trees or hedges on land adjacent to the proposed development site that could influence the Yes No
+development or might be important as part of the local landscape character?
+If Yes to either or both of the above, you may need to provide a full tree survey, at the discretion of your local planning authority. If a tree survey is
+required, this and the accompanying plan should be submitted alongside your application. Your local planning authority should make clear on its
+website what the survey should contain, in accordance with the current 'BS5837: Trees in relation to design, demolition and construction -
+Recommendations'.
+26. Biodiversity and Geological Conservation
+Is there a reasonable likelihood of the following being affected adversely or conserved and enhanced within the application site, or on land adjacent to
+or near the application site?
+To assist in answering this question correctly, please refer to the help text which provides guidance on determining if any important biodiversity or
+geological conservation features may be present or nearby; and whether they are likely to be affected by the proposals.
+a) Protected and priority species:
+Yes, on the development site
+Yes, on land adjacent to or near the proposed development
+No
+b) Designated sites, important habitats or other biodiversity features:
+Yes, on the development site
+Yes, on land adjacent to or near the proposed development
+No
+c) Features of geological conservation importance:
+Yes, on the development site
+Yes, on land adjacent to or near the proposed development
+No
+27. Open and Protected Space
+Will the proposed development result in the loss, gain or change of use of any open space? Yes No
+Will the proposed development result in the loss, gain or change of use of a site protected with a nature designation? Yes No
+Planning Portal Reference: PP-10224478
+
+--- PDF page 8 ---
+28. Waste and recycling provision
+Does every unit in this proposal (residential and non-residential) have dedicated internal and external storage space for Yes No
+dry recycling, food waste and residual waste?
+29. Residential Units
+Does this proposal involve the loss or replacement of any self-contained residential units or student accommodation Yes No
+(including those being rebuilt)?
+Does this proposal involve the addition of any self-contained residential units or student accommodation (including those Yes No
+being rebuilt)?
+30. Non-Permanent Dwellings
+Please add details of any non-permanent dwellings (if used as main residence e.g. caravans, mobile homes, converted railway carriages, etc...), traveller
+pitches/plots or houseboat moorings that this proposal seeks to add or remove
+31. Other Residential Accommodation
+Please add details of any non self-contained accommodation, based on the categories in the drop down menu, that this proposal seeks to add, remove or rebuild.
+Provision for older people
+Please specify the number of proposed rooms, of the types listed below, to be specifically provided for older people
+Older persons care home accommodation - 0
+Residential care homes (Use Class C2)
+Older persons supported and specialised 0
+accommodation - Hostel (Sui Generis Use)
+32. Utilities
+Water and gas connections
+Number of new water connections required 0
+Number of new gas connections required 0
+Fire safety
+Is a fire suppression system proposed? Yes No
+Internet connections
+Number of residential units to be served by full 0
+fibre internet connections
+Number of non-residential units to be served by 0
+full fibre internet connections
+Mobile networks
+Has consultation with mobile network operators been carried out? Yes No
+33. Environmental Impacts
+Community energy
+Will the proposal provide any on-site community-owned energy generation? Yes No
+Heat pumps
+Will the proposal provide any heat pumps? Yes No
+Solar energy
+Does the proposal include solar energy of any kind? Yes No
+Planning Portal Reference: PP-10224478
+
+--- PDF page 9 ---
+33. Environmental Impacts
+Passive cooling units
+Number of proposed residential units with 0
+passive cooling
+Emissions
+NOx total annual emissions (Kilograms) 0.00
+Particulate matter (PM) total annual emissions 0.00
+(Kilograms)
+Greenhouse gas emission reductions
+Are the on-site Greenhouse gas emission reductions at least 35% above those set out in Part L of Building Regulations Yes No
+2013?
+Green Roof
+Proposed area of 'Green Roof' to be added 0.00
+(Square metres)
+Urban Greening Factor
+Please enter the Urban Greening Factor score 0.00
+Residential units with electrical heating
+Number of proposed residential units with 0
+electrical heating
+Reused/Recycled materials
+Percentage of demolition/construction material 0
+to be reused/recycled
+34. Employment
+Are there any existing employees on the site or will the proposed development increase or decrease the number of Yes No
+employees?
+35. Hours of Opening
+Are Hours of Opening relevant to this proposal? Yes No
+36. Industrial or Commercial Processes and Machinery
+Does this proposal involve the carrying out of industrial or commercial activities and processes? Yes No
+Is the proposal for a waste management development? Yes No
+If this is a landfill application you will need to provide further information before your application can be determined. Your waste planning authority
+should make it clear what information it requires on its website
+37. Hazardous Substances
+Does the proposal involve the use or storage of any hazardous substances? Yes No
+38. Trade Effluent
+Does the proposal involve the need to dispose of trade effluents or trade waste? Yes No
+39. Site Visit
+Can the site be seen from a public road, public footpath, bridleway or other public land? Yes No
+If the planning authority needs to make an appointment to carry out a site visit, whom should they contact?
+Planning Portal Reference: PP-10224478
+
+--- PDF page 10 ---
+39. Site Visit
+The agent
+The applicant
+Other person
+40. Pre-application Advice
+Has assistance or prior advice been sought from the local authority about this application? Yes No
+If Yes, please complete the following information about the advice you were given (this will help the authority to deal with this application more
+efficiently):
+Officer name:
+Title
+First name
+Surname
+Reference
+Date (Must be pre-application submission)
+29/06/2021
+Details of the pre-application advice received
+Please refer to cover letter
+41. Authority Employee/Member
+With respect to the Authority, is the applicant and/or agent one of the following:
+(a) a member of staff
+(b) an elected member
+(c) related to a member of staff
+(d) related to an elected member
+It is an important principle of decision-making that the process is open and transparent. Yes No
+For the purposes of this question, "related to" means related, by birth or otherwise, closely enough that a fair-minded and
+informed observer, having considered the facts, would conclude that there was bias on the part of the decision-maker in
+the Local Planning Authority.
+Do any of the above statements apply?
+42. Ownership Certificates and Agricultural Land Declaration
+CERTIFICATE OF OWNERSHIP - CERTIFICATE B - Town and Country Planning (Development Management Procedure) (England) Order 2015 Certificate
+under Article 14 & Regulation 6 of the Planning (Listed Buildings and Conservation Areas) Regulations 1990
+I certify/The applicant certifies that:
+I have/The applicant has given the requisite notice to everyone else (as listed below) who, on the day 21 days before the date of this application, was the
+owner* and/or agricultural tenant** of any part of the land or building to which this application relates; or
+The applicant is the sole owner of all the land or buildings to which this application relates and there are no other owners* and/or agricultural tenants**.
+* 'owner' is a person with a freehold interest or leasehold interest with at least 7 years to run. ** 'agricultural tenant' has the meaning given in section
+65(8) of the Town and Country Planning Act 1990.
+Owner/Agricultural Tenant
+Planning Portal Reference: PP-10224478
+
+--- PDF page 11 ---
+42. Ownership Certificates and Agricultural Land Declaration
+Name of Owner/Agricultural
+Tenant
+Number
+Suffix
+House Name 656 Trafalgar Court
+Address line 1 East Wing
+Address line 2 Les Banques
+Town/city Guernsey
+Postcode GY1 3PP
+Date notice served 07/10/2021
+(DD/MM/YYYY)
+Name of Owner/Agricultural
+Tenant
+Number 89
+Suffix
+House Name
+Address line 1 Wardour Street
+Address line 2
+Town/city London
+Postcode W1F 0UB
+Date notice served 07/10/2021
+(DD/MM/YYYY)
+Person role
+The applicant
+The agent
+Title
+First name
+Surname Gerald Eve Ltd
+Declaration date 06/10/2021
+Declaration made
+43. Declaration
+I/we hereby apply for planning permission/consent as described in this form and the accompanying plans/drawings and additional information. I/we confirm
+that, to the best of my/our knowledge, any facts stated are true and accurate and any opinions given are the genuine opinions of the person(s) giving them.
+Date (cannot be pre- 06/10/2021
+application)
+Planning Portal Reference: PP-10224478

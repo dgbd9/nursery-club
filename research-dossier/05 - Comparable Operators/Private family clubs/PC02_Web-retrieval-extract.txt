@@ -1,0 +1,529 @@
+WEB RETRIEVAL EXTRACT — NOT AN ORIGINAL HTML DOWNLOAD
+Source: https://cloudtwelve.co.uk/memberships/kids-club-membership/
+Captured: 2026-11-24
+Method: web.run text retrieval. The direct download failed; this is only the text exposed by the retrieval tool, which may be partial. The original HTML has not been archived. Consult the live source for full context.
+
+Kids Club Membership - Cloud Twelve | Luxury Wellness Club & Spa in Notting Hill, London (https://cloudtwelve.co.uk/memberships/kids-club-membership/)
+citeturn56view0 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://cloudtwelve.co.uk/memberships/kids-club-membership/","lineno":null}); Total lines: 525
+L0: 【0†iframe†www.googletagmanager.com】
+L1: 
+L2:   * 【1†Spa】 Close Spa Open Spa
+L3: 
+L4: ## 【2†Spa】
+L5: 
+L6: 【1†Explore all treatments】
+L7: 
+L8: ## 【3†Massages】
+L9: 
+L10:     * 【4†Signature Deep Relief Kloris Oil Massage】
+L11:     * 【5†Bespoke Massage】
+L12:     * 【6†Hot Stone Massage】
+L13:     * 【7†De-Stress Massage】
+L14:     * 【3†View All Massages】
+L15: 
+L16:     * 【4†Signature Deep Relief Kloris Oil Massage】
+L17:     * 【5†Bespoke Massage】
+L18:     * 【6†Hot Stone Massage】
+L19:     * 【7†De-Stress Massage】
+L20:     * 【3†View All Massages】
+L21: ## 【8†Facials】
+L22: 
+L23:     * 【9†Pregnancy Facial】
+L24:     * 【10†Bespoke: Hydrate Facial】
+L25:     * 【11†High Impact Facial】
+L26:     * 【12†Sublime Pro Lift Facial】
+L27:     * 【8†View All Facials】
+L28: 
+L29:     * 【9†Pregnancy Facial】
+L30:     * 【10†Bespoke: Hydrate Facial】
+L31:     * 【11†High Impact Facial】
+L32:     * 【12†Sublime Pro Lift Facial】
+L33:     * 【8†View All Facials】
+L34: ## 【13†Packages】
+L35: 
+L36:     * 【14†Day Spa Classic】
+L37:     * 【15†Mother & Daughter Spa Day】
+L38:     * 【16†Couples Retreat Classic】
+L39:     * 【13†View All Packages】
+L40: 
+L41:     * 【14†Day Spa Classic】
+L42:     * 【15†Mother & Daughter Spa Day】
+L43:     * 【16†Couples Retreat Classic】
+L44:     * 【13†View All Packages】
+L45: ## 【1†Spa】
+L46: 
+L47:     * 【3†Massages】
+L48:     * 【17†Head Spa】
+L49:     * 【8†Facials】
+L50:     * 【18†Gift Vouchers】
+L51:     * 【1†View All Treatments】
+L52: 
+L53:     * 【3†Massages】
+L54:     * 【17†Head Spa】
+L55:     * 【8†Facials】
+L56:     * 【18†Gift Vouchers】
+L57:     * 【1†View All Treatments】
+L58: 
+L59: ## 【17†Head Spa】
+L60: 
+L61: Named ‘Best Luxury Head Spa in London’
+L62: 
+L63:     * 【17†Explore Head Spa】
+L64: 
+L65:     * 【17†Explore Head Spa】
+L66: ## 【19†Spa Memberships】
+L67: 
+L68:     * 【20†Spa Membership】
+L69:     * 【21†Longevity Membership】
+L70:     * 【19†All Memberships】
+L71: 
+L72:     * 【20†Spa Membership】
+L73:     * 【21†Longevity Membership】
+L74:     * 【19†All Memberships】
+L75: 
+L76:   * 【2†Biohacking】
+L77: 
+L78:   * 【22†Wellness】
+L79: 
+L80:   * 【23†Kids & Families】 Close Kids & Families Open Kids & Families
+L81: 
+L82:     * 【23†Kids Club Membership】
+L83:     * 【24†Birthday Parties】
+L84: 
+L85:     * 【23†Kids Club Membership】
+L86:     * 【24†Birthday Parties】
+L87: 
+L88:   * 【25†Events】
+L89: 
+L90:   * 【26†Jenya Di Pierro】
+L91:   * 【19†Memberships】 Close Memberships Open Memberships
+L92: 
+L93:     * 【23†Kids Club Membership】
+L94:     * 【20†Spa Membership】
+L95:     * 【21†Longevity Membership】
+L96:     * 【19†Explore Memberships】
+L97: 
+L98:     * 【23†Kids Club Membership】
+L99:     * 【20†Spa Membership】
+L100:     * 【21†Longevity Membership】
+L101:     * 【19†Explore Memberships】
+L102: 
+L103:   * 【27†Gifts & Offers】
+L104: 
+L105:   * 【28†About】 Close About Open About
+L106: 
+L107:     * 【25†Events】
+L108:     * 【28†About Cloud Twelve】
+L109:     * 【27†Gift Vouchers】
+L110:     * 【23†Book a Tour】
+L111:     * 【29†News & Press】
+L112:     * 【30†Contact Us】
+L113:     * 【25†Events】
+L114:     * 【28†About Cloud Twelve】
+L115:     * 【27†Gift Vouchers】
+L116:     * 【23†Book a Tour】
+L117:     * 【29†News & Press】
+L118:     * 【30†Contact Us】
+L119: 
+L120:   * 【29†News】
+L121:   * 【31†Homepage】
+L122:   * 【1†Spa】
+L123:     * 【1†All Spa Treatments】
+L124:     * 【3†Massages】
+L125:     * 【8†Facials】
+L126:     * 【13†Packages】
+L127:     * 【32†Thermal Suite】
+L128:     * 【33†Head Spa】
+L129:     * 【19†Memberships】
+L130:   * 【2†Biohacking】
+L131:   * 【22†Wellness】
+L132:   * 【23†Kids & Families】
+L133:     * 【23†Kids Club Membership】
+L134:     * 【24†Birthday Parties】
+L135:   * 【26†Jenya Di Pierro】
+L136:   * 【19†Memberships】
+L137:     * 【23†Kids Club Membership】
+L138:     * 【20†Spa Membership】
+L139:     * 【21†Longevity Membership】
+L140:     * 【19†Explore Memberships】
+L141:   * 【27†Gifts & Offers】
+L142:   * 【29†News & Press】
+L143:   * 【25†Events】
+L144:   * 【28†About】
+L145:   * 【30†Contact】
+L146:   * 【31†Homepage】
+L147:   * 【1†Spa】
+L148:     * 【1†All Spa Treatments】
+L149:     * 【3†Massages】
+L150:     * 【8†Facials】
+L151:     * 【13†Packages】
+L152:     * 【32†Thermal Suite】
+L153:     * 【33†Head Spa】
+L154:     * 【19†Memberships】
+L155:   * 【2†Biohacking】
+L156:   * 【22†Wellness】
+L157:   * 【23†Kids & Families】
+L158:     * 【23†Kids Club Membership】
+L159:     * 【24†Birthday Parties】
+L160:   * 【26†Jenya Di Pierro】
+L161:   * 【19†Memberships】
+L162:     * 【23†Kids Club Membership】
+L163:     * 【20†Spa Membership】
+L164:     * 【21†Longevity Membership】
+L165:     * 【19†Explore Memberships】
+L166:   * 【27†Gifts & Offers】
+L167:   * 【29†News & Press】
+L168:   * 【25†Events】
+L169:   * 【28†About】
+L170:   * 【30†Contact】
+L171: # Kids Club Membership
+L172: 
+L173: “The Cool Kid’s Club in London”
+L174: 
+L175: 【34†Book a Tour†calendly.com】
+L176: 
+L177: 【30†Become a Member】
+L178: 
+L179: #### Loved by
+L180: 
+L181: 【35†Image: Bazaar】【35†Image: Bazaar】
+L182: 
+L183: 【36†Image: Hello】【36†Image: Hello】
+L184: 
+L185: 【37†Image: Tatler】【37†Image: Tatler】
+L186: 
+L187: 【38†Image: The Standard】【38†Image: The Standard】
+L188: 
+L189: 【39†Image: Country and Town House】【39†Image: Country and Town House】
+L190: 
+L191: 【40†Image: Beauty】【40†Image: Beauty】
+L192: ## Learn, Play, Grow with Local Kids in the Heart of Notting Hill
+L193: 
+L194: Nestled in the heart of Notting Hill, London – Cloud Twelve Kid’s Club invites you to embark on an unforgettable journey of play, learning, and discovery.
+L195: 
+L196: Thoughtfully designed to inspire creativity, confidence, and imagination, our award-winning Kids’ Club offers a nurturing environment where children can explore, create, and thrive through enriching experiences, imaginative play, and meaningful connections.
+L197: ## What Makes Cloud Twelve
+L198: Kid's Club Special?
+L199: 
+L200: Cloud Twelve Kids’ Club is a one-of-a-kind London children’s club offering creative play, enriching activities and exceptional care in a welcoming, inspiring and safe space.
+L201: 
+L202: We help children learn, grow and build confidence through experiences designed around their curiosity and imagination.
+L203: 
+L204: ### Early Social Development
+L205: 
+L206: Help your child thrive with early social development through engaging classes, group activities and opportunities to make new friends
+L207: ### Flexible Membership Designed To Suit You
+L208: 
+L209: Enjoy the freedom to make Cloud Twelve part of your family’s lifestyle, with flexible access to enriching children’s activities — whatever the London weather brings
+L210: 
+L211: ### Safety & Supervision
+L212: 
+L213: Our highly trained team provides attentive supervision and exceptional care, ensuring children feel safe, supported and free to explore while parents relax with confidence
+L214: ### Facilities for Inspired Play
+L215: 
+L216: Give your child access to exceptional play spaces, creative activities and premium facilities within a clean, safe and beautifully designed London kids’ club environment
+L217: 
+L218: ### Community & Connection
+L219: 
+L220: Join a welcoming community of like-minded families through exclusive events, shared experiences and opportunities to build meaningful friendships in the heart of London.
+L221: ### "London's Best
+L222: Day Spa"
+L223: 
+L224: As recommended by VOGUE: You deserve some "me-time" and where better than the beautiful Cloud
+L225: Twelve Spa
+L226: 
+L227: ### Whole Family Health & Wellness
+L228: 
+L229: Support your family’s wellbeing with access to leading health and wellness experts through our integrated Wellness Clinic, designed to help every member of the family feel their best
+L230: 
+L231: ### Iconic Seasonal Parties
+L232: 
+L233: Enjoy complimentary access to our much-loved seasonal celebrations, a highlight of the Notting Hill community calendac
+L234: ## Who is it for?
+L235: 
+L236: Cloud Twelve Kid’s Club is designed for:
+L237:   * Families with young children from 0-7 years seeking high-quality play, learning, and social experiences
+L238:   * For families seeking a calm and exclusive setting with limited memberships, meaning attentive supervision and personalised experiences designed to make every child feel safe
+L239:   * Parents preparing children for nursery through early socialisation and structured activities
+L240:   * Busy parents who value flexibility, convenience, and trusted supervision
+L241:   * Wellness-focused families looking to combine children’s enrichment with self-care
+L242:   * Like-minded families who enjoy community, connection, and shared experiences
+L243:   * Whether you’re visiting together or enjoying well-deserved “me-time,” the Kid’s Club supports both children and parents
+L244: ## What To Look Forward To At Cloud Twelve
+L245: 
+L246: Discover everything to look forward to at Cloud Twelve, where families can enjoy an inspiring range of experiences designed for children of all ages.
+L247: 
+L248: From enriching activities and creative learning opportunities to fun-filled play, celebrations, and exceptional childcare experiences, Cloud Twelve offers a magical destination where children can learn, grow, and make lasting memories.
+L249: 
+L250: Play Zone Birthday Parties Crèche Café Spa for Parents
+L251: ## Play Zone
+L252: 
+L253: Step into Cloud Twelve Kids Club, a one-of-a-kind sanctuary that fosters growth, creativity, and connection for children aged 0 to 11. Our thoughtfully designed play and learn area are designed for optimal child development, where open-ended exploration and discovery await.
+L254: 
+L255: 
+L256: Watch as your child thrives in our enchanting forest-themed environment, forging new relationships and honing essential communication skills.
+L257: Our custom-made tools inspire critical thinking, creative problem-solving, and physical challenges, transforming playtime into a dynamic learning experience that nurtures the budding minds of our young guests.
+L258: 
+L259: Join us at Cloud Twelve Kids Club, where imagination flourishes, and children cultivate the skills to blossom into their brightest selves.
+L260: 
+L261: 【34†Book a Tour†calendly.com】
+L262: ## Birthday Parties
+L263: 
+L264: Discover extraordinary birthday parties at Cloud Twelve Kids Club, where imagination and excitement know no bounds. Our unique venue transforms birthday dreams into unforgettable realities, offering a magical playground and personalised activities – bringing your child’s party dreams to life!
+L265: 
+L266: Watch as little ones delight in our engaging entertainment and curated experiences, ensuring laughter and joy fill the air.
+L267: Our versatile, playful space guarantees endless fun for all, making Cloud Twelve the ultimate London destination for extraordinary birthday parties that create cherished memories to last a lifetime.
+L268: 
+L269: 【24†Learn More】
+L270: ## Crèche
+L271: 
+L272: Our Creche at Cloud Twelve offers a nurturing and inspiring environment where children can enjoy enriching experiences while parents take time for themselves — whether working, relaxing, or enjoying our wellness facilities. Through engaging activities and guided exploration, children are encouraged to discover the world around them, developing curiosity and confidence across a range of subjects through play-based learning.
+L273: Daily group sessions led by our experienced practitioners support your child’s social, emotional, and creative development, with opportunities to explore expressive arts including drama, singing, storytelling, and rhyming. These thoughtfully designed experiences help children build friendships, develop resilience, and flourish in a safe, caring environment while parents enjoy peace of mind.
+L274: 
+L275: 【34†Book a Tour†calendly.com】
+L276: ## Café
+L277: 
+L278: At Cloud Twelve, we believe that a strong foundation of health begins with understanding and appreciating the food we eat. Our menu is thoughtfully designed to enhance agility and concentration by minimising processed, starchy, and sugary items, while introducing delicious, nutrient-rich alternatives that fuel children’s natural energy.
+L279: Join us in cultivating a mindful eating approach for your family, as we strive to educate and empower parents, guardians, and children to make informed choices about their dietary habits. Together, we’ll embark on a journey towards healthier, happier, and more balanced lives through nourishing food and mindful practices.
+L280: 
+L281: 【41†Download menu】
+L282: ## Spa for Parents
+L283: 
+L284: Need a break?
+L285: 
+L286: Our Parents Spa & Crèche package is designed for parents who deserve some serious “me-time” — without any worry.
+L287: 
+L288: Relax, recharge, and restore while your child enjoys a fun-filled, supervised session in our on-site crèche. With professional staff and engaging play activities, your little ones are entertained safely, leaving you free to enjoy complete peace of mind.
+L289: 
+L290: 【42†Learn More】
+L291: ## Classes
+L292: 
+L293: Our immersive curriculum focuses on art, movement, cognitive development, wellness, mindfulness and sustainability of the world in which we live.
+L294: 
+L295: We utilise varied pedagogical approaches to increase and inspire curiosity, concentration, cognitive ability, creativity, and to help develop open-minded individuals.
+L296: 
+L297: 【43†Class Schedule】
+L298: 
+L299: 【44†Class Overviews】
+L300: 
+L301: 【45†Image: Children enjoying activities at Cloud Twelve Kids Club】【45†Image: Children enjoying activities at Cloud Twelve Kids Club】
+L302: ### Monkey Music
+L303: 
+L304: Dynamic music classes packed with learning opportunities, specially written Monkey Music songs and lots of wonderful instruments which the children play along with.
+L305: 
+L306: 【46†Image: Cloud Twelve Kids Club children enjoying arts, crafts and creative play sessions】【46†Image: Cloud Twelve Kids Club children enjoying arts, crafts and creative play sessions】
+L307: ### Mother Nature
+L308: 
+L309: Join our sensory creation class utilising materials from nature, embracing elements of the environment to fuel creativity and sensory development.
+L310: 
+L311: 【47†Image: Child enjoying a sensory play class at Cloud Twelve in Notting Hill】【47†Image: Child enjoying a sensory play class at Cloud Twelve in Notting Hill】
+L312: ### SEN-Stories
+L313: 
+L314: Our sen-story classes provide engaging and interactive experiences for members by introducing them to classic stories in fun and exciting ways. Through creative storytelling each story is brought to life by immersing children in brought to life an all-round sensory experience.
+L315: 
+L316: 【48†Image: Cloud Twelve Notting Hill kids classes and activities】【48†Image: Cloud Twelve Notting Hill kids classes and activities】
+L317: ### Crafternoon
+L318: 
+L319: Exciting and imaginative craft classes, where your child can tap into their creativity and explore their artistic side. Each hands-on session is designed to be fun and engaging, helping children learn new techniques and create something truly unique. With all materials provided, our experienced instructors guide children through the creative process, encouraging them to experiment, explore and let their imagination run wild.
+L320: 【49†Image: Happy children attending creative and educational classes at Cloud Twelve Notting Hill】【49†Image: Happy children attending creative and educational classes at Cloud Twelve Notting Hill】
+L321: ### Make Believe Academy
+L322: 
+L323: Our Make Believe Academy weekly classes are a fun and exciting way for you and your child to experience the performing arts and explore a world of imagination through songs, stories and much more. Each session sparks creativity and self-expression through role play, while helping to develop literacy, numeracy, communication and social skills in a fun and engaging way.
+L324: 【50†Image: Kids taking part in imaginative activities at Cloud Twelve Notting Hill】【50†Image: Kids taking part in imaginative activities at Cloud Twelve Notting Hill】
+L325: ### Modular Minds
+L326: 
+L327: This class presents children with a STEM-focused challenge with the opportunity to practice problem solving, fine/visual motor skills, trial and error, and plenty of opportunity to get creative. Children will be entrusted with engineering a series of daring and imaginative buildings or objects inspired by the world around them, combining imagination with strategy and learning through play.
+L328: 【51†Image: Children learning through hands-on activities at Cloud Twelve Kids Club】【51†Image: Children learning through hands-on activities at Cloud Twelve Kids Club】
+L329: ### Dough Shop
+L330: 
+L331: Modelling play-doh is a fantastic way to let your children explore their creative skills by creating masterpieces of all shapes and sizes. Perfect for hand and eye coordination and creativity each of our themes sessions offer your little one the opportunity to tap into their imaginations via the medium of making, moulding and building.
+L332: 【52†Image: Children enjoying creative classes and activities at Cloud Twelve Kids Club in Notting Hill】【52†Image: Children enjoying creative classes and activities at Cloud Twelve Kids Club in Notting Hill】
+L333: ### Messy Play
+L334: 
+L335: Splash, squelch, splat and create! Our fun, messy play classes feature a different theme each week, giving little ones the chance to explore, learn and get creative – while we do the tidying up! Through textures, messy activities and imaginative play, children develop fine and gross motor skills alongside their language, communication and social skills.
+L336: 【53†Image: Children enjoying creative classes at Cloud Twelve Kids Club Notting Hill】【53†Image: Children enjoying creative classes at Cloud Twelve Kids Club Notting Hill】
+L337: ### Kidfit
+L338: 
+L339: Move it and shake it in Cloud Twelve’s Kidfit class! Our physical play classes have been been especially designed to develop early physical skills, sensory awareness and to help your child channel their boundless energy. We use movement, music, learning and laughter to nurture ongoing skill development and boost self-esteem.
+L340: 【54†Image: Children taking part in imaginative play classes at Cloud Twelve Kids Club】【54†Image: Children taking part in imaginative play classes at Cloud Twelve Kids Club】
+L341: ### Signature Bop Stars
+L342: 
+L343: There is no better way to start your day than with a Signature Bop Stars Class. These sessions are fun and engaging classes that will encourage the development and growth of your little one’s fundamental skills. Through a combination of movement, music and sensory elements these classes will provide you and your little ones the perfect environment to bloom together.
+L344: 【55†Image: Children exploring fun learning activities at Cloud Twelve Kids Club】【55†Image: Children exploring fun learning activities at Cloud Twelve Kids Club】
+L345: ### Party Animals!
+L346: 
+L347: Help! There are so many animals at The Cloud Twelve Zoo, but THEY’RE ALL MISSING! We need your kids to help BE all of the different animals to keep the zoo up and running. We have 30 animals and just 30 minutes — and the alphabet to guide us. What animal starts with a B? BEAR! Quick,act like a bear! Roar like a bear!
+L348: 
+L349: 【56†Image: Kids activities and classes at Cloud Twelve Notting Hill】【56†Image: Kids activities and classes at Cloud Twelve Notting Hill】
+L350: ### Forest Fairytales
+L351: 
+L352: An immersive storytelling session that encourages your child to extend the range of their imagination through puppet and creative play, developing linguistic skills and exercising their emotional intelligence and creative thought.
+L353: 
+L354: 【57†Image: Creative children’s classes at Cloud Twelve in Notting Hill】【57†Image: Creative children’s classes at Cloud Twelve in Notting Hill】
+L355: ### Mystery Tubs
+L356: 
+L357: A fun varied expedition of the senses that builds observational skills, cause and effect, and fine motor observational skills via sensory bins. This class is welcome for a range of ages where we incorporate five of our senses in order to be stimulated, providing a grounding experience for your child where they can engage with the environment your child more deeply and in turn sharpen their focus.
+L358: 【58†Image: Children’s enrichment classes at Cloud Twelve Notting Hill】【58†Image: Children’s enrichment classes at Cloud Twelve Notting Hill】
+L359: ### Mad Scientist
+L360: 
+L361: Join us for our Mad Scientists classes, where we explore a new subject each week through hands-on experiments, videos and storytelling. From storms and volcanoes to the solar system, children discover scientific principles through fun, interactive activities that help them understand the world around them while inspiring a love of science.
+L362: 【59†Image: Fun children’s activities at Cloud Twelve Kids Club Notting Hill】【59†Image: Fun children’s activities at Cloud Twelve Kids Club Notting Hill】
+L363: ### Boogie Bears
+L364: 
+L365: Boogie Bears helps to build your child’s confidence and listening skills using classic nursery rhymes and children’s favourites.
+L366: 
+L367: 【60†Image: Cloud Twelve Kids Club activities for children in Notting Hill】【60†Image: Cloud Twelve Kids Club activities for children in Notting Hill】
+L368: ### Mini Masterpieces
+L369: 
+L370: For your little ones, the experience of creating art is more important than the finished masterpiece. Our mini Picassos explore a wide range of authentic materials, from leaves, sticks and flowers to chalk, crayons, string and spray bottles. Each material sparks their imagination and encourages creativity, making art fun, exciting and full of possibilities.
+L371: 【61†Image: Children creating and learning through fun activities at Cloud Twelve Kids Club Notting Hill】【61†Image: Children creating and learning through fun activities at Cloud Twelve Kids Club Notting Hill】
+L372: ### Mini Masterchefs
+L373: 
+L374: At Mini Masterchefs, children make fun and delicious recipes while discovering where food comes from and how it’s grown. We encourage little ones to be adventurous with food and develop a love of cooking and baking from an early age. Each week brings fresh ingredients and exciting themed recipes inspired by the seasons.
+L375: ## Become a Kids Club Member
+L376: 
+L377: “Best Private Members’ Club for Families in London”
+L378: 
+L379: Conde Nast Traveller
+L380: 
+L381: Prices starting from £2,650
+L382: (Annual Membership)
+L383:   * Cloud Twelve Welcome Pack
+L384:   * Welcome voucher and exclusive rates for Cloud Twelve Spa services
+L385:   * Access to Kids Classes: music, art, nutrition, science, nature & magic
+L386:   * Complimentary creche sessions
+L387:   * Complimentary guest passes
+L388:   * Exclusive benefits with external partners of Cloud Twelve: hotels, education, care, retail & more
+L389:   * Free access to Wellness Events
+L390:   * A dedicated sanctuary in the heart of London, whenever you need to unwind
+L391:   * 【62†Exclusive benefits from trusted partners】
+L392: 【63†Download Membership Brochure】
+L393: 
+L394: 【34†Book a Tour†calendly.com】
+L395: ## Bolt On Essential Package
+L396: 
+L397: Add to your Kids Club Membership:
+L398: 
+L399: 1x Essential Treatments, with complimentary Thermal Suite access, plus x1 complimentary Biohacking treatment.  | £100 p/month
+L400: 2x Essential Treatments, with complimentary Thermal Suite access, plus complimentary Biohacking treatment, plus x2 complimentary Biohacking treatments.  | £200 p/month
+L401: 
+L402: 【34†Book a Tour†calendly.com】
+L403: Jenya is wonderful to talk to about women’s health, as she is extremely knowledgeable and generous with her knowledge. The herbs she prescribed have been very helpful with my endometriosis symptoms, and she event picked up on issues such as anaemia before my GP did.
+L404: 
+L405: I would recommend Jenya to anyone wanting to improve their health through TCM.
+L406: 
+L407: Sara
+L408: 
+L409: I had my naturopathic consultation call with Jenya today and absolutely loved it!
+L410: Going from being on Dienogest and experiencing no symptoms, to then being hit with lots of symptoms on day one of my first bleed, has been intense. And I know I decided to do this. I want to do this because I would like to manage my symptoms naturally — not just for me, but also to help other women.
+L411: 
+L412: My symptoms before the call had been horrendous. After being OK for eight months, suddenly spending the day with brain fog, fatigue, joint pain, cold feet and an achy pelvis had completely exhausted me.
+L413: Jenya reminded me that this is also a withdrawal from the medication. My body is transitioning and rebalancing, and I’m so grateful to be working with Jenya. Somehow, two hours felt like five minutes. I could genuinely talk about women’s health with her for hours and hours.
+L414: 
+L415: I’m so excited to continue this naturopathic journey, learning more about my body and tracking my symptoms and triggers along the way.
+L416: It’s honestly so refreshing to talk to someone who completely gets it. If I told my GP I was experiencing knee pain during my period, I’d probably be told it was health anxiety again… but Jenya gets it!
+L417: 
+L418: Having someone listen to all the random symptoms I experience without making me feel like I’m imagining them is such a refreshing feeling.
+L419: 
+L420: Lily
+L421: I came to see Jenya when I genuinely felt like I had tried everything. I was constantly getting sick and being prescribed antibiotics by doctors, but they weren’t resolving the underlying issue. I was eventually told that the next step was to have my tonsils removed.
+L422: 
+L423: Something about that didn’t feel right to me, and I wasn’t convinced it would actually solve the problem. My wife encouraged me to see Jenya, and I’m so glad she did.
+L424: Seeing Jenya was a real revelation. She offered incredibly insightful care and, most importantly, a completely different way of looking at my health. With some manageable lifestyle changes and her bespoke herbal remedies, I finally started to feel better.
+L425: Since then, I haven’t experienced the recurring issues I was struggling with, and my overall health has improved significantly. Now, at the slightest hint that I might be coming down with something, I make sure I have my herbal remedies from Jenya, and I’ve found her approach incredibly helpful.
+L426: The whole experience has genuinely been life-changing for me. I feel like I’ve found a much more natural and sustainable approach to looking after my health, and I’m incredibly grateful to Jenya for the care, knowledge and guidance she has given me. I would highly recommend her to anyone who feels like they’ve tried everything and is looking for a different approach.
+L427: 
+L428: Phil
+L429: I approached Jenya for help after four rounds of Roaccutane to treat my hormonal acne over the past ten years. Each round was followed by a relapse, and after the last one I started researching natural approaches to addressing acne instead. What followed was a deeply educational three to four months of working with Jenya.
+L430: She taught me about the female hormonal system and how many of the things we do in our day-to-day lives can alter our hormonal balance, leading to conditions like acne, inflammation, gut issues and more.
+L431: In each session, Jenya encouraged me to take another step and make more micro-changes. Those changes have ultimately led to my skin completely clearing up. I thought this was going to address my acne, but what I actually found was a new rhythm and methodology for how I live my life – everything from diet, to the products I use, to plastics, to daily routines and much more.
+L432: I have already recommended Jenya to multiple friends who are dealing with various conditions and have grown frustrated with the dead ends of traditional medicine. What I learned from working with her is that conventional medicine often treats the symptom but not the root cause.
+L433: 
+L434: Then someone tells you “it’s just hormonal imbalance”, I now know that we have a degree of autonomy over our hormonal balance and can take concrete actions to bring our hormones back in to balance.
+L435: 
+L436: Sarah
+L437: Life-changing! I feel re-energised, enthusiastic and painfree.
+L438: 
+L439: I approached Jenya with my recent diagnosis, Rheumatoid Arthritis, as I wanted to go down the herbal route. Jenya personalised a program for me, including a detox plan, fasting and herbal remedies. Jenya’s professionalism, knowledge and personal support helped to build a strong relationship.
+L440: 
+L441: My journey so far has been life-changing, I feel re-energised, enthusiastic and most importantly pain-free! I am excited about my future, once again.
+L442: I have already recommended Jenya to a couple of my friends & would to anyone who seeks an alternative solution to an issue in their life.
+L443: 
+L444: Tessa
+L445: 
+L446: Jenya’s consultations and herbal treatments have been the all-round care that I’ve been searching for.
+L447: Jenya was recommended to me by a friend during the summer after years of skin issues (acne / hormonal breakouts / intolerance reactions) I have spent years and lots of money searching for the root cause of these issues and can confidently say I have finally found it through Jenya.
+L448: She has real knowledge and genuinely cares for her clients’ skin and general / mental well-being. She understands how these kinds of issues can affect someone mentally and her consultations and herbal treatments have been the all-round care that I’ve been searching for.
+L449: I finally have a good understanding of my body and why the skin was reacting the way it was with my lifestyle. Amazing herbal remedies to heal the gut and balance hormones from within and my skin regime has changed to completely organic / low toxic ranges. The change in my skin and life has really been amazing. I cannot thank Jenya and the Cloud Twelve Team enough.
+L450: 
+L451: Fran
+L452: ## Wellness, in the heart of Notting Hill
+L453: 
+L454: Discover the complete you and find your Cloud Twelve. From family to spa to wellness, everything you need is here in the heart of Notting Hill.
+L455: 
+L456: 【64†Sign Up for Exclusive Offers†confirmsubscription.com】
+L457: 
+L458: ### Spa
+L459: 
+L460:   * 【3†Massages】
+L461:   * 【17†Head Spa】
+L462:   * 【8†Facials】
+L463:   * 【18†Gift Vouchers】
+L464:   * 【1†View All Treatments】
+L465: 
+L466:   * 【3†Massages】
+L467:   * 【17†Head Spa】
+L468:   * 【8†Facials】
+L469:   * 【18†Gift Vouchers】
+L470:   * 【1†View All Treatments】
+L471: ### Bio-Hacking
+L472: 
+L473:   * 【65†Lymphatic Drainage – The Body Ballancer Pro】
+L474:   * 【66†Hydrogen Inhalation Therapy】
+L475:   * 【67†Full Body Infrared Sauna】
+L476:   * 【2†All Bio Hacking Treatments】
+L477: 
+L478:   * 【65†Lymphatic Drainage – The Body Ballancer Pro】
+L479:   * 【66†Hydrogen Inhalation Therapy】
+L480:   * 【67†Full Body Infrared Sauna】
+L481:   * 【2†All Bio Hacking Treatments】
+L482: ### Quick Links
+L483: 
+L484:   * 【25†Events】
+L485:   * 【28†About Cloud Twelve】
+L486:   * 【27†Gift Vouchers】
+L487:   * 【23†Book a Tour】
+L488:   * 【29†News & Press】
+L489:   * 【30†Contact Us】
+L490: 
+L491:   * 【25†Events】
+L492:   * 【28†About Cloud Twelve】
+L493:   * 【27†Gift Vouchers】
+L494:   * 【23†Book a Tour】
+L495:   * 【29†News & Press】
+L496:   * 【30†Contact Us】
+L497: ### Where to find us
+L498: 
+L499: London
+L500: 
+L501: 2-5 Colville Mews. London W11 2DA
+L502: 
+L503: Arriving by Tube
+L504: 
+L505: The nearest tube station is Notting Hill Gate.
+L506: 
+L507: 【68†2-5 Colville Mews. London W11 2DA†maps.google.com】
+L508: 
+L509: © 2026 Cloud Twelve. All rights reserved.
+L510: 
+L511:   * 【69†Policies】
+L512:     * 【70†Privacy Policy】
+L513:     * 【71†Terms and Conditions】
+L514:     * 【72†Member Terms and Conditions】
+L515:     * 【73†Staff Abuse Policy】
+L516:     * 【74†Club Rules】
+L517:   * 【69†Policies】
+L518:     * 【70†Privacy Policy】
+L519:     * 【71†Terms and Conditions】
+
+

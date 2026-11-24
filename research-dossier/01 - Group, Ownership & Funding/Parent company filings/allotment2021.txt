@@ -1,0 +1,45 @@
+SEARCH AID: extracted text; original PDF is authoritative.
+
+PAGE 1
+SH01
+(ef)
+Return of Allotment of Shares
+Company Name: THE LITTLE HOUSES GROUP LIMITED
+Company Number: 12926635
+Received for filing in Electronic Format on the:16/12/2021 XAJHNVJ7
+Shares Allotted (including bonus shares)
+Date or period during which From To
+shares are allotted 16/12/2021
+Class of Shares: A ORDINARY Number allotted 42
+Currency: GBP Nominal value of each share 0.00125
+Amount paid: 119
+Amount unpaid: 0
+No shares allotted other than for cash
+Electronically filed document for Company Number: 12926635 Page: 1
+PAGE 2
+Statement of Capital (Share Capital)
+Class of Shares: ORDINARY Number allotted 800
+Currency: GBP Aggregate nominal value: 1
+Prescribed particulars
+EACH ORDINARY SHARE CARRIES ONE VOTE. ORDINARY SHARES SHALL BE ENTITLED TO
+PARTICIPATE IN DISTRIBUTIONS OF PROFITS AND RETURNS OF CAPITAL (INCLUDING ON
+WINDING UP). ORDINARY SHARES ARE NOT REDEEMABLE,
+Class of Shares: A Number allotted 42
+ORDINARY Aggregate nominal value: 0.0525
+Currency: GBP
+Prescribed particulars
+A ORDINARY SHARES HAVE NO VOTING RIGHTS; A ORDINARY SHARES HAVE FULL RIGHTS
+WITH RESPECT TO DIVIDENDS AND DISTRIBUTIONS (INCLUDING ON WINDING UP); A
+ORDINARY SHARES ARE NOT REDEEMABLE.
+Electronically filed document for Company Number: 12926635 Page: 2
+PAGE 3
+Statement of Capital (Totals)
+Currency: GBP Total number of shares: 842
+Total aggregate nominal value: 1.0525
+Total aggregate amount unpaid: 0
+Authorisation
+Authenticated
+This form was authorised by one of the following:
+Director, Secretary, Person Authorised, Administrator, Administrative Receiver, Receiver, Receiver
+Manager, CIC Manager.
+End of Electronically filed document for Company Number: 12926635 Page: 3

@@ -1,0 +1,12 @@
+---
+description: Archive core research sources and preserve evidence provenance for the nursery-club project
+alwaysApply: true
+---
+
+- Whenever project research relies on a core source, save it in `research-dossier/` as part of the research task.
+- Follow `AGENTS.md` and `research-dossier/00 - Start Here/Research guide.md`.
+- Save original public PDFs and webpage HTML plus readable text where possible. Register the URL, publisher, publication/reporting date, capture date, evidence type, relevant pages, supported finding and local path.
+- Keep a single canonical copy of each source, with links from other relevant topic/site indexes.
+- Separate statutory evidence, company statements, third-party reporting and our assumptions. Preserve dated historical versions and flag contradictions or gaps.
+- Record any inaccessible source and the reason; never present a link or an error page as an archived document.
+- Before reporting completion, verify the new files and update the dossier index and source register.

@@ -1,0 +1,144 @@
+SEARCH AID: extracted text; original PDF is authoritative.
+
+--- PDF page 1 ---
+Basement
+5
+3
+1
+4
+6
+2
+7
+Key
+Gym
+1
+Fitness Studio
+2
+Kids Learner Pool & Swim School
+3
+Lane Pool
+4
+Sauna & Cold Plunge
+5
+Male Changing Room
+6
+Female Changing Room
+7
+
+--- PDF page 2 ---
+Ground Floor
+4
+3
+6
+7
+2
+5
+8
+1
+9
+9
+Key
+Main Entrance & Reception
+1
+Cafe & Bar
+2
+Family Living Room
+3
+Reading Nook
+4
+Kids Club (Over 4 years)
+5
+Outdoor Dining
+6
+Outdoor Playground
+7
+Multi-Use Games Area
+8
+Buggy Stores
+9
+
+--- PDF page 3 ---
+First Floor
+3
+1
+4
+2
+Key
+Restaurant
+1
+Kids Activity Corner
+2
+Restrooms
+3
+Crèche (From 3 months)
+4
+
+--- PDF page 4 ---
+Second Floor
+2
+3
+5
+1 4
+Key
+Jungle Gym (over 4's)
+1
+Soft Play (3 yrs and under)
+2
+Cafe & Bar
+3
+Digital xWall
+4
+The Den & Hangout (over 6's)
+5
+
+--- PDF page 5 ---
+Third Floor
+4 5
+7
+3
+6
+2
+1
+Key
+Little Living Room
+1
+Cafe & Bar
+2
+Class Studio 1
+3
+Class Studio 2
+4
+Class Studio 3
+5
+Reformer Pilates Studio
+6
+Restrooms
+7
+
+--- PDF page 6 ---
+Fourth Floor
+6
+5
+4
+7
+8
+3
+1
+2
+Key
+Adults Living Room
+1
+The Hideout
+2
+Library
+3
+The Study - Co-workspace
+4
+Phone Booths
+5
+The Quiet Zone
+6
+Restrooms
+7
+Cafe & Bar
+8

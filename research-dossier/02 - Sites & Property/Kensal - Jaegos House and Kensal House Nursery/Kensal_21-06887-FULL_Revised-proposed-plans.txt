@@ -1,0 +1,2305 @@
+SEARCH AID; verify numbers against original PDF.
+
+--- PDF page 1 ---
+P L A N N I N G J A E G O S H O U S E I I
+A P P L I C A T I O N K e n s a l H o u s e a n d R B B u i l d i n g
+5 5 3 - 5 5 9 H a r r o w R o a d , Lo n d o n , W 1 0 4 R H
+3rd February 2022
+
+--- PDF page 2 ---
+TABLE OF CONTENTS
+
+--- PDF page 3 ---
+Ta b l e o f C o n t e n t s R e v i e w S c a l e D R AW N I N G N U M B E R PAG E N U M B E R
+Drawing Register & Assumption 1
+Site Plan S 1:300 150 2
+R E N D E R S
+Front Gate View 4
+Front View 5
+Rear View 6
+F LO O R P L A N S A N D E L E VAT I O N S
+Basement Floor Plan A 1:150 151 8
+Ground Floor Plan AE 1:150 152 9
+First Floor Plan K 1:150 153 10
+Second Floor Plan E 1:150 154 11
+Third Floor Plan H 1:150 155 12
+Front Elevation P 1:150 351 13
+Left Elevation N 1:150 352 14
+Front Gate Elevation G 1:150 353 15
+Rear Elevation S 1:150 354 16
+Rear Elevation (without railings shown – for visual purposes only) S 1:150 354-A 17
+Right Elevation N 1:150 355 18
+P R O P O S E D D O O R A N D W I N D O W
+S C H E D U L E
+B 1:50 601 20
+Proposed Door Schedule
+B 1:50 602 21
+Proposed Door Schedule
+B 1:50 603 22
+Proposed Window Schedule
+B 1:50 604 23
+Proposed Window Schedule
+B 1:50 605 24
+Proposed Window Schedule
+B 1:50 606 25
+Proposed Window Schedule
+P R O P O S E D K I TC H E N C U P B OA R D B 1:50 801 27
+P R O P O S E D C A N O P Y 28
+31
+P R O P O S E D R E A R D E C K I N G
+A P P E N D I X
+37
+Kensal Building - Second Floor Lobby Existing Site Photo
+
+--- PDF page 4 ---
+D r a w i n g R e g i s t e r & A s s u m p t i o n
+PROJECT JAEGOS HOUSE II ZAP Architecture Ltd.
+Kensal House 369 High Street Phone: 020 3761 4996
+RB Building
+Portobello Dock London E15 4QZ www.zaparchitecture.com
+CLIENT Little Houses Group
+RIBA STAGE 0-3
+PROJECT NR. 2117
+DATE OF ISSUE DAY 1 1 7 8 16 17 21 19 26 27 3
+MONTH 10 12 12 12 12 12 12 1 1 1 2
+YEAR 21 21 21 21 21 21 21 22 22 22 22
+DRAWING TITLE Rev SCALE DRG NR.
+EXISTING PACKAGE
+2117_Jaegos House II_Site Plan A 1:300 110 A
+2117_Jaegos House II_Existing_Basement Floor Plan A 1:150 111 A
+2117_Jaegos House II_Existing Ground Floor Plan A 1:150 112 A
+2117_Jaegos House II_Existing First Floor Plan A 1:150 113 A
+2117_Jaegos House II_Existing Second Floor Plan A 1:150 114 A
+2117_Jaegos House II_Existing Third Floor Plan A 1:150 115 A
+2117_Jaegos House II_Existing Front & Rear Elevation A 1:150 121 A
+2117_Jaegos House II_Existing Right & Left Elevation A 1:150 122 A
+PROPOSED PACKAGE
+2117_Jaegos House II_Proposed Site Plan S 1:300 150 F O P P P P S S S S
+2117_Jaegos House II_Proposed Basement Plan A 1:150 151 A A A A A A A A A A
+2117_Jaegos House II_Proposed Ground Floor Plan AE 1:150 152 L V X Y Y Y AD AE AE AE
+2117_Jaegos House II_Proposed First Floor Plan K 1:150 153 B E F F F F J K K K
+2117_Jaegos House II_Proposed Second Floor Plan E 1:150 154 A B C C C C D E E E
+2117_Jaegos House II_Proposed Third Floor Plan H 1:150 155 C F G G G G H H H H
+2117_Jaegos House II_Proposed Section AA B 1:150 251 B
+2117_Jaegos House II_Proposed Section BB A 1:150 252 A
+2117_Jaegos House II_Proposed Section CC D 1:150 253 D
+2117_Jaegos House II_Proposed Section DD C 1:150 254 C
+2117_Jaegos House II_Proposed Front Elevation P 1:150 351 F P P P P
+2117_Jaegos House II_Proposed Left Elevation N 1:150 352 E M N N N
+2117_Jaegos House II_Proposed Front Gate Elevation G 1:150 353 D G G G G
+2117_Jaegos House II_Proposed Rear Elevation S 1:150 354 F R S S S
+2117_Jaegos House II_Proposed Rear Elevation_without railings shown S 1:150 354-A S S
+2117_Jaegos House II_Proposed Right Elevation N 1:150 355 E N N N N
+2117_Jaegos House II_Proposed Door Schedule B 1:50 601 A B B B
+2117_Jaegos House II_Proposed Door Schedule B 1:50 602 A B B B
+2117_Jaegos House II_Proposed Window Schedule B 1:50 603 A B B B
+2117_Jaegos House II_Proposed Window Schedule B 1:50 604 A B B B
+2117_Jaegos House II_Proposed Window Schedule B 1:50 605 A B B B
+2117_Jaegos House II_Proposed Window Schedule B 1:50 606 A B B B
+2117_Jaegos House II_801_Nursery 3 Kitchen Cupboard Detail A 1:50 801 A A B
+Documents SIZE
+Existing Drawings Document A3
+Proposed Drawings Document AE A3 L V X X Y Y Y AD AE AE AE
+Proposed Front Wall Document A3
+Design and Access Document A3 F
+DISTRIBUTION Sent To
+Client Little Houses Group E E E E E E E E E E E
+Planning Department E E E E E E E E E E E
+1
+1
+
+--- PDF page 5 ---
+Disclaimer - Use of this Information
+UNCONTROLLED INFORMATION
+PROPOSED SITE PLAN
+This dwg document is an uncontrolled version
+issued to enable the recipient to use this
+information at their own risk.
+The issuer accepts no liability for any such use.
+Design development is ongoing and so may affect
+this dwg uncontrolled information.
+For controlled information refer to formally issued
+drawings and documents.
+USE AT RECIPIENT'S RISK ONLY
+It is the duty of the recipients of electronic
+transmissions to be aware that their system may
+be corrupted by the opening of any such
+transmission and that they be satisfied that
+measures are in place to prevent such an
+occurrence.
+No responsibility or liability whatsoever will be
+accepted by ZAP if the recipient’s computer
+system is corrupted by information transmitted
+from ZAP computers and/or for any delays or
+other losses arising out of or caused by
+transmission.
+Viruses: Although we have taken steps to ensure
+that this e-mail and attachments are free from any
+virus, we advise that in keeping with good
+computing practice the recipient should ensure
+they are actually virus free.
+Confidentiality: This information is intended for the
+named recipients only and may be confidential. If
+it has come to you in error you must take no
+action based on the contents, nor must you copy
+or show them to anyone; please notify ZAP and
+highlight the error.
+B E P N ED TR E A S N TR C I E AN Please note that we work natively in AutoCAD
+which produces dwg format drawings and we are
+aware that line styles do not convert correctly
+between dwg and dgn formats. We therefore
+cannot guarantee the completeness or accuracy
+1 of the information in the issued dwgs files and
+therefore the issued pdfs should always be used
+B as a reference for the validity and accuracy of this
+6355 information.
+5955
+S
+B
+T
+U
+O
+G
+R
+G
+E
+Y 4555
+4955 p
+u
+T
+o
+r
+p
+t
+h
+h
+e
+o
+e
+e
+p
+n
+r
+a c
+t
+o r
+p
+h
+e n
+e
+i
+d
+s
+t
+r
+e
+s
+s
+i
+n
+o
+n
+o t
+n
+f
+s l
+o
+e
+o
+r
+o l
+m
+y
+r
+f
+o
+f
+a
+t o h
+r
+t
+r
+i
+g
+e
+o
+a
+t s
+n
+h
+n
+e
+.
+e
+i s
+d ir
+a
+r u a
+ti
+s w
+o
+e
+n
+in o
+s
+g n
+h
+s
+o
+t h h
+u
+a i
+l
+s
+d
+v e p
+p
+r
+l
+b o
+a
+e j
+c
+e e
+e
+c n t
+r e
+a
+l
+n
+ia
+d
+n
+n
+ce
+o
+27.1 m2
+3
+3200
+PEDESTRIAN
+CROSSING
+29.54
+B B
+9 B
+BIN STORE B
+10.0 m2 2 B
+B
+3
+RWP RWP
+All survey information inherited and carried out by:
+ICELABZ
+53 The Meadow Way, HA3 7BP
+tel: 0203 744 3020
+email: info@icelabz.co.uk
+ZAP Architecture Ltd cannot be held
+RWP responsible as to the accuracy of this
+survey information
+7
+N
+4
+LANDING
+TO GARDEN
+5
+NOTES:
+NURSERY 1. New Pedestrian Entrance
+GARDEN 2. New Glass Canopy over Entrance
+6 - Final Canopy Detail to be agreed
+LEGEND under conditions by Westminster
+KENSAL BUILDING 7 8 3. Bu C g it g y y C S o t u o n re c i a l nd Bin Store with
+RB BUILDING Sedum Roof
+CIRCULATION 4. Fire Stairs from First Floor to Ground
+Floor PROPOSED
+7 5. New Boundary Railings to match
+Canalside Railings
+EXISTING WALL
+6. New Nursery Garden PLANNING
+DEMOLISHED WALL 7. Steel Railing
+8. New Pavement along canal
+NEW WALL / BUILD
+9. Hydraulic Platform Lift painted White
+- Work Package Cost Check Info/Briefing Tender Contract Construction 2 D 1 a . t 0 e 8.2021 A Revision P D r e o s p c o ri s p e ti d o n Site Plan Drawn by D 17 a . t 1 e 1.2021 K Ref. P R e e r v g is o i l o a n Structure, Fire Staircase removed. New Landscape, Buggy Store and Bin Store added Drawn by Project JAEGOS HOUSE II Project Code Drawing Number Rev.
+2 3 0 8 0 2 . . . 0 0 0 8 8 9 . . . 2 2 2 0 0 0 2 2 2 1 1 1 B C D C C R h h e a a p n n la g g c e e e s s r a o o m n n p R R a a w m m ith p p hydraulic platform lift for disabled, Signage added 2 3 1 6 0 8 . . . 1 1 1 1 1 1 . . . 2 2 2 0 0 0 2 2 2 1 1 1 M N L B N G u e la g w s g s B y C u a g a n g n d y o B p a i y n n d r S e B d to u in r c e e S t d t o o i r n n e e s w iz l e ocation Subject P K R EN O S P A O L S B E U D I L S D IT IN E G P , L P A O N RTOBELLO DOCK 2117 150 S
+03.09.2021 E Buggy store 1.5m from windows for light 01.12.2021 O Changes to Decking, Buggy and Bin Stores RB BUILDING, PORTOBELLO DOCK
+1 1 1 5 3 4 . . . 0 1 1 9 0 0 . . . 2 2 2 0 0 0 2 2 2 1 1 1 F G H E P P x r r e o te p p r o n K s a i e t l c d F h i P e re n e r S a g t t o a R l i a r B s w f B i o t u h r i R l R d B i e n t g B ra u C c i t l a d a r i b p n l a g e r k l R o o ca o t f i o c n o v m er o s v e th d e Outdoor Space 0 0 1 7 4 2 . . . 1 0 0 2 1 1 . . . 2 2 2 0 0 0 2 2 2 1 2 2 P Q R F C C u h a r a n th n o e g p r e y c s C h o h a n a n n g e g e x e t s e s t r o n a B l u fi g re g y s t S a t i o rc r a e se Architects 3 Z T 6 A : 5 0 P 2 H A 0 i g r 3 c h 7 h 6 S ite 1 tr c 4 e t 9 e u 9 t r , e 6 L o E n : d i o n n fo , @ E1 z 5 a p 4 a Q rc Z hitecture.com Date 26.01.2022 Scale 1:300 at A3
+26.10.2021 J Changes on Pergola Structure, Nursery Garden added 18.01.2022 S Changes on pavement along the canal 2
+CCopyright ZAP Architecture Ltd. Registered in England number: 08413192 Registered address: 369 High St, London E15 4QZ Use Figured Dimensions Only. All Dimensions to be checked on site. Original Drawing Size A3 (L)
+
+--- PDF page 6 ---
+RENDERS
+3
+
+--- PDF page 7 ---
+F r o n t G a t e V i e w
+4
+
+--- PDF page 8 ---
+F r o n t V i e w
+5
+
+--- PDF page 9 ---
+R e a r V i e w
+6
+
+--- PDF page 10 ---
+PROPOSED PLANS AND ELEVATIONS
+7
+
+--- PDF page 11 ---
+Disclaimer - Use of this Information
+UNCONTROLLED INFORMATION
+PROPOSED BASEMENT FLOOR PLAN
+This dwg document is an uncontrolled version
+C D issued to enable the recipient to use this
+information at their own risk.
+The issuer accepts no liability for any such use.
+Design development is ongoing and so may affect
+this dwg uncontrolled information.
+For controlled information refer to formally issued
+drawings and documents.
+USE AT RECIPIENT'S RISK ONLY
+It is the duty of the recipients of electronic
+transmissions to be aware that their system may
+be corrupted by the opening of any such
+transmission and that they be satisfied that
+measures are in place to prevent such an
+occurrence.
+No responsibility or liability whatsoever will be
+accepted by ZAP if the recipient’s computer
+system is corrupted by information transmitted
+from ZAP computers and/or for any delays or
+other losses arising out of or caused by
+transmission.
+Viruses: Although we have taken steps to ensure
+that this e-mail and attachments are free from any
+virus, we advise that in keeping with good
+computing practice the recipient should ensure
+they are actually virus free.
+Confidentiality: This information is intended for the
+named recipients only and may be confidential. If
+it has come to you in error you must take no
+action based on the contents, nor must you copy
+or show them to anyone; please notify ZAP and
+highlight the error.
+Please note that we work natively in AutoCAD
+which produces dwg format drawings and we are
+aware that line styles do not convert correctly
+between dwg and dgn formats. We therefore
+cannot guarantee the completeness or accuracy
+of the information in the issued dwgs files and
+therefore the issued pdfs should always be used
+as a reference for the validity and accuracy of this
+information.
+The contents of these drawings have been
+prepared solely for their use on this project and no
+other person or organisation should place reliance
+upon this information.
+A A
+All survey information inherited and carried out by:
+ICELABZ
+53 The Meadow Way, HA3 7BP
+tel: 0203 744 3020
+B B email: info@icelabz.co.uk
+ZAP Architecture Ltd cannot be held
+responsible as to the accuracy of this
+survey information
+N
+LEGEND
+KENSAL BUILDING
+RB BUILDING
+CIRCULATION
+PLASTERBOARD STUD WALL
+ACOUSTIC BOARD WALL
+FIRE PROOF WALL PROPOSED
+EXISTING WALL
+DEMOLISHED WALL C D PLANNING
+NEW WALL / BUILD
+- Work Package Cost Check Info/Briefing Tender Contract Construction 2 D 1 a . t 0 e 8.2021 A Revision P D r e o s p c o ri s p e ti d o n Basement Floor Plan Drawn by Date Ref. Revision Drawn by Project JAEGOS HOUSE II Project Code Drawing Number Rev.
+Subject PROPOSED FLOOR PLAN - PLANNING COUNCIL
+KENSAL BUILDING, PORTOBELLO DOCK 2117 151 A
+RB BUILDING, PORTOBELLO DOCK
+Architects ZAP Architecture
+365 High Street, London, E15 4QZ Date 26.01.2022 Scale 1:150 at A3
+T: 020 37614996 E: info@zaparchitecture.com
+CCopyright ZAP Architecture Ltd. Registered in England number: 08413192 Registered address: 369 High St, London E15 4QZ Use Figured Dimensions Only. All Dimensions to be checked on site. Original Drawing Size A3 (L) 8
+
+--- PDF page 12 ---
+C D
+LOCKABLE
+UNITS
+1590
+10.0 m2
+PANTRY & A CHANGING A
+HERRINGBONE AREA
+TIMBER FLOORING
+LOCKABLE
+UNITS
+970 WASH UP OPEN COUNTER
+B B
+C D
+9
+0021
+Disclaimer - Use of this Information
+UNCONTROLLED INFORMATION
+PROPOSED GROUND FLOOR PLAN
+This dwg document is an uncontrolled version
+issued to enable the recipient to use this
+information at their own risk.
+The issuer accepts no liability for any such use.
+Design development is ongoing and so may affect
+this dwg uncontrolled information.
+For controlled information refer to formally issued
+1 drawings and documents.
+USE AT RECIPIENT'S RISK ONLY
+It is the duty of the recipients of electronic
+transmissions to be aware that their system may
+hydraulic be corrupted by the opening of any such
+2 platform ENTRANCE m tra e n a s s m ur is e s s i o a n re a i n n d p t l h a a c t e t h to e y p r b e e v e s n a t t i s s u fi c e h d a th n at
+lift occurrence.
+W6 W6 W6 W6
+No responsibility or liability whatsoever will be
+D5 a sy c s c t e e p m te i d s b c y o r Z ru A p P te i d f t b h y e i r n e f c o i r p m ie a n t t io ’s n c t o ra m n p s u m te it r ted
+from ZAP computers and/or for any delays or
+ENTRANCE Internal Perspex Internal Perspex Internal Perspex o tr t a h n e s r m lo is s s s i e o s n . arising out of or caused by
+screen to protect kids screen to protect kids screen to protect kids
+D8 W5 W5 W5 W5 W5 from glass RECEPTION from glass from glass t V h i a ru t s th e i s s : e A - l m th a o i u l g a h n d w a e t t h a a c v h e m t e a n k t e s n a s re te f p r s e e to f r e o n m s u a r n e y
+BIN STORE SOUND PROOF D6 21.5 sq m BUILDER TO SWAP c t v h o ir e m u y s p , a u w r t e i e n a g a c d p tu v ra a is c ll e y ti c t v h e i a r u t t h s i e n f r r k e e e e c e . ip p i i e n n g t w sh ith o u g ld o o e d nsure
+CEILING BOARDS SPIN FIRE PROOF WALL HINGES Confidentiality: This information is intended for the
+8 W5 SOUND PROOF W S A T LL UDIO F LI I N R K E E S D H T U O TT A E L R ARM 600X600 TILING NURSERY 1 n i a o t a c r h t m s a io h s e n o d c w b o r a e m th s c e e e ip d m t i o e o n t y n o t o s t a u h o n e i n y n l o c y e o n a r n e r n t o ; e d r p n l y m e ts o a a , u s y n e m o b n r u e o m s c t t i u o f t y a s n t k f Z i e y d A o e n P u n o t a c ia n o l d p . y If
+highlight the error.
+RECEPTION STAIR LOBBY ( T A IM LL B N ER U R P S L E A R N Y K R FL O O O O M R S I ) NG 4 -B 0 A .0 B s IE q S m ROOM 1 P w l h e i a c s h e p n ro o d te u c th e a s t d w w e g w fo o r r m k a n t a d tiv ra e w ly i n in g s A a u n to d C w A e D are
+23.4 sq m OPEN b a e w t a w r e e e t n h a d t w li g n e a n s d ty l d e g s n d f o o r n m o a t t c s o . n W ve e r t t h c e o r r e re fo c r t e ly
+GYM RECEPTION 1120 800 cannot guarantee the completeness or accuracy
+Builder to confirm wall of the information in the issued dwgs files and
+D7 115.6 sq m thickness upon investigation NURSERY 2 10 i t a n h s f e o a r r e m r f e o a f r t e e io r e t n h n . e c e is s fo u r e t d h e p d v f a s l id sh ity o u a l n d d a a lw c a c y u s ra b c e y u o s f e th d is
+-TODDLERS ROOM The contents of these drawings have been prepared solely for their use on this project and no
+75.0 sq m P S A TA IN IR T S u o p th o e n r t p h e is rs i o n n fo o rm r o a r ti g o a n n . isation should place reliance
+WITH TOILET
+FLOORING 14.2 sq m
+W5 TOWELS AND PAINT
+WATER STATION SHOWER
+disabled
++TOILET toilet
+37.7 sq m PLANT 13
+ROOM Internal Perspex
+13.6 sq m screen to protect kids
+from glass
+12 14 16 WATER TANK
+3 W9 PANTRY & CHANGING AREA
+ST 340m E m XISTING
+W4 PLANT ROOM EXTRACT VENTS FOR KITCHEN
+W4 FEMALE TOILET 8 M .2 A s L q E m TOILET D TO IS I A LE B T LED FIRE POSSIBLE BEER KEG COOLER N -B U A R B S IE E S R Y R O 1 OM 2
+20.53 sq m ESCAPE 3 39.0 sq m
+Internal Perspex
+KITCHEN screen to protect kids
+F K R IT O C M H E K N IT D C E H S E I N G N D E T S B I C GNER 38.0 sq m 17 D3 I s n c t r e e r e n n a l t o P e p r r s o p te e c x t kids W8 from glass D4
+900 F
+W
+IR
+IN
+E
+D
+R
+O
+A
+W
+TED from glass W7 L
+T
+A
+O
+N
+G
+D
+A
+IN
+R
+G
+DEN
+11 W3 18 9
+All survey information inherited and carried out by:
+FIRE RATED W2 ICELABZ
+WINDOW 2520 1680
+W3
+CAFE /
+1230 5
+te
+3
+l:
+T
+0
+h
+2
+e
+0 3
+M
+7
+e
+4
+a
+4
+d o
+3
+w
+0 2
+W
+0
+ay, HA3 7BP
+6
+RESTAURANT 7 email: info@icelabz.co.uk
+185.1 sq m W2 NURSERY ZAP Architecture Ltd cannot be held
+19 FIRE RATED GARDEN responsible as to the accuracy of this
+WIN W D 3 OW FIRE ESCAPE 2 20 steel railing to match survey information
+canalside railings 5
+FIRE RATED FIRE ESCAPE 1 W2 NOTES:
+WINDOW
+REAR LANDSCAPE W3 W2 1 2 . . H N y e d w r a G u l l a ic s s P l C a a tf n o o rm py L o if v t er Entrance N
+SOFTSCAPE = 86.8 m2
+D2 FD - Final Canopy Detail to be agreed
+HARDSCAPE = 96.2 m2 1225 u
+C
+n
+it
+d
+y
+e
+C
+r
+o
+c
+u
+o
+n
+n
+c
+d
+i
+i
+l
+tions by Westminster
+TO
+%
+TAL
+O
+A
+F
+R
+S
+E
+O
+A
+F
+=
+T S
+1
+C
+83
+A P
+m
+E
+2
+= 47.5% 7
+1205 EXISTING TREE 3
+4
+.
+.
+P
+S
+l
+t
+a
+e
+n
+e
+t
+l
+R
+R
+o
+a
+o
+ili
+m
+ng h=1100mm
+4
+W1 D1 W1 5. New Boundary Fencing
+15 6. New Nursery Garden
+LEGEND GREEN PATCH 300 7
+8
+.
+. B
+S
+i
+u
+n
+n
+S
+ke
+to
+n
+r e
+G
+w
+ro
+it
+u
+h
+n
+S
+d
+e
+to
+d u
+b
+m
+e r
+R
+a
+o
+is
+o
+e
+f
+d up
+KENSAL BUILDING 4 9. Single Door to Nursery Garden
+RB BUILDING 10. Wall to be Closed up
+11. Fire Stairs from First Floor to Ground
+CIRCULATION Floor
+P
+A
+L
+C
+A
+O
+S
+U
+T
+S
+E
+T
+R
+IC
+BO
+B
+A
+O
+R
+A
+D
+R D
+ST
+W
+U
+A
+D
+L
+W
+L
+ALL
+1210
+1275
+GREEN
+PATCH
+4
+-
+S
+A
+p
+ll
+e
+W
+ci
+i
+f
+n
+ic
+d
+a
+o
+t
+w
+io
+s
+n
+to be Shatter Proof
+1
+1
+2
+3
+.
+.
+P
+R
+T
+W
+e
+o
+o
+a
+r
+i
+o
+l
+m
+t
+e
+m
+e
+t
+i
+r
+s
+E
+T
+s
+x
+i
+a
+o
+is
+n
+n
+t
+k
+in
+1
+s
+g
+7
+n
+/
+a
+e
+0
+s
+x
+7
+t
+0
+p
+t
+2
+e
+o
+0
+r
+E
+/
+P
+F
+x
+U
+l
+i
+a
+s
+L
+n
+ti
+L
+n
+n
+i
+g
+n g
+Plant
+14. Lobby separation added to Cafe/Rest.
+FIRE PROOF WALL - E A x ll i s O ti p n e g n M in o g u s l d s i h n o g u s l d o n re t t h a e in R th e e a i r r 15. New Pavement PROPOSED
+Elevation 16. New Door Opening and Fire Lobby
+- Low banister to be added on Main 17. New Door Opening for Kitchen
+E D X E I M S O TI L N IS G H W E A D L W L ALL 300 - K S e ta y i p rc a a d s e to f o b r e C a h d i d ld e r d e n on Main Doors 1 1 8 9 . . N N e e w w R D a ra m in p age Channel connected to PLANNING
+- Existing sash window style retained Existing Network
+NEW WALL / BUILD on RB building windows 20. New Windows Required to
+Accommodate Level Change at Floor
+- Work Package Cost Check Info/Briefing Tender Contract Construction 2 D 9 a . t 1 e 1.2021 T Revision C D h e a sc n r g ip e t s io i n n Male and Female Toilets Drawn by 2 D 6 a . t 0 e 1.2022 A R E ef. C R h e a vi n s g io e n s on specifications Drawn by Project JAEGOS HOUSE II Project Code Drawing Number Rev.
+3 0 0 0 1 7 . . . 1 1 1 1 2 2 . . . 2 2 2 0 0 0 2 2 2 1 1 1 U V X F C A i f h r t e e a r n D g o o e n o s s r t i r t o e e m D m e a e c in e k t i i i n n n g g C , u a B p f u e d g a / g t R y e e s a s n t d a u B ra in n S t tores Subject P K R EN O S P A O L S B E U D I L F D LO IN O G R , P P O L R A T N O - B P E L L A L N O N D IN O G C K COUNCIL 2117 152 AE
+16.12.2021 Y New Decking Finishes, Rear Hydraulic Lift Removed RB BUILDING, PORTOBELLO DOCK
+0 0 1 4 7 2 . . . 0 0 0 1 1 1 . . . 2 2 2 0 0 0 2 2 2 2 2 2 A A A A B C C C C h h a a a n n n o g g p e e y s s C o o h n n a n e fi g r x e e te s s r t n a a ir l c f a ir s e e s , t r a a ir il c in a g s e and drainage. Raised ground in Toilets and Shower Rooms. Ramp and steps added in Nursery Corridor 2 Architects 3 Z T 6 A : 5 0 P 2 H A 0 i g r 3 c h 7 h 6 S ite 1 tr c 4 e t 9 e u 9 t r , e 6 L o E n : d i o n n fo , @ E1 z 5 a p 4 a Q rc Z hitecture.com Date 26.01.2022 Scale 1:150 at A3
+16.01.2022 AD Changes on railing, windows specifications and canopy
+CCopyright ZAP Architecture Ltd. Registered in England number: 08413192 Registered address: 369 High St, London E15 4QZ Use Figured Dimensions Only. All Dimensions to be checked on site. Original Drawing Size A3 (L)
+
+--- PDF page 13 ---
+C D Disclaimer - Use of this Information
+UNCONTROLLED INFORMATION
+PROPOSED FIRST FLOOR PLAN
+This dwg document is an uncontrolled version
+issued to enable the recipient to use this
+2m tall Kitchen Cupboard Units information at their own risk.
+The issuer accepts no liability for any such use.
+to be fixed to wall with Brackets Design development is ongoing and so may affect
+this dwg uncontrolled information.
+(Does not need For controlled information refer to formally issued
+drawings and documents.
+Listed Building's Consent) USE AT RECIPIENT'S RISK ONLY
+Detail Refers to It is the duty of the recipients of electronic
+transmissions to be aware that their system may
+Toilets Enclosures Drawing No. 801 b tr e a n c s o m rr i u s p s t i e o d n b a y n d th t e h a o t p t e h n e i y n g b e o f s a a n tis y f i s e u d c h that
+to be 2m in height 5 W12 m oc e c a u s r u re re n s c e a . re in place to prevent such an
+W12 W12 W12 W12 No responsibility or liability whatsoever will be
+accepted by ZAP if the recipient’s computer
+system is corrupted by information transmitted
+from ZAP computers and/or for any delays or
+W11 W10 W10 W10 W10 W11 I s n c t r e e r e n n a l t o P e p r r s o p te e c x t kids I s n c t r e e r e n n a l t P o e p r r s o p te e c x t kids 2m tall Kitchen Cupboard o tr t a h n e s r m lo is s s s i e o s n . arising out of or caused by
+from glass from glass Viruses: Although we have taken steps to ensure
+I s n c t r e e r e n n a l t o P e p r r s o p te e c x t kids I s n c t r e e r e n n a l t P o e p r r s o p te e c x t kids U to n w its a l t l o w b it e h f B ix r e a d ckets t c v h o ir a m u t s p t , h u w i t s i e n e g a - m d p v r a a i i s l c e a ti n c th e d a t a t h t i e t n a r c k e h e c m e ip p e i i e n n n g ts t w s a h i r t e h o u f g r l e d o e o e d f n r s o u m re any
+from glass from glass they are actually virus free.
+STORAGE (Does not need
+Confidentiality: This information is intended for the
+Listed Building's Consent) named recipients only and may be confidential. If
+TOILET ( T A IM LL B N ER U R P S L E A R N Y K R FL O O O O M R S I ) NG NURSERY 3 Detail Refers to i a t c h t a io s n c b o a m s e e d to o y n o t u h e in c e o r n r t o e r n y ts o , u n m or u m st u ta st k e yo n u o copy
+CRECHE 5.3 sq m VOID -PRE-SCHOOL Drawing No. 801 h o i r g s h h li o g w ht t t h h e e m e r t r o o a r. nyone; please notify ZAP and
+Sliding panels ROOM 2 Please note that we work natively in AutoCAD
+136.8 sq m with centre lock which produces dwg format drawings and we are
+STORAGE 54.7 sq m b a e w t a w r e e e t n h a d t w li g n e a n s d ty l d e g s n d f o o r n m o a t t c s o . n W ve e r t t h c e o r r e re fo c r t e ly
+SUSPENDED TIMBER FLOORING FD 1 c o a f n th n e o t i n g f u o a rm ra a n ti t o e n e i t n h e th c e o i m ss p u le e t d e n d e w s g s s o f r il e a s c c a u n r d acy
+WITH CHILD-FRIENDLY FINISH NURSERY 3 NURSERY 3 therefore the issued pdfs should always be used
+Sliding panels as a reference for the validity and accuracy of this
+-PRE-SCHOOL -PRE-SCHOOL with centre lock information.
+A A
+8 ROOM 1 COMMON ROOM 7 p T r h e e p a co re n d te s n o ts le o ly f f t o h r e t s h e e d ir r u a s w e in o g n s t h h a is v e p r b o e je e c n t and no
+65.0 sq m 65.0 sq m other person or organisation should place reliance
+upon this information.
+7 Existing Fireplace
+TOILET
+STORAGE SLEEP SNUG 9 to be Retained
+4.7 sq m
+TOILET
+Internal Perspex Internal Perspex Internal Perspex 4.8 sq m
+screen to protect kids screen to protect kids screen to protect kids Internal Perspex
+from glass from glass from glass screen to protect kids
+FD from glass
+W11 W10 W10 W10 VOID
+W13
+W17 W24
+D11
+600X600 TILING W14
+CORRIDOR
+4 W14 W14
+TOILET+SHOWER STORAGE
+12.1 sq m
+W14 W14
+STUDIO 1
+48.0 sq m All survey information inherited and carried out by:
+TOILETS IN NURSERY 3
+B 2 OUTDOOR 1. All Pipework and Waste to Utilise Existing B ICELABZ
+ACOUSTIC TERRACE Vertical Risers with no need for New Boxing 53 The Meadow Way, HA3 7BP
+D12 FLOORING D13 58.0 sq m 2. o T r w D o u t c o t i i l n e g ts f a o r r e T r o e il q e u ts ired given the number of e te m l: a 0 il 2 : 0 in 3 f o 7 @ 44 ic 3 e 0 la 2 b 0 z.co.uk
+3 children using the room as a pre-school
+OFSTED have advised that one toilet would ZAP Architecture Ltd cannot be held
+not meet the Children's needs appropriately responsible as to the accuracy of this
+6 FIXED PANEL 3. Toilets Enclosures to be 2m in height survey information
+900
+1000
+W14 W14
+NOTES: N
+STUDIO 2
+47.6 sq m 1. Fire Lobby Added
+2. Existing Window to be replaced with
+Door to Access Outdoor Terrace
+3. Glass Sliding Partition between Studio
+1 and Studio 2
+4. Steel Railing h= 1100mm
+5. Glass Canopy Below
+LEGEND - Final Canopy Detail to be agreed
+W14 W14
+KENSAL BUILDING W15 under conditions by Westminster City
+Council
+RB BUILDING 6. Fire Stairs for Outdoor Terrace
+CIRCULATION 7. New Proposed Toilet as per Advice on
+Standards for School Premises by
+Department for Education.
+8. Disabled Refuge Added
+PLASTERBOARD STUD WALL 9. Existing Fireplace to be Retained
+ACOUSTIC BOARD WALL
+FIRE PROOF WALL C D - All Windows to be Shatter Proof PROPOSED
+Specification
+- Low banister to be added on Main
+EXISTING WALL Staircase for Children
+PLANNING
+DEMOLISHED WALL - Keypad to be added on Main Doors
+- All existing openings shall maintain
+NEW WALL / BUILD their existing moldings
+- Work Package Cost Check Info/Briefing Tender Contract Construction 2 D 1 a . t 0 e 8.2021 A Revision P D r e o s p c o ri s p e ti d o n First Floor Plan Drawn by 1 D 8 a . t 0 e 1.2022 J Ref. C R h e a vi n s g io e n s on Toilet specifications, railing, fireplace and storage (Comments received on 15.01.2022) Drawn by Project JAEGOS HOUSE II Project Code Drawing Number Rev.
+2 1 1 2 7 8 . . . 0 1 1 9 1 1 . . . 2 2 2 0 0 0 2 2 2 1 1 1 B C D J P D u e is n r a g g b o le l l e a g d S y R m tr e u 1 f c u t r g u e e r p e l a , a d F c d e ir e e d d S b . y t S a c e ir r l c f e a c c s l h o e e s s i n r g e m F o ir v e e D d o . or added for separation. 26.01.2022 K Changes on Nursery 3's Toilet Subject K P E R N O S P A O L S B E U D I L F D LO IN O G R , P P O L R A T N O - B P E L L A L N O N D IN O G C K COUNCIL 2117 153 K
+19.11.2021 E Glass Canopy reduced in size RB BUILDING, PORTOBELLO DOCK
+0 0 0 7 4 7 . . . 1 0 0 2 1 1 . . . 2 2 2 0 0 0 2 2 2 1 2 2 F G H A C C f h h te a a r n n o g g n e e s s s i o o te n n m e e x x e t t e e e t r r i n n n a a g l l u f f i i p r r e e d a s s t t t a a e i i s r r c c a a s s e e, railing and drainage Architects 3 Z T 6 A : 5 0 P 2 H A 0 i g r 3 c h 7 h 6 S ite 1 tr c 4 e t 9 e u 9 t r , e 6 L o E n : d i o n n fo , @ E1 z 5 a p 4 a Q rc Z hitecture.com Date 03.02.2022 Scale 1:150 at A3
+12.01.2022 I Canopy Changes 10
+CCopyright ZAP Architecture Ltd. Registered in England number: 08413192 Registered address: 369 High St, London E15 4QZ Use Figured Dimensions Only. All Dimensions to be checked on site. Original Drawing Size A3 (L)
+
+--- PDF page 14 ---
+C D
+1 5
+RE-BOARD AND PHONE BOOTH PLASTER
+CEILING 2 6
+CO-WORKING
+3
+88.9 sq m 7 REFRESHMENT KEEP NIBS
+POINT
+VOID 4 DISABLED JUNGLE GYM 1 REFUGE 8
+PRINTER 112.8 sq m 1200
+FD 500 5580 500
+SUSPENDED TIMBER FLOORING FD
+WITH CHILD-FRIENDLY FINISH
+KITCHEN
+A FULL HEIGHT WINDOW IN OPENING 9 A
+CO-WORKING
+54.8 sq m
+STORAGE FD 1 T 0 O .4 I L s E q T m 10
+VOID
+RE-BOARD AND
+PLASTER
+CEILING
+TOILET VOID
+11.5 sq m
+Privacy film ALL STEEL BEAMS NEED
+Paint timber frame INTUMESCENT PAINT
+INSULATED CEILING BETWEEN JOISTS
+NEW PLASTERBOARD
+Privacy film
+Paint timber frame
+B B
+Privacy film
+Paint timber frame
+JUNGLE GYM 2
+118.0 sq m
+Privacy film
+Paint timber frame
+SUSPENDED TIMBER FLOORING
+WITH CHILD-FRIENDLY FINISH
+Privacy film Paint timber frame
+C D
+11
+005
+5082
+Disclaimer - Use of this Information
+UNCONTROLLED INFORMATION
+PROPOSED SECOND FLOOR PLAN
+This dwg document is an uncontrolled version
+issued to enable the recipient to use this
+information at their own risk.
+The issuer accepts no liability for any such use.
+Design development is ongoing and so may affect
+this dwg uncontrolled information.
+For controlled information refer to formally issued
+drawings and documents.
+USE AT RECIPIENT'S RISK ONLY
+It is the duty of the recipients of electronic
+transmissions to be aware that their system may
+be corrupted by the opening of any such
+transmission and that they be satisfied that
+W22 measures are in place to prevent such an
+occurrence.
+W22 W22 W22 W22
+No responsibility or liability whatsoever will be
+Architrave around New accepted by ZAP if the recipient’s computer
+system is corrupted by information transmitted
+Opening to match Existing from ZAP computers and/or for any delays or
+W11 W10 W10 W10 W10 W11 8 6 Architraves on this Floor o tr t a h n e s r m lo is s s s i e o s n . arising out of or caused by
+Viruses: Although we have taken steps to ensure that this e-mail and attachments are free from any
+Existing Arch retained virus, we advise that in keeping with good computing practice the recipient should ensure
+in Proposed Plan they are actually virus free.
+h=2.88m Confidentiality: This information is intended for the named recipients only and may be confidential. If it has come to you in error you must take no
+action based on the contents, nor must you copy
+4 P B H O O O N TH E h o i r g s h h li o g w ht t t h h e e m e r t r o o a r. nyone; please notify ZAP and
+9 P w l h e i a c s h e p n ro o d te u c th e a s t d w w e g w fo o r r m k a n t a d tiv ra e w ly i n in g s A a u n to d C w A e D are
+5 aware that line styles do not convert correctly between dwg and dgn formats. We therefore
+1 6 c o a f n th n e o t i n g f u o a rm ra a n ti t o e n e i t n h e th c e o i m ss p u le e t d e n d e w s g s s o f r il e a s c c a u n r d acy
+therefore the issued pdfs should always be used
+3 i a n s fo a r m re a f t e io re n n . ce for the validity and accuracy of this
+2 The contents of these drawings have been prepared solely for their use on this project and no
+other person or organisation should place reliance PHONE upon this information.
+BOOTH
+Privacy film
+W11 W10 W10 W10 W23 W20
+W22 W23
+W21 FLAT ROOF
+7
+W16
+W17 W16
+W17 W16
+All survey information inherited and carried out by:
+ICELABZ
+53 The Meadow Way, HA3 7BP
+W17 W16 tel: 0203 744 3020
+email: info@icelabz.co.uk
+ZAP Architecture Ltd cannot be held
+responsible as to the accuracy of this
+survey information
+W17 W16
+NOTES:
+1. Fire Lobby Added N
+2. Disable Refuge Added
+3. Wall to be Demolished for Door
+Opening
+W17 W16 4. Disabled Refuge and Fire Lobby 5. Wall with Door to be Demolished
+6. Wall Opening at 2.5m high. Wall
+Opening with 500mm Nips at either
+side
+LEGEND W16 W16 7. Existing Window not Altered,
+KENSAL BUILDING W19 Obscured Secondary Privacy Screen
+300mm behind Existing Window for
+RB BUILDING Toilets
+CIRCULATION 8. Existing Door to be Fixed Shut on
+advice from WCC Planning
+9. Architrave around New Opening to
+PLASTERBOARD STUD WALL match Existing Architraves on this
+Floor
+ACOUSTIC BOARD WALL
+FIRE PROOF WALL - S A p ll e W ci i f n ic d a o t w io s n to be Shatter Proof PROPOSED
+- Low banister to be added on Main
+EXISTING WALL Staircase for Children
+- Keypad to be added on Main Doors PLANNING
+DEMOLISHED WALL - All existing openings shall maintain
+NEW WALL / BUILD their existing moldings
+- Work Package Cost Check Info/Briefing Tender Contract Construction D 21 a . t 0 e 8.2021 A Revision P D r e o s p c o ri s p e ti d o n Second Floor Plan Drawn by Date Ref. Revision Drawn by Project JAEGOS HOUSE II Project Code Drawing Number Rev.
+1 0 1 7 7 8 . . . 1 1 0 1 2 1 . . . 2 2 2 0 0 0 2 2 2 1 1 2 B C D F A C i f h r t e e a r n S o g ta n e i s r s c i a t a e c s c e m o r r e d e e i m n tin g o g v t o e u d p c . o d m at m es ents on 15.01.2022 Subject K P E R N O S P A O L S B E U D I L F D LO IN O G R , P P O L R A T N O - B P E L L A L N O N D IN O G C K COUNCIL 2117 154 E
+26.01.2022 E Changes on Co-working's Toilets and phonebooths RB BUILDING, PORTOBELLO DOCK
+Architects ZAP Architecture
+365 High Street, London, E15 4QZ Date 27.01.2022 Scale 1:150 at A3
+T: 020 37614996 E: info@zaparchitecture.com
+CCopyright ZAP Architecture Ltd. Registered in England number: 08413192 Registered address: 369 High St, London E15 4QZ Use Figured Dimensions Only. All Dimensions to be checked on site. Original Drawing Size A3 (L)
+
+--- PDF page 15 ---
+C D Disclaimer - Use of this Information
+UNCONTROLLED INFORMATION
+PROPOSED THIRD FLOOR PLAN
+This dwg document is an uncontrolled version
+issued to enable the recipient to use this
+information at their own risk.
+Disabled Refuse necessary for Fire The issuer accepts no liability for any such use.
+Design development is ongoing and so may affect
+Regulations and Building Regulations here, this dwg uncontrolled information.
+For controlled information refer to formally issued
+Openings must be Retained without drawings and documents.
+USE AT RECIPIENT'S RISK ONLY
+Obstruction for Disabled Refuse as advised by
+It is the duty of the recipients of electronic
+our Fire Consultants LFW transmissions to be aware that their system may
+be corrupted by the opening of any such
+transmission and that they be satisfied that
+measures are in place to prevent such an
+occurrence.
+No responsibility or liability whatsoever will be
+accepted by ZAP if the recipient’s computer
+system is corrupted by information transmitted
+from ZAP computers and/or for any delays or
+W16 W16 W16 W16 W16 W16 other losses arising out of or caused by
+transmission.
+Viruses: Although we have taken steps to ensure
+PROJECTOR that this e-mail and attachments are free from any
+HANGING c v o ir m us p , u w ti e n g a d p v ra is c e ti c th e a t t h i e n r k e e c e ip p i i e n n g t w sh ith o u g ld o o e d nsure
+PROJECTOR FROM ROOF they are actually virus free.
+SCREEN Confidentiality: This information is intended for the
+COFFEE BAR TOILET named recipients only and may be confidential. If
+900 900 it has come to you in error you must take no
+8.0 sq m VOID action based on the contents, nor must you copy
+or show them to anyone; please notify ZAP and
+CINEMA highlight the error.
+29.5 sq m STORAGE STORAGE P a w w l h e a i a c r s h e e p t h n ro a o d t t e u li n c th e e a s s t d t w y w l e e g s w f d o o o r r m k n a n o t a t d t c iv r o a e n w l v y i e n in r g t s A c o a u r n t r o d e C c w A tl e y D are
+1 FD 45.0 sq m 20.0 sq m b ca e n tw n e o e t n g u d a w ra g n a te n e d t d h g e n c f o o m rm p a le ts te . n W e e ss t h o e r r a e c fo c r u e racy
+VOID of the information in the issued dwgs files and
+therefore the issued pdfs should always be used
+as a reference for the validity and accuracy of this
+information.
+A ACOUSTIC 2 3 FD A The contents of these drawings have been
+FLOORING prepared solely for their use on this project and no
+other person or organisation should place reliance
+upon this information.
+FAMILY LOUNGE
+QUIET SPACE
+56.5 sq m
+42.2 sq m
+W16 W16 W16 W16 W16
+All survey information inherited and carried out by:
+B B ICELABZ
+53 The Meadow Way, HA3 7BP
+tel: 0203 744 3020
+email: info@icelabz.co.uk
+ZAP Architecture Ltd cannot be held
+responsible as to the accuracy of this
+survey information
+N
+NOTES:
+1. Fire Lobby to be Added
+2. Sound Proof Glazing
+LEGEND 3. Disabled Refuge Added
+KENSAL BUILDING - Disabled Refuse necessary for Fire
+Regulations and Building
+RB BUILDING Regulations here, Openings must be
+CIRCULATION Retained without Obstruction for
+Disabled Refuse as advised by our
+Fire Consultants LFW
+PLASTERBOARD STUD WALL
+ACOUSTIC BOARD WALL
+- All Windows to be Shatter Proof
+FIRE PROOF WALL C D Specification PROPOSED
+- Low banister to be added on Main
+Staircase for Children
+EXISTING WALL - Keypad to be added on Main Doors PLANNING
+DEMOLISHED WALL - All existing openings shall maintain
+their existing moldings
+NEW WALL / BUILD
+- Work Package Cost Check Info/Briefing Tender Contract Construction 2 D 1 a . t 0 e 8.2021 A Revision P D r e o s p c o ri s p e ti d o n Third Floor Plan Drawn by Date Ref. Revision Drawn by Project JAEGOS HOUSE II Project Code Drawing Number Rev.
+2 2 1 2 3 4 . . . 0 0 1 9 9 0 . . . 2 2 2 0 0 0 2 2 2 1 1 1 B C D C C N r h e e a w c n h l g a e e y r s o e u a p t c l a f c o c o r e r C d d i i n n b g e y m t c o i a n c , e l L i m e ib n a r t a ' a s r n y c d o a m l n ib d m r a F e r a n y m ts il o y n L 2 o 2 u . n 0 g 9 e .2021 Subject K P E R N O S P A O L S B E U D I L F D LO IN O G R , P P O L R A T N O - B P E L L A L N O N D IN O G C K COUNCIL 2117 155 H
+17.11.2021 E Fire Staircase removed. RB BUILDING, PORTOBELLO DOCK
+1 0 1 8 7 8 . . . 1 1 0 1 2 1 . . . 2 2 2 0 0 0 2 2 2 1 1 2 F G H D A C f i h s te a a r n b o g le n e d s s R i a te c e c f m u o g r e d e e i n t a in g d g d t o e u d p c . o d S m a e t m e lf s e c n lo ts s i o n n g 1 F 5 ir . e 0 1 D .2 o 0 o 2 r 2 added for separation. Architects 3 Z T 6 A : 5 0 P 2 H A 0 i g r 3 c h 7 h 6 S ite 1 tr c 4 e t 9 e u 9 t r , e 6 L o E n : d i o n n fo , @ E1 z 5 a p 4 a Q rc Z hitecture.com Date 26.01.2022 Scale 1:150 at A3
+12
+CCopyright ZAP Architecture Ltd. Registered in England number: 08413192 Registered address: 369 High St, London E15 4QZ Use Figured Dimensions Only. All Dimensions to be checked on site. Original Drawing Size A3 (L)
+
+--- PDF page 16 ---
+Disclaimer - Use of this Information
+UNCONTROLLED INFORMATION
+PROPOSED FRONT ELEVATION
+This dwg document is an uncontrolled version
+issued to enable the recipient to use this
+information at their own risk.
+The issuer accepts no liability for any such use.
+Design development is ongoing and so may affect
+this dwg uncontrolled information.
+For controlled information refer to formally issued
+drawings and documents.
+USE AT RECIPIENT'S RISK ONLY
+It is the duty of the recipients of electronic
+transmissions to be aware that their system may
+be corrupted by the opening of any such
+transmission and that they be satisfied that
+measures are in place to prevent such an
+occurrence.
+No responsibility or liability whatsoever will be
+accepted by ZAP if the recipient’s computer
+system is corrupted by information transmitted
+from ZAP computers and/or for any delays or
+other losses arising out of or caused by
+transmission.
+Viruses: Although we have taken steps to ensure
+that this e-mail and attachments are free from any
+virus, we advise that in keeping with good
+computing practice the recipient should ensure
+they are actually virus free.
+Confidentiality: This information is intended for the
+named recipients only and may be confidential. If
+it has come to you in error you must take no
+action based on the contents, nor must you copy
+or show them to anyone; please notify ZAP and
+highlight the error.
+Please note that we work natively in AutoCAD
+which produces dwg format drawings and we are
+aware that line styles do not convert correctly
+between dwg and dgn formats. We therefore
+cannot guarantee the completeness or accuracy
+of the information in the issued dwgs files and
+therefore the issued pdfs should always be used
+New Canopy as a reference for the validity and accuracy of this
+information.
+over Entrance
+The contents of these drawings have been
+prepared solely for their use on this project and no
+other person or organisation should place reliance
+upon this information.
+Final Canopy Details to be
+agreed under conditions
+by Westminster City Council
+Bin Store with Sedum Roof
+W22 W22 W22 W22 W22
+W16 W16 W16 W16 W16 W16
+W12 W12 W12 W12 W12 W11 W10 W10 W10 W10 W11
+W11 W10 W10 W10 W10 W11
+W6 W6 W6 W6
+All survey information inherited and carried out by:
+D5 W5 W5 W5 W5 W5 W5 ICELABZ
+53 The Meadow Way, HA3 7BP
+D6 D8 tel: 0203 744 3020
+email: info@icelabz.co.uk
+ZAP Architecture Ltd cannot be held
+responsible as to the accuracy of this
+survey information
+Hydraulic Platform Lift
+All Existing Openings shall maintain
+their Existing Moldings
+PROPOSED
+NOTES:
+PLANNING
+- All Existing Openings shall maintain
+their Existing Moldings
+- Work Package Cost Check Info/Briefing Tender Contract Construction 2 D 5 a . t 0 e 8.2021 A Revision P D r e o s p c o ri s p e ti d o n Front Elevation & Rear Elevation Drawn by 1 D 7 a . t 1 e 1.2021 K Ref. F R i e re v i S si t o a n ircases, Pergola Structure are removed. Buggy and Bin Store to new location Drawn by Project JAEGOS HOUSE II Project Code Drawing Number Rev.
+2 3 0 8 0 2 . . . 0 0 0 8 8 9 . . . 2 2 2 0 0 0 2 2 2 1 1 1 B C D C R C h e h a p a n l n a g g c e e e s s r a o o m n n p r r a a w m m i p p th hydraulic platform lift for disabled 3 2 0 0 6 1 . . . 1 1 1 1 1 2 . . . 2 2 2 0 0 0 2 2 2 1 1 1 M L N F B C i u h re g a g n D y g o e a o s n r d t i o n B R C in e a a f S e r t o D re r e e m c t a k o i i n n N g e e d w Locations Subject P K R EN O S P A O L S B E U D I L E D L I E N V G A , T P IO O N RTOBELLO DOCK 2117 351 P
+15.09.2021 E External Fire Escape Staircase location moved 07.12.2021 O Further Changes to Buggy Store and Rear Decking RB BUILDING, PORTOBELLO DOCK
+2 1 1 0 3 4 . . . 0 1 1 9 0 0 . . . 2 2 2 0 0 0 2 2 2 1 1 1 F G H S P P i r e g o r n p g a o o g s la e e d S re t D r m u o c o u t v u b e r le e d D w on o it h o R r R e to a e r t b r E a e c l e r t e a v p b a l l t a e io c R n e o d o w f i c th o v o e r r ig s i n th a e l w O in ut d d o o w or Space 04.01.2022 P Changes on external fire staircase Architects 3 Z T 6 A : 5 0 P 2 H A 0 i g r 3 c h 7 h 6 S ite 1 tr c 4 e t 9 e u 9 t r , e 6 L o E n : d i o n n fo , @ E1 z 5 a p 4 a Q rc Z hitecture.com Date 18.01.2022 Scale 1:200 at A3
+26.10.2021 J Changes on Pergola Structure
+CCopyright ZAP Architecture Ltd. Registered in England number: 08413192 Registered address: 369 High St, London E15 4QZ Use Figured Dimensions Only. All Dimensions to be checked on site. Original Drawing Size A3 (L) 13
+
+--- PDF page 17 ---
+Disclaimer - Use of this Information
+UNCONTROLLED INFORMATION
+PROPOSED LEFT ELEVATION
+This dwg document is an uncontrolled version
+issued to enable the recipient to use this
+information at their own risk.
+The issuer accepts no liability for any such use.
+Design development is ongoing and so may affect
+this dwg uncontrolled information.
+For controlled information refer to formally issued
+drawings and documents.
+USE AT RECIPIENT'S RISK ONLY
+It is the duty of the recipients of electronic
+transmissions to be aware that their system may
+be corrupted by the opening of any such
+transmission and that they be satisfied that
+measures are in place to prevent such an
+occurrence.
+No responsibility or liability whatsoever will be
+accepted by ZAP if the recipient’s computer
+system is corrupted by information transmitted
+from ZAP computers and/or for any delays or
+other losses arising out of or caused by
+transmission.
+Viruses: Although we have taken steps to ensure
+that this e-mail and attachments are free from any
+virus, we advise that in keeping with good
+computing practice the recipient should ensure
+they are actually virus free.
+Confidentiality: This information is intended for the
+named recipients only and may be confidential. If
+it has come to you in error you must take no
+action based on the contents, nor must you copy
+or show them to anyone; please notify ZAP and
+highlight the error.
+Please note that we work natively in AutoCAD
+which produces dwg format drawings and we are
+aware that line styles do not convert correctly
+between dwg and dgn formats. We therefore
+cannot guarantee the completeness or accuracy
+of the information in the issued dwgs files and
+therefore the issued pdfs should always be used
+as a reference for the validity and accuracy of this
+information.
+New Pavement along canal All Existing Openings shall The contents of these drawings have been
+prepared solely for their use on this project and no
+maintain their Existing Moldings other person or organisation should place reliance
+upon this information.
+Steel Railing
+with 100mm gap
+between Balusters
+W16 W16 W16 W16 W16
+D13 W14 W14 W14
+W2 W2 W2 W2
+W8 D4
+D9 D10
+Canal All survey information inherited and carried out by:
+ICELABZ
+Existing Window to be replaced with Door New Buggy Store
+53 The Meadow Way, HA3 7BP
+tel: 0203 744 3020
+email: info@icelabz.co.uk
+New Windows Required to Accommodate ZAP Architecture Ltd cannot be held
+Level Change at Floor responsible as to the accuracy of this
+survey information
+- Bottom of W2 Raised
+New Boundary Fencing
+to match canalside railings
+PROPOSED
+NOTES:
+- All Existing Openings shall maintain PLANNING
+their Existing Moldings
+- Work Package Cost Check Info/Briefing Tender Contract Construction 2 D 5 a . t 0 e 8.2021 A Revision P D r e o s p c o ri s p e ti d o n Right Elevation & Left Elevation Drawn by 0 D 7 a . t 1 e 2.2021 K Ref. B R u e g v g is y io a n nd Bin Store to New Locations Drawn by Project JAEGOS HOUSE II Project Code Drawing Number Rev.
+2 3 0 8 0 2 . . . 0 0 0 8 8 9 . . . 2 2 2 0 0 0 2 2 2 1 1 1 B C D C C R h h e a a p n n la g g c e e e s s r a o o m n n p r r a a w m m i p p th hydraulic platform lift for disabled 1 2 0 9 6 4 . . . 0 0 0 1 1 1 . . . 2 2 2 0 0 0 2 2 2 2 2 2 M N L R C C e h h a a a r n n g g d e e e s s c k o o in n n g W e l x e 2 t v e e rn l a a l n f d ir e R a st il a in ir g c a a s d e justed Subject P K R EN O S P A O L S B E U D I L E D L I E N V G A , T P IO O N RTOBELLO DOCK 2117 352 N
+15.09.2021 E External Fire Escape Staircase location moved RB BUILDING, PORTOBELLO DOCK
+1 2 1 4 6 7 . . . 1 1 1 0 0 1 . . . 2 2 2 0 0 0 2 2 2 1 1 1 F G H P C Fi e h re r a g n S o g t la a e i s r S c o t a r n u s c e P t s u e , r r P e g o e w l r a g it h o S l t a R r u e S c t t r t r a u u c r c e t t a u b re le a R re o o re f m co o v v e e r d s . O B u u t g d g o y o r a S n p d a B c i e n Store to new location Architects 3 Z T 6 A : 5 0 P 2 H A 0 i g r 3 c h 7 h 6 S ite 1 tr c 4 e t 9 e u 9 t r , e 6 L o E n : d i o n n fo , @ E1 z 5 a p 4 a Q rc Z hitecture.com Date 27.01.2022 Scale 1:200 at A3
+19.11.2021 J Glass Canopy reduced in size
+CCopyright ZAP Architecture Ltd. Registered in England number: 08413192 Registered address: 369 High St, London E15 4QZ Use Figured Dimensions Only. All Dimensions to be checked on site. Original Drawing Size A3 (L) 14
+
+--- PDF page 18 ---
+Disclaimer - Use of this Information
+UNCONTROLLED INFORMATION
+PROPOSED FRONT GATE ELEVATION
+This dwg document is an uncontrolled version
+issued to enable the recipient to use this
+information at their own risk.
+The issuer accepts no liability for any such use.
+Design development is ongoing and so may affect
+this dwg uncontrolled information.
+For controlled information refer to formally issued
+drawings and documents.
+USE AT RECIPIENT'S RISK ONLY
+It is the duty of the recipients of electronic
+transmissions to be aware that their system may
+be corrupted by the opening of any such
+transmission and that they be satisfied that
+measures are in place to prevent such an
+occurrence.
+No responsibility or liability whatsoever will be
+accepted by ZAP if the recipient’s computer
+system is corrupted by information transmitted
+from ZAP computers and/or for any delays or
+other losses arising out of or caused by
+transmission.
+Viruses: Although we have taken steps to ensure
+that this e-mail and attachments are free from any
+virus, we advise that in keeping with good
+computing practice the recipient should ensure
+they are actually virus free.
+Confidentiality: This information is intended for the
+named recipients only and may be confidential. If
+it has come to you in error you must take no
+action based on the contents, nor must you copy
+or show them to anyone; please notify ZAP and
+highlight the error.
+Please note that we work natively in AutoCAD
+which produces dwg format drawings and we are
+aware that line styles do not convert correctly
+between dwg and dgn formats. We therefore
+cannot guarantee the completeness or accuracy
+of the information in the issued dwgs files and
+therefore the issued pdfs should always be used
+as a reference for the validity and accuracy of this
+information.
+The contents of these drawings have been
+prepared solely for their use on this project and no
+other person or organisation should place reliance
+upon this information.
+All survey information inherited and carried out by:
+ICELABZ
+53 The Meadow Way, HA3 7BP
+tel: 0203 744 3020
+email: info@icelabz.co.uk
+ZAP Architecture Ltd cannot be held
+responsible as to the accuracy of this
+survey information
+New Proposed
+Pedestrian Entrance
+PROPOSED
+PLANNING
+- Work Package Cost Check Info/Briefing Tender Contract Construction 2 D 5 a . t 0 e 8.2021 A Revision P D r e o s p c o ri s p e ti d o n Front Elevation Drawn by Date Ref. Revision Drawn by Project JAEGOS HOUSE II Project Code Drawing Number Rev.
+2 3 0 8 0 2 . . . 0 0 0 8 8 9 . . . 2 2 2 0 0 0 2 2 2 1 1 1 B C D C C R h h e a a p n n la g g c e e e s s r a o o m n n p r r a a w m m i p p th hydraulic platform lift for disabled Subject P K R EN O S P A O L S B E U D I L E D L I E N V G A , T P IO O N RTOBELLO DOCK 2117 353 G
+01.12.2021 E Buggy and Bin Store to new location RB BUILDING, PORTOBELLO DOCK
+0 1 7 8 . . 1 1 2 2 . . 2 2 0 0 2 2 1 1 F G F P u ill r a th r e a r d C de h d a n to g e p s e t d o e B st u ri g a g n y e S n t t o ra re nce to match existing gate Architects 3 Z 6 A 5 P H A ig rc h h S ite tr c e t e u t r , e London, E15 4QZ Date 26.01.2022 Scale 1:200 at A3
+T: 020 37614996 E: info@zaparchitecture.com
+CCopyright ZAP Architecture Ltd. Registered in England number: 08413192 Registered address: 369 High St, London E15 4QZ Use Figured Dimensions Only. All Dimensions to be checked on site. Original Drawing Size A3 (L) 15
+
+--- PDF page 19 ---
+Disclaimer - Use of this Information
+UNCONTROLLED INFORMATION
+PROPOSED REAR ELEVATION
+This dwg document is an uncontrolled version
+issued to enable the recipient to use this
+information at their own risk.
+The issuer accepts no liability for any such use.
+Design development is ongoing and so may affect
+this dwg uncontrolled information.
+For controlled information refer to formally issued
+drawings and documents.
+USE AT RECIPIENT'S RISK ONLY
+It is the duty of the recipients of electronic
+transmissions to be aware that their system may
+be corrupted by the opening of any such
+transmission and that they be satisfied that
+measures are in place to prevent such an
+occurrence.
+No responsibility or liability whatsoever will be
+accepted by ZAP if the recipient’s computer
+system is corrupted by information transmitted
+from ZAP computers and/or for any delays or
+other losses arising out of or caused by
+transmission.
+Viruses: Although we have taken steps to ensure
+that this e-mail and attachments are free from any
+virus, we advise that in keeping with good
+computing practice the recipient should ensure
+they are actually virus free.
+Confidentiality: This information is intended for the
+named recipients only and may be confidential. If
+it has come to you in error you must take no
+action based on the contents, nor must you copy
+or show them to anyone; please notify ZAP and
+highlight the error.
+All Existing Openings Please note that we work natively in AutoCAD
+Existing Window which produces dwg format drawings and we are
+shall maintain their aware that line styles do not convert correctly
+to be replaced with Door between dwg and dgn formats. We therefore
+Existing Mouldings cannot guarantee the completeness or accuracy
+of the information in the issued dwgs files and
+therefore the issued pdfs should always be used
+as a reference for the validity and accuracy of this
+information.
+The contents of these drawings have been
+Steel Railing External Fire p o r th e e p r a r p e e d r s s o o n le o ly r o fo r r g a th n e is ir a u ti s o e n o s n h o th u i l s d p p r l o a j c e e c t r e a l n ia d n n ce o
+with 100mm Escape Staircase upon this information.
+gap between
+Balusters
+W20
+W23 W22 W23
+W16 W16 W16 W16 W16
+W11 W10 W10 W10
+W16 W19 W16 W13 W17 W24
+W11 W10 W10 W10 W14 W15 W14
+W4 W4 W3 W3 W3 W3 W1 W1 D2 W2 W2 D3 W7 W8 D4
+D1
+All survey information inherited and carried out by:
+ICELABZ
+53 The Meadow Way, HA3 7BP
+tel: 0203 744 3020
+All Rear Windows email: info@icelabz.co.uk
+Landing to Garden
+to Remain White Coloured New Proposed Steel Railing ZAP Architecture Ltd cannot be held
+Steel Railings to match
+to match Upper Floors Existing Sash Window Door and Windows with 100mm responsible as to the accuracy of this
+New Window Required canal side Railings survey information
+Style retained on (Refer to Schedule) gap between
+to Accommodate Level Change
+RB building windows Balusters at Floor Single Door to Nursery Garden
+- Bottom of W2 Raised
+NOTES: PROPOSED
+- All Existing Openings shall maintain
+their Existing Mouldings PLANNING
+- Existing Sash Window Style retained
+on RB building windows
+- Work Package Cost Check Info/Briefing Tender Contract Construction 2 D 5 a . t 0 e 8.2021 A Revision P D r e o s p c o ri s p e ti d o n Front Elevation & Rear Elevation Drawn by 1 D 7 a . t 1 e 1.2021 K Ref. F R i e re v i S si t o a n ircases, Pergola Structure are removed. Buggy and Bin Store to new location Drawn by Project JAEGOS HOUSE II Project Code Drawing Number Rev.
+2 3 0 8 0 2 . . . 0 0 0 8 8 9 . . . 2 2 2 0 0 0 2 2 2 1 1 1 B C D C R C h e h a p a n l n a g g c e e e s s r a o o m n n p r r a a w m m i p p th hydraulic platform lift for disabled 2 3 0 6 0 1 . . . 1 1 1 1 1 2 . . . 2 2 2 0 0 0 2 2 2 1 1 1 L M N B F C i u h re g a g n D y g o e a o s n r d t i o n B R C in e a a f S e r t o D re r e e m c t a k o i i n n N g e e d w Locations Subject P K R EN O S P A O L S B E U D I L E D L I E N V G A , T P IO O N RTOBELLO DOCK 2117 354 S
+15.09.2021 E External Fire Escape Staircase location moved 07.12.2021 O Further Changes to Buggy Store and Rear Decking RB BUILDING, PORTOBELLO DOCK
+2 1 1 0 3 4 . . . 0 1 1 9 0 0 . . . 2 2 2 0 0 0 2 2 2 1 1 1 F G H S P P i r e g o r n p g a o o g s la e e d S re t D r m u o c o u t v u b e r le e d D w on o it h o R r R e to a e r t b r E a e c l e r t e a v p b a l l t a e io c R n e o d o w f i c th o v o e r r ig s i n th a e l w O i u n t d d o o w or Space 0 1 0 7 9 4 . . . 0 0 0 1 1 1 . . . 2 2 2 0 0 0 2 2 2 2 2 2 R Q P C R C h e h a a a n r n g g d e e e s s c k o o in n n g e e l x x e t t v e e e r r n n l a a a l l n f f d i i r r e e R a s s t t il a a in i i r r g c c a a a s s d e e ju a s n te d d glazed railing Architects 3 Z T 6 A : 5 0 P 2 H A 0 i g r 3 c h 7 h 6 S ite 1 tr c 4 e t 9 e u 9 t r , e 6 L o E n : d i o n n fo , @ E1 z 5 a p 4 a Q rc Z hitecture.com Date 27.01.2022 Scale 1:200 at A3
+26.10.2021 J Changes on Pergola Structure 26.01.2022 S Changes on D4, and annotation added
+CCopyright ZAP Architecture Ltd. Registered in England number: 08413192 Registered address: 369 High St, London E15 4QZ Use Figured Dimensions Only. All Dimensions to be checked on site. Original Drawing Size A3 (L) 16
+
+--- PDF page 20 ---
+Disclaimer - Use of this Information
+UNCONTROLLED INFORMATION
+PROPOSED REAR ELEVATION (without railings shown - for visual purposes only)
+This dwg document is an uncontrolled version
+issued to enable the recipient to use this
+information at their own risk.
+The issuer accepts no liability for any such use.
+Design development is ongoing and so may affect
+this dwg uncontrolled information.
+For controlled information refer to formally issued
+drawings and documents.
+USE AT RECIPIENT'S RISK ONLY
+It is the duty of the recipients of electronic
+transmissions to be aware that their system may
+be corrupted by the opening of any such
+transmission and that they be satisfied that
+measures are in place to prevent such an
+occurrence.
+No responsibility or liability whatsoever will be
+accepted by ZAP if the recipient’s computer
+system is corrupted by information transmitted
+from ZAP computers and/or for any delays or
+other losses arising out of or caused by
+transmission.
+Viruses: Although we have taken steps to ensure
+that this e-mail and attachments are free from any
+virus, we advise that in keeping with good
+computing practice the recipient should ensure
+they are actually virus free.
+Confidentiality: This information is intended for the
+named recipients only and may be confidential. If
+it has come to you in error you must take no
+action based on the contents, nor must you copy
+or show them to anyone; please notify ZAP and
+highlight the error.
+All Existing Openings Please note that we work natively in AutoCAD
+Existing Window which produces dwg format drawings and we are
+shall maintain their aware that line styles do not convert correctly
+to be replaced with Door between dwg and dgn formats. We therefore
+Existing Mouldings cannot guarantee the completeness or accuracy
+of the information in the issued dwgs files and
+therefore the issued pdfs should always be used
+as a reference for the validity and accuracy of this
+information.
+The contents of these drawings have been
+Steel Railing External Fire p o r th e e p r a r p e e d r s s o o n le o ly r o fo r r g a th n e is ir a u ti s o e n o s n h o th u i l s d p p r l o a j c e e c t r e a l n ia d n n ce o
+with 100mm Escape Staircase upon this information.
+gap between
+Balusters
+W20
+W23 W22 W23
+W16 W16 W16 W16 W16
+W11 W10 W10 W10
+W16 W19 W16 W13 W17 W24
+W11 W10 W10 W10 W14 W15 W14
+W4 W4 W3 W3 W3 W3 W1 W1 D2 W2 W2 D3 W7 W8 D4
+D1
+All survey information inherited and carried out by:
+ICELABZ
+53 The Meadow Way, HA3 7BP
+tel: 0203 744 3020
+All Rear Windows email: info@icelabz.co.uk
+Landing to Garden
+to Remain White Coloured New Proposed ZAP Architecture Ltd cannot be held
+Steel Railings to match
+to match Upper Floors Existing Sash Window Door and Windows responsible as to the accuracy of this
+New Window Required canal side Railings survey information
+Style retained on (Refer to Schedule)
+to Accommodate Level Change
+RB building windows
+at Floor Single Door to Nursery Garden
+- Bottom of W2 Raised
+NOTES: PROPOSED
+- All Existing Openings shall maintain
+their Existing Mouldings PLANNING
+- Existing Sash Window Style retained
+on RB building windows
+- Work Package Cost Check Info/Briefing Tender Contract Construction D 25 a . t 0 e 8.2021 A Revision P D r e o s p c o ri s p e ti d o n Front Elevation & Rear Elevation Drawn by D 17 a . t 1 e 1.2021 R K ef. F R i e re v i S si t o a n ircases, Pergola Structure are removed. Buggy and Bin Store to new location Drawn by Project JAEGOS HOUSE II Project Code Drawing Number Rev.
+2 3 0 8 0 2 . . . 0 0 0 8 8 9 . . . 2 2 2 0 0 0 2 2 2 1 1 1 B C D C R C h e h a p a n l n a g g c e e e s s r a o o m n n p r r a a w m m i p p th hydraulic platform lift for disabled 2 3 0 6 0 1 . . . 1 1 1 1 1 2 . . . 2 2 2 0 0 0 2 2 2 1 1 1 L M N B F C i u h re g a g n D y g o e a o s n r d t i o n B R C in e a a f S e r t o D re r e e m c t a k o i i n n N g e e d w Locations Subject P K R EN O S P A O L S B E U D I L E D L I E N V G A , T P IO O N RTOBELLO DOCK 2117 354-A S
+15.09.2021 E External Fire Escape Staircase location moved 07.12.2021 O Further Changes to Buggy Store and Rear Decking RB BUILDING, PORTOBELLO DOCK
+2 1 1 0 3 4 . . . 0 1 1 9 0 0 . . . 2 2 2 0 0 0 2 2 2 1 1 1 F G H S P P i r e g o r n p g a o o g s la e e d S re t D r m u o c o u t v u b e r le e d D w on o it h o R r R e to a e r t b r E a e c l e r t e a v p b a l l t a e io c R n e o d o w f i c th o v o e r r ig s i n th a e l w O i u n t d d o o w or Space 0 1 0 7 9 4 . . . 0 0 0 1 1 1 . . . 2 2 2 0 0 0 2 2 2 2 2 2 R Q P C R C h e h a a a n r n g g d e e e s s c k o o in n n g e e l x x e t t v e e e r r n n l a a a l l n f f d i i r r e e R a s s t t il a a in i i r r g c c a a a s s d e e ju a s n te d d glazed railing Architects 3 Z T 6 A : 5 0 P 2 H A 0 i g r 3 c h 7 h 6 S ite 1 tr c 4 e t 9 e u 9 t r , e 6 L o E n : d i o n n fo , @ E1 z 5 a p 4 a Q rc Z hitecture.com Date 27.01.2022 Scale 1:200 at A3
+26.10.2021 J Changes on Pergola Structure 26.01.2022 S Changes on D4, and annotation added 17
+CCopyright ZAP Architecture Ltd. Registered in England number: 08413192 Registered address: 369 High St, London E15 4QZ Use Figured Dimensions Only. All Dimensions to be checked on site. Original Drawing Size A3 (L)
+
+--- PDF page 21 ---
+Disclaimer - Use of this Information
+UNCONTROLLED INFORMATION
+PROPOSED RIGHT ELEVATION
+This dwg document is an uncontrolled version
+issued to enable the recipient to use this
+information at their own risk.
+The issuer accepts no liability for any such use.
+Design development is ongoing and so may affect
+this dwg uncontrolled information.
+For controlled information refer to formally issued
+drawings and documents.
+USE AT RECIPIENT'S RISK ONLY
+It is the duty of the recipients of electronic
+transmissions to be aware that their system may
+be corrupted by the opening of any such
+transmission and that they be satisfied that
+measures are in place to prevent such an
+occurrence.
+No responsibility or liability whatsoever will be
+accepted by ZAP if the recipient’s computer
+system is corrupted by information transmitted
+from ZAP computers and/or for any delays or
+other losses arising out of or caused by
+transmission.
+Viruses: Although we have taken steps to ensure
+that this e-mail and attachments are free from any
+virus, we advise that in keeping with good
+computing practice the recipient should ensure
+they are actually virus free.
+Confidentiality: This information is intended for the
+named recipients only and may be confidential. If
+it has come to you in error you must take no
+action based on the contents, nor must you copy
+or show them to anyone; please notify ZAP and
+highlight the error.
+Please note that we work natively in AutoCAD
+which produces dwg format drawings and we are
+aware that line styles do not convert correctly
+between dwg and dgn formats. We therefore
+cannot guarantee the completeness or accuracy
+of the information in the issued dwgs files and
+therefore the issued pdfs should always be used
+as a reference for the validity and accuracy of this
+information.
+Steel Railing External Fire p T r h e e p a co re n d te s n o ts le o ly f f t o h r e t s h e e d ir r u a s w e in o g n s t h h a is v e p r b o e je e c n t and no
+with 100mm gap Escape Staircase u o p th o e n r t p h e is rs i o n n fo o rm r o a r ti g o a n n . isation should place reliance
+New Canopy
+between Balusters
+over Entrance
+New Pavement along canal
+Hydraulic Platform Lift
+Steel Railing
+W21 W17 W17 W17 W17 W17 with 100mm gap
+between Balusters
+D11 W14 W14 D12 W14
+W5 D7 W5
+W4 W4 W3 W3 W3 W3
+All survey information inherited and carried out by:
+ICELABZ
+53 The Meadow Way, HA3 7BP
+Canal tel: 0203 744 3020
+email: info@icelabz.co.uk
+ZAP Architecture Ltd cannot be held
+Existing Window to Replaced with Door responsible as to the accuracy of this
+All Existing Openings shall survey information
+maintain their Existing Moldings
+PROPOSED
+NOTES:
+PLANNING
+- All Existing Openings shall maintain
+their Existing Moldings
+- Work Package Cost Check Info/Briefing Tender Contract Construction 2 D 5 a . t 0 e 8.2021 A Revision P D r e o s p c o ri s p e ti d o n Right Elevation & Left Elevation Drawn by 0 D 7 a . t 1 e 2.2021 K Ref. B R u e g v g is y io a n nd Bin Store to New Locations Drawn by Project JAEGOS HOUSE II Project Code Drawing Number Rev.
+2 3 0 8 0 2 . . . 0 0 0 8 8 9 . . . 2 2 2 0 0 0 2 2 2 1 1 1 B C D C C R h h e a a p n n la g g c e e e s s r a o o m n n p r r a a w m m i p p th hydraulic platform lift for disabled 0 0 1 7 4 6 . . . 0 0 0 1 1 1 . . . 2 2 2 0 0 0 2 2 2 2 2 2 M L N C C C h h h a a a n n n g g g e e e s s s o o o n n n e e F x x ir t t s e e t r r n F n a a lo l l o f f i i r r r e e ra s s il t t i a a n i i g r r c c a a s s e e and railing Subject P K R EN O S P A O L S B E U D I L E D L I E N V G A , T P IO O N RTOBELLO DOCK 2117 355 N
+15.09.2021 E External Fire Escape Staircase location moved RB BUILDING, PORTOBELLO DOCK
+1 2 1 4 6 7 . . . 1 1 1 0 0 1 . . . 2 2 2 0 0 0 2 2 2 1 1 1 F G H P C Fi e h re r a g n S o g t la a e i s r S c o t a r n u s c e P t s u e , r r P e g o e w l r a g it h o S l t a R r u e S c t t r t r a u u c r c e t t a u b re le a R re o o re f m co o v v e e r d s . O B u u t g d g o y o r a S n p d a B c i e n Store to new location Architects 3 Z T 6 A : 5 0 P 2 H A 0 i g r 3 c h 7 h 6 S ite 1 tr c 4 e t 9 e u 9 t r , e 6 L o E n : d i o n n fo , @ E1 z 5 a p 4 a Q rc Z hitecture.com Date 27.01.2022 Scale 1:200 at A3
+19.11.2021 J Glass Canopy reduced in size
+CCopyright ZAP Architecture Ltd. Registered in England number: 08413192 Registered address: 369 High St, London E15 4QZ Use Figured Dimensions Only. All Dimensions to be checked on site. Original Drawing Size A3 (L) 18
+
+--- PDF page 22 ---
+PROPOSED DOOR
+AND WINDOW SCHEDULE
+19
+
+--- PDF page 23 ---
+Disclaimer - Use of this Information
+PROPOSED DOOR SCHEDULE
+UNCONTROLLED INFORMATION
+This dwg document is an uncontrolled version
+issued to enable the recipient to use this
+Door Name information at their own risk.
+D1 D2 D3 D4 D Th e e s ig is n s u d e e r v a e c lo c p e m pt e s n n t o is l i o a n b g il o ity in f g o r a n a d n y s o su m ch a y u s a e ff . ect
+this dwg uncontrolled information.
+For controlled information refer to formally issued
+drawings and documents. USE AT RECIPIENT'S RISK ONLY
+NEW EXISTING NEW NEW
+It is the duty of the recipients of electronic
+transmissions to be aware that their system may
+be corrupted by the opening of any such
+transmission and that they be satisfied that
+measures are in place to prevent such an
+occurrence.
+2255
+No responsibility or liability whatsoever will be
+accepted by ZAP if the recipient’s computer
+380 1360 380 system is corrupted by information transmitted
+from ZAP computers and/or for any delays or
+other losses arising out of or caused by
+transmission.
+Viruses: Although we have taken steps to ensure
+that this e-mail and attachments are free from any
+virus, we advise that in keeping with good
+computing practice the recipient should ensure
+they are actually virus free.
+Confidentiality: This information is intended for the
+Glazed Panel n it a h m as e d c o re m c e ip t i o e n y t o s u o i n n l y e a rr n o d r y m o a u y m b u e s c t o ta n k fi e d e n n o tial. If
+action based on the contents, nor must you copy
+or show them to anyone; please notify ZAP and highlight the error.
+F F Please note that we work natively in AutoCAD
+which produces dwg format drawings and we are
+aware that line styles do not convert correctly
+between dwg and dgn formats. We therefore
+cannot guarantee the completeness or accuracy
+of the information in the issued dwgs files and
+Timber Panel t a h s e a re r f e o f r e e r e th n e c e is s fo u r e t d h e p d v f a s l id sh ity o u a l n d d a a lw c a c y u s ra b c e y u o s f e th d is
+information.
+The contents of these drawings have been
+prepared solely for their use on this project and no
+other person or organisation should place reliance
+Finish Floor Level upon this information.
+Quantity Kensal Building
+1 Cafe / Restaurant (GF) 1 Cafe / Restaurant (GF) 1 1 Nursery 1 Room 2 (GF)
+Location Rear Entrance (GF)
+Dimension 2300mm(H) x 2255mm(W) 2030mm(H) x 1365mm(W) 2580mm(H) x 1600mm(W) 2430mm(H) x 1155mm(W)
+White Painted Timber Frame with White Painted Timber Frame with White Painted Timber Frame with White Painted Timber Frame
+Specification
+Double Leaf Glazed Door and Two Double Leaf Glazed Door with Double Leaf Glazed Door Glazed 2 Panels Door
+Fixed Glazed Windows Fixed Glazed Window Above
+Door Name
+D5 D6 D7 D8
+EXISTING EXISTING EXISTING NEW
+All survey information inherited and carried out by:
+ICELABZ
+53 The Meadow Way, HA3 7BP
+tel: 0203 744 3020
+email: info@icelabz.co.uk
+ZAP Architecture Ltd cannot be held
+responsible as to the accuracy of this
+survey information
+Finish Floor Level
+Quantity Shower + Toilet's RB Building
+1 1 1 Gym (GF) 1 Bin Store (GF)
+Location Storage (GF) Front Entrance (GF)
+Dimension 2495mm(H) x 1535mm(W) 2710mm(H) x 2005mm(W) 2030mm(H) x 810mm(W) 2000mm(H) x 1200mm(W)
+White Painted Timber Frame White Painted Timber Frame White Painted Timber Frame Double Leaf Door PROPOSED
+Specification
+Double Leaf Solid Door with Double Leaf Glazed Door Single Leaf Glazed Door
+PLANNING
+Fixed Glazing Above on Front Elevation Facade
+- Work Package Cost Check Info/Briefing Tender Contract Construction 1 D 8 a . t 0 e 1.2022 A Revision P D r e o s p c o ri s p e ti d o n Door and Window Schedule Drawn by Date Ref. Revision Drawn by Project JAEGOS HOUSE II Project Code Drawing Number Rev.
+Subject PROPOSED DOOR AND WINDOW SCHEDULE
+KENSAL BUILDING, PORTOBELLO DOCK
+RB BUILDING, PORTOBELLO DOCK
+Architects ZAP Architecture
+365 High Street, London, E15 4QZ Date Scale at A3
+T: 020 37614996 E: info@zaparchitecture.com
+20
+CCopyright ZAP Architecture Ltd. Registered in England number: 08413192 Registered address: 369 High St, London E15 4QZ Use Figured Dimensions Only. All Dimensions to be checked on site. Original Drawing Size A3 (L)
+0032
+0233
+0411
+0302
+1155
+0342
+1535
+555
+5942
+0172
+2005
+0302
+810 1200
+0002
+1365
+0852
+1600
+26.01.2022 B Changes on specification of doors
+2117 601 B
+26.01.2022 1:50
+
+--- PDF page 24 ---
+Disclaimer - Use of this Information
+PROPOSED DOOR SCHEDULE
+UNCONTROLLED INFORMATION
+This dwg document is an uncontrolled version
+issued to enable the recipient to use this
+Door Name information at their own risk.
+D9 D10 D11 D Th e e s ig is n s u d e e r v a e c lo c p e m pt e s n n t o is l i o a n b g il o ity in f g o r a n a d n y s o su m ch a y u s a e ff . ect
+this dwg uncontrolled information.
+For controlled information refer to formally issued
+drawings and documents.
+USE AT RECIPIENT'S RISK ONLY
+NEW NEW EXISTING
+It is the duty of the recipients of electronic
+transmissions to be aware that their system may
+be corrupted by the opening of any such
+transmission and that they be satisfied that
+measures are in place to prevent such an
+occurrence.
+No responsibility or liability whatsoever will be
+accepted by ZAP if the recipient’s computer
+system is corrupted by information transmitted
+from ZAP computers and/or for any delays or
+other losses arising out of or caused by
+transmission. 2600
+Viruses: Although we have taken steps to ensure
+that this e-mail and attachments are free from any
+virus, we advise that in keeping with good
+computing practice the recipient should ensure
+they are actually virus free.
+Confidentiality: This information is intended for the
+named recipients only and may be confidential. If
+it has come to you in error you must take no
+action based on the contents, nor must you copy
+or show them to anyone; please notify ZAP and
+highlight the error.
+Please note that we work natively in AutoCAD
+which produces dwg format drawings and we are
+aware that line styles do not convert correctly
+between dwg and dgn formats. We therefore
+cannot guarantee the completeness or accuracy
+of the information in the issued dwgs files and
+therefore the issued pdfs should always be used
+as a reference for the validity and accuracy of this
+information.
+The contents of these drawings have been
+prepared solely for their use on this project and no
+other person or organisation should place reliance
+Finish Floor Level upon this information.
+Quantity RB Building
+1 Buggy Store (GF) 1 Buggy Store (GF) 1
+Location Corridor (FF)
+Dimension 2000mm(H) x 2600(W) 2000mm(H) x 2375mm(W) 2000mm(H) x 810mm(W)
+Single Panel Sliding Door Single Panel Sliding Door White Painted Timber Frame
+Specification
+Single Leaf Glazed Door
+Door Name
+D12 D13
+NEW EXISTING
+All survey information inherited and carried out by:
+ICELABZ
+53 The Meadow Way, HA3 7BP
+tel: 0203 744 3020
+email: info@icelabz.co.uk
+ZAP Architecture Ltd cannot be held
+responsible as to the accuracy of this
+survey information
+Finish Floor Level
+Quantity
+1 Studio 1 (FF) 1 Studio 1 (FF)
+Location
+Dimension 2170mm(H) x 1275mm(W) 2170mm(H) x 1275mm(W)
+White Painted Timber Frame White Painted Timber Frame PROPOSED
+Specification
+Double Leaf Glazed Door Double Leaf Glazed Door
+PLANNING
+- Work Package Cost Check Info/Briefing Tender Contract Construction 1 D 8 a . t 0 e 1.2022 A Revision P D r e o s p c o ri s p e ti d o n Door and Window Schedule Drawn by Date Ref. Revision Drawn by Project JAEGOS HOUSE II Project Code Drawing Number Rev.
+Subject PROPOSED DOOR AND WINDOW SCHEDULE
+KENSAL BUILDING, PORTOBELLO DOCK
+RB BUILDING, PORTOBELLO DOCK
+Architects ZAP Architecture
+365 High Street, London, E15 4QZ Date Scale at A3
+T: 020 37614996 E: info@zaparchitecture.com
+CCopyright ZAP Architecture Ltd. Registered in England number: 08413192 Registered address: 369 High St, London E15 4QZ Use Figured Dimensions Only. All Dimensions to be checked on site. Original Drawing Size A3 (L) 21
+0002 0002
+2375 810
+0002
+1275
+0712 0712
+1275
+26.01.2022 B Changes on specification of doors
+2117 602 B
+26.01.2022 1:50
+
+--- PDF page 25 ---
+Disclaimer - Use of this Information
+UNCONTROLLED INFORMATION
+PROPOSED WINDOW SCHEDULE
+This dwg document is an uncontrolled version
+issued to enable the recipient to use this
+information at their own risk.
+Window The issuer accepts no liability for any such use.
+W1 W2 W3 W4 Design development is ongoing and so may affect
+this dwg uncontrolled information.
+For controlled information refer to formally issued
+Name drawings and documents.
+USE AT RECIPIENT'S RISK ONLY
+EXISTING NEW EXISTING EXISTING It is the duty of the recipients of electronic
+transmissions to be aware that their system may
+be corrupted by the opening of any such
+transmission and that they be satisfied that
+measures are in place to prevent such an
+occurrence.
+No responsibility or liability whatsoever will be
+accepted by ZAP if the recipient’s computer
+system is corrupted by information transmitted
+from ZAP computers and/or for any delays or
+other losses arising out of or caused by
+transmission.
+Viruses: Although we have taken steps to ensure
+that this e-mail and attachments are free from any
+virus, we advise that in keeping with good
+computing practice the recipient should ensure
+they are actually virus free.
+Confidentiality: This information is intended for the
+named recipients only and may be confidential. If
+it has come to you in error you must take no
+action based on the contents, nor must you copy
+or show them to anyone; please notify ZAP and
+highlight the error.
+Please note that we work natively in AutoCAD
+which produces dwg format drawings and we are
+aware that line styles do not convert correctly
+between dwg and dgn formats. We therefore
+cannot guarantee the completeness or accuracy
+of the information in the issued dwgs files and
+therefore the issued pdfs should always be used
+as a reference for the validity and accuracy of this
+information.
+The contents of these drawings have been
+prepared solely for their use on this project and no
+other person or organisation should place reliance
+upon this information.
+Finish Floor Level
+Quantity
+2 Cafe / Restaurant (GF) 4 Cafe / Restaurant (GF) 4 Cafe / Restaurant (GF) 2 Female Toilet (GF)
+Location
+Dimension 1510mm(H) x 1310mm(W) 1900mm(H) x 1370mm(W) 1700mm(H) x 1255mm(W) 1700mm(H) x 1255mm(W)
+White Painted Timber Frame White Painted Timber Frame White Painted Timber Frame White Painted Timber Frame
+Specification
+Double Casement Window Sash Window Sash Window Sash Window
+Fire Rated Window
+Window
+W5 W6 W7 W8
+Name
+EXISTING EXISTING EXISTING EXISTING
+All survey information inherited and carried out by:
+ICELABZ
+53 The Meadow Way, HA3 7BP
+tel: 0203 744 3020
+email: info@icelabz.co.uk
+ZAP Architecture Ltd cannot be held
+responsible as to the accuracy of this
+survey information
+Finish Floor Level
+Quantity Nursery 1 Room 1 (GF)
+7 Gym (GF) 4 1 Nursery 1 Room 2 (GF) 1 Nursery 1 Room 2 (GF)
+Location Nursery 2 (GF)
+Dimension 1550mm(H) x 1345mm(W) 2495mm(H) x 1220mm(W) 1955mm(H) x 1280mm(W) 1955mm(H) x 1350mm(W)
+PROPOSED
+White Painted Timber Frame White Painted Timber Frame White Painted Timber Frame White Painted Timber Frame
+Specification
+Double Casement Window Fixed Window with Internal Perspex Fixed Window with Internal Perspex Fixed Window with Internal Perspex PLANNING
+Screen Screen Screen
+- Work Package Cost Check Info/Briefing Tender Contract Construction 1 D 7 a . t 0 e 1.2022 A Revision P D r e o s p c o ri s p e ti d o n Window Schedule Drawn by Date Ref. Revision Drawn by Project JAEGOS HOUSE II Project Code Drawing Number Rev.
+26.01.2022 B Changes in specification of windows - all windows are white painted timber frame Subject PROPOSED DOOR AND WINDOW SCHEDULE
+KENSAL BUILDING, PORTOBELLO DOCK 2117 603 B
+RB BUILDING, PORTOBELLO DOCK
+Architects ZAP Architecture
+365 High Street, London, E15 4QZ Date 26.01.2022 Scale 1:50 at A3
+T: 020 37614996 E: info@zaparchitecture.com
+CCopyright ZAP Architecture Ltd. Registered in England number: 08413192 Registered address: 369 High St, London E15 4QZ Use Figured Dimensions Only. All Dimensions to be checked on site. Original Drawing Size A3 (L) 22
+
+--- PDF page 26 ---
+Disclaimer - Use of this Information
+UNCONTROLLED INFORMATION
+PROPOSED WINDOW SCHEDULE
+This dwg document is an uncontrolled version
+issued to enable the recipient to use this
+information at their own risk.
+The issuer accepts no liability for any such use.
+Design development is ongoing and so may affect
+Window this dwg uncontrolled information.
+W9 W10 W11 W12 For controlled information refer to formally issued
+drawings and documents.
+USE AT RECIPIENT'S RISK ONLY
+Name
+It is the duty of the recipients of electronic
+transmissions to be aware that their system may
+EXISTING EXISTING EXISTING EXISTING be corrupted by the opening of any such
+transmission and that they be satisfied that
+measures are in place to prevent such an
+occurrence.
+No responsibility or liability whatsoever will be
+accepted by ZAP if the recipient’s computer
+system is corrupted by information transmitted
+from ZAP computers and/or for any delays or
+other losses arising out of or caused by
+transmission.
+Viruses: Although we have taken steps to ensure
+that this e-mail and attachments are free from any
+virus, we advise that in keeping with good
+computing practice the recipient should ensure
+they are actually virus free.
+Confidentiality: This information is intended for the
+named recipients only and may be confidential. If
+it has come to you in error you must take no
+action based on the contents, nor must you copy
+or show them to anyone; please notify ZAP and
+highlight the error.
+Please note that we work natively in AutoCAD
+which produces dwg format drawings and we are
+aware that line styles do not convert correctly
+between dwg and dgn formats. We therefore
+cannot guarantee the completeness or accuracy
+of the information in the issued dwgs files and
+therefore the issued pdfs should always be used
+as a reference for the validity and accuracy of this
+information.
+The contents of these drawings have been
+prepared solely for their use on this project and no
+other person or organisation should place reliance
+upon this information.
+Finish Floor Level
+Quantity Creche (FF) Creche (FF)
+1 Nursery 2 (GF) 14 6 5 Nursery 3 Common Room (FF)
+Location Jungle Gym 1 (SF) Jungle Gym 1 (SF)
+Dimension 2360mm(H) x 1735mm(W) 1435mm(H) x 1350mm(W) 1445mm(H) x 665mm(W) 2295mm(H) x 1140mm(W)
+White Painted Timber Frame White Painted Timber Frame White Painted Timber Frame White Painted Timber Frame
+Specification
+Fixed Window with Internal Double Casement Window Window with Internal Perspex Fixed Window with Internal
+Perspex Screen with Internal Perspex Screen Screen Perspex Screen
+Window
+W13 W14 W15 W16
+Name
+EXISTING EXISTING EXISTING EXISTING
+All survey information inherited and carried out by:
+ICELABZ
+53 The Meadow Way, HA3 7BP
+tel: 0203 744 3020
+email: info@icelabz.co.uk
+ZAP Architecture Ltd cannot be held
+responsible as to the accuracy of this
+survey information
+Finish Floor Level
+Quantity Jungle Gym 2 (SF)
+1 Nursery 3 Room 1 (FF) 9 Studio 1 & 2 (FF) 1 Studio 2 (FF) 19
+Location Cinema, Library, Lounge (TF)
+Dimension 1890mm(H) x 1860mm(W) 1470mm(H) x 1350mm(W) 1490mm(H) x 2225mm(W) 1095mm(H) x 1330mm(W)
+PROPOSED
+White Painted Timber Frame White Painted Timber Frame White Painted Timber Frame Timber Painted Timber Frame
+Specification
+Fixed Window with Internal Double Casement Window Fixed Window Fixed Window PLANNING
+Perspex Screen
+- Work Package Cost Check Info/Briefing Tender Contract Construction 1 D 7 a . t 0 e 1.2022 A Revision P D r e o s p c o ri s p e ti d o n Window Schedule Drawn by Date Ref. Revision Drawn by Project JAEGOS HOUSE II Project Code Drawing Number Rev.
+26.01.2022 B Changes in specification of windows - all windows are white painted timber frame Subject PROPOSED DOOR AND WINDOW SCHEDULE
+KENSAL BUILDING, PORTOBELLO DOCK 2117 604 B
+RB BUILDING, PORTOBELLO DOCK
+Architects ZAP Architecture
+365 High Street, London, E15 4QZ Date 26.01.2022 Scale 1:50 at A3
+T: 020 37614996 E: info@zaparchitecture.com
+CCopyright ZAP Architecture Ltd. Registered in England number: 08413192 Registered address: 369 High St, London E15 4QZ Use Figured Dimensions Only. All Dimensions to be checked on site. Original Drawing Size A3 (L)
+23
+
+--- PDF page 27 ---
+Disclaimer - Use of this Information
+UNCONTROLLED INFORMATION
+PROPOSED WINDOW SCHEDULE
+This dwg document is an uncontrolled version
+issued to enable the recipient to use this
+information at their own risk.
+The issuer accepts no liability for any such use.
+Design development is ongoing and so may affect
+Window this dwg uncontrolled information.
+W17 W18 W19 W20 For controlled information refer to formally issued
+drawings and documents.
+USE AT RECIPIENT'S RISK ONLY
+Name
+It is the duty of the recipients of electronic
+transmissions to be aware that their system may
+EXISTING EXISTING EXISTING EXISTING be corrupted by the opening of any such
+transmission and that they be satisfied that
+measures are in place to prevent such an
+occurrence.
+No responsibility or liability whatsoever will be
+accepted by ZAP if the recipient’s computer
+system is corrupted by information transmitted
+from ZAP computers and/or for any delays or
+other losses arising out of or caused by
+transmission.
+Viruses: Although we have taken steps to ensure
+that this e-mail and attachments are free from any
+virus, we advise that in keeping with good
+computing practice the recipient should ensure
+they are actually virus free.
+Confidentiality: This information is intended for the
+named recipients only and may be confidential. If
+it has come to you in error you must take no
+action based on the contents, nor must you copy
+or show them to anyone; please notify ZAP and
+highlight the error.
+Please note that we work natively in AutoCAD
+which produces dwg format drawings and we are
+aware that line styles do not convert correctly
+between dwg and dgn formats. We therefore
+cannot guarantee the completeness or accuracy
+of the information in the issued dwgs files and
+therefore the issued pdfs should always be used
+as a reference for the validity and accuracy of this
+information.
+The contents of these drawings have been
+prepared solely for their use on this project and no
+other person or organisation should place reliance
+upon this information.
+Finish Floor Level
+Quantity
+5 Jungle Gym 2 (SF) 1 Nursery 3 (FF) 1 Jungle Gym 2 (SF) 1 Co-Working Staircase (SF)
+Location
+Dimension 1095mm(H) x 1330mm(W) 3530mm(H) x 1610mm(W) 3510mm(H) x 2320mm(W) 2920mm(H) x 1340mm(W)
+All survey information inherited and carried out by:
+White Painted Timber Frame White Painted Timber Frame White Painted Timber Frame White Painted Timber Frame
+Specification ICELABZ
+Fixed Window with Privacy Film Fixed Window with Internal Fixed Window Fixed Window 53 The Meadow Way, HA3 7BP
+tel: 0203 744 3020
+Perspex Screen email: info@icelabz.co.uk
+ZAP Architecture Ltd cannot be held
+responsible as to the accuracy of this
+survey information
+PROPOSED
+PLANNING
+- Work Package Cost Check Info/Briefing Tender Contract Construction 1 D 7 a . t 0 e 1.2022 A Revision P D r e o s p c o ri s p e ti d o n Window Schedule Drawn by Date Ref. Revision Drawn by Project JAEGOS HOUSE II Project Code Drawing Number Rev.
+26.01.2022 B Changes in specification of windows - all windows are white painted timber frame Subject PROPOSED DOOR AND WINDOW SCHEDULE
+KENSAL BUILDING, PORTOBELLO DOCK 2117 605 B
+RB BUILDING, PORTOBELLO DOCK
+Architects ZAP Architecture
+365 High Street, London, E15 4QZ Date 26.01.2022 Scale 1:50 at A3
+T: 020 37614996 E: info@zaparchitecture.com
+CCopyright ZAP Architecture Ltd. Registered in England number: 08413192 Registered address: 369 High St, London E15 4QZ Use Figured Dimensions Only. All Dimensions to be checked on site. Original Drawing Size A3 (L) 24
+
+--- PDF page 28 ---
+Disclaimer - Use of this Information
+UNCONTROLLED INFORMATION
+PROPOSED WINDOW SCHEDULE
+This dwg document is an uncontrolled version
+issued to enable the recipient to use this
+information at their own risk.
+The issuer accepts no liability for any such use.
+Design development is ongoing and so may affect
+Window this dwg uncontrolled information.
+W21 W22 W23 W24 For controlled information refer to formally issued
+drawings and documents.
+USE AT RECIPIENT'S RISK ONLY
+Name
+It is the duty of the recipients of electronic
+transmissions to be aware that their system may
+EXISTING EXISTING EXISTING EXISTING be corrupted by the opening of any such
+transmission and that they be satisfied that
+measures are in place to prevent such an
+occurrence.
+No responsibility or liability whatsoever will be
+accepted by ZAP if the recipient’s computer
+system is corrupted by information transmitted
+from ZAP computers and/or for any delays or
+other losses arising out of or caused by
+transmission.
+Viruses: Although we have taken steps to ensure
+that this e-mail and attachments are free from any
+virus, we advise that in keeping with good
+computing practice the recipient should ensure
+they are actually virus free.
+Confidentiality: This information is intended for the
+named recipients only and may be confidential. If
+it has come to you in error you must take no
+action based on the contents, nor must you copy
+or show them to anyone; please notify ZAP and
+highlight the error.
+Please note that we work natively in AutoCAD
+which produces dwg format drawings and we are
+aware that line styles do not convert correctly
+between dwg and dgn formats. We therefore
+cannot guarantee the completeness or accuracy
+of the information in the issued dwgs files and
+therefore the issued pdfs should always be used
+as a reference for the validity and accuracy of this
+information.
+The contents of these drawings have been
+prepared solely for their use on this project and no
+other person or organisation should place reliance
+upon this information.
+Finish Floor Level
+Quantity
+1 Jungle Gym 2 (SF) 6 Co-Working (SF) 1 Co-Working (SF) 1 Nursery 3 Room 2 (FF)
+Location
+Dimension 945mm(H) x 860mm(W) 1550mm(H) x 1145mm(W) 1515mm(H) x 1875mm(W) 2315mm(H) x 1845mm(W)
+White Painted Timber Frame White Painted Timber Frame White Painted Timber Frame White Painted Timber Frame
+Specification
+Fixed Window Fixed Window Fixed Window Fixed Window with Internal
+Perspex Screen
+All survey information inherited and carried out by:
+ICELABZ
+53 The Meadow Way, HA3 7BP
+tel: 0203 744 3020
+email: info@icelabz.co.uk
+ZAP Architecture Ltd cannot be held
+responsible as to the accuracy of this
+survey information
+PROPOSED
+PLANNING
+- Work Package Cost Check Info/Briefing Tender Contract Construction 1 D 7 a . t 0 e 1.2022 A Revision P D r e o s p c o ri s p e ti d o n Window Schedule Drawn by Date Ref. Revision Drawn by Project JAEGOS HOUSE II Project Code Drawing Number Rev.
+26.01.2022 B Changes in specification of windows - all windows are white painted timber frame Subject PROPOSED DOOR AND WINDOW SCHEDULE
+KENSAL BUILDING, PORTOBELLO DOCK 2117 606 B
+RB BUILDING, PORTOBELLO DOCK
+Architects ZAP Architecture
+365 High Street, London, E15 4QZ Date 26.01.2022 Scale 1:50 at A3
+T: 020 37614996 E: info@zaparchitecture.com
+CCopyright ZAP Architecture Ltd. Registered in England number: 08413192 Registered address: 369 High St, London E15 4QZ Use Figured Dimensions Only. All Dimensions to be checked on site. Original Drawing Size A3 (L)
+25
+
+--- PDF page 29 ---
+PROPOSED NURSERY KITCHEN CUPBOARD
+26
+
+--- PDF page 30 ---
+SECOND FLOOR LEVEL 84.30 m
+CEILING LEVEL
+FIRST FLOOR LEVEL 80.22 m
+27
+7044
+7200
+600
+ELEVATION 4
+NURSERY 3 - PRE-SCHOOL ROOM 1
+2000
+600 600 600 600 600 600 600 600 600 600 600
+0027
+W12 W12
+W13
+SECOND FLOOR LEVEL 84.30 m
+CEILING LEVEL
+FIRST FLOOR LEVEL 80.22 m
+7044
+1701 3600
+567 567 567 600 600 600 600 600 600
+ELEVATION 2
+NURSERY 3 - PRE-SCHOOL ROOM 2
+0002
+1071
+0063
+Disclaimer - Use of this Information
+UNCONTROLLED INFORMATION
+PROPOSED NURSERY 3 - ROOM 1 & 2 (KITCHEN CUPBOARD DETAIL)
+This dwg document is an uncontrolled version
+issued to enable the recipient to use this
+information at their own risk.
+The issuer accepts no liability for any such use.
+Design development is ongoing and so may affect
+this dwg uncontrolled information.
+For controlled information refer to formally issued
+drawings and documents.
+USE AT RECIPIENT'S RISK ONLY
+It is the duty of the recipients of electronic transmissions to be aware that their system may
+be corrupted by the opening of any such
+transmission and that they be satisfied that
+measures are in place to prevent such an
+occurrence.
+No responsibility or liability whatsoever will be
+KITCHEN CUPBOARD UNIT WITH SLIDING PANEL accepted by ZAP if the recipient’s computer
+system is corrupted by information transmitted
+TO BE FIXED TO WALL WITH BRACKET from ZAP computers and/or for any delays or
+other losses arising out of or caused by
+(DOES NOT NEED LISTED BUILDING'S CONSENT) transmission.
+Viruses: Although we have taken steps to ensure
+1 t v h ir a u t s t , h w is e e a -m dv a i i s l e a n th d a a t t i t n a c k h e m ep e in n g ts w a i r t e h f g re o e o d from any
+computing practice the recipient should ensure
+they are actually virus free.
+Confidentiality: This information is intended for the named recipients only and may be confidential. If
+it has come to you in error you must take no 4 ELEVATION 2 a o c r t s io h n o w b a th se e d m o t n o t a h n e y o co n n e t ; e p n le ts a , s n e o n r o m ti u fy s t Z y A o P u a c n o d py
+highlight the error.
+Please note that we work natively in AutoCAD
+which produces dwg format drawings and we are
+aware that line styles do not convert correctly
+3 between dwg and dgn formats. We therefore
+cannot guarantee the completeness or accuracy
+of the information in the issued dwgs files and
+therefore the issued pdfs should always be used
+as a reference for the validity and accuracy of this
+information.
+The contents of these drawings have been prepared solely for their use on this project and no
+other person or organisation should place reliance
+upon this information.
+KEY PLAN 1:100
+W12 W12
+KITCHEN CUPBOARD UNIT WITH SLIDING PANEL
+TO BE FIXED TO WALL WITH BRACKET 1
+(DOES NOT NEED LISTED BUILDING'S CONSENT)
+4 2
+ELEVATION
+3
+All survey information inherited and carried out by:
+ICELABZ
+53 The Meadow Way, HA3 7BP
+tel: 0203 744 3020
+email: info@icelabz.co.uk
+ZAP Architecture Ltd cannot be held
+responsible as to the accuracy of this
+survey information
+EXISTING
+FIRE PLACE
+PROPOSED
+PLANNING
+W24
+KEY PLAN 1:100
+- Work Package Cost Check Info/Briefing Tender Contract Construction 2 D 6 a . t 0 e 1.2022 A Revision P D r e o s p c o ri s p e ti d o n Kitchen Cupboard Detail Drawn by Date Ref. Revision Drawn by Project JAEGOS HOUSE II Project Code Drawing Number Rev.
+03.02.2022 B Nursery 3 Room 2's Kitchen Cupboard Size Reduced Subject PROPOSED KITCHEN CUPBOARD DETAIL
+KENSAL BUILDING, PORTOBELLO DOCK 2117 801 B
+RB BUILDING, PORTOBELLO DOCK
+Architects ZAP Architecture
+365 High Street, London, E15 4QZ Date 03.02.2022 Scale 1:50 at A3
+T: 020 37614996 E: info@zaparchitecture.com
+CCopyright ZAP Architecture Ltd. Registered in England number: 08413192 Registered address: 369 High St, London E15 4QZ Use Figured Dimensions Only. All Dimensions to be checked on site. Original Drawing Size A3 (L)
+
+--- PDF page 31 ---
+PROPOSED CANOPY
+28
+
+--- PDF page 32 ---
+29
+
+--- PDF page 33 ---
+30
+
+--- PDF page 34 ---
+PROPOSED REAR DECKING
+31
+
+--- PDF page 35 ---
+32
+
+--- PDF page 36 ---
+33
+
+--- PDF page 37 ---
+34
+
+--- PDF page 38 ---
+35
+
+--- PDF page 39 ---
+36
+
+--- PDF page 40 ---
+APPENDIX
+37
+
+--- PDF page 41 ---
+K e n s a l B u i l d i n g - S e c o n d F l o o r L o b b y E x i s t i n g S i t e P h o t o
+38
+
+--- PDF page 42 ---
+A R C H I T E C T U R E
+39
